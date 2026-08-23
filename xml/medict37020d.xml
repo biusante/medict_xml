@@ -35602,7 +35602,7 @@
         <dictScrap>
           <etym xml:lang="grc">de χρώμα, couleur, et φορός, qui porte</etym>
         </dictScrap>
-        <sense n="1">Organes en forme de petites vésicules pleines de matière colorante, auxquels sont dus les changements de couleur de la peau des céphalopodes. Ils sont formés d’une paroi propre, homogène, épaisse, élastique, ; entourée de fibres rayonnées contractiles. Larges d’un dixième de millimètre, les chromatophores peuvent, quand les fibres musculaires les dilatent, atteindre un millimètre de diamètre. Ils sont pleins d’un liquide finement granulé, rouge, violet, etc., dont la couleur est due à un corps analogue au principe colorant rouge des plumes découvert par Bogdanow (V. <ref>Zooxanthine</ref> et <ref>Colobation</ref>) ; principe dont les analogies ou les différences avec rhématosine devront être déterminées avant qu’il puisse recevoir un nom d’une manière sûre.</sense>
+        <sense n="1">Organes en forme de petites vésicules pleines de matière colorante, auxquels sont dus les changements de couleur de la peau des céphalopodes. Ils sont formés d’une paroi propre, homogène, épaisse, élastique, ; entourée de fibres rayonnées contractiles. Larges d’un dixième de millimètre, les chromatophores peuvent, quand les fibres musculaires les dilatent, atteindre un millimètre de diamètre. Ils sont pleins d’un liquide finement granulé, rouge, violet, etc., dont la couleur est due à un corps analogue au principe colorant rouge des plumes découvert par Bogdanow (V. <ref target="zooxanthine">Zooxanthine</ref> et <ref target="coloration">Coloration</ref>) ; principe dont les analogies ou les différences avec rhématosine devront être déterminées avant qu’il puisse recevoir un nom d’une manière sûre.</sense>
       </entry>
       <entry xml:id="chromatopseudopsie">
         <form><orth>Chromatopseudopsie</orth>. s. f.</form>
@@ -35616,7 +35616,7 @@
         <dictScrap>
           <etym xml:lang="grc">de χρώμα, couleur, et ούρον, urine</etym>
         </dictScrap>
-        <sense n="1">Émission d’urine colorée anormalement. V. <ref target="indican">Indican</ref> et URROSACINE.</sense>
+        <sense n="1">Émission d’urine colorée anormalement. V. <ref target="indican">Indican</ref> et <ref target="urrosacine">Urrosacine</ref>.</sense>
       </entry>
       <entry xml:id="chrome">
         <form><orth>Chrome</orth>, s. m.</form>
@@ -35681,7 +35681,7 @@
         <dictScrap>
           <etym xml:lang="grc">de χρώμα, couleur</etym>
         </dictScrap>
-        <sense n="1">Synonyme proposé de <hi>chlorophylle</hi> (de Candolle).</sense>
+        <sense n="1">Synonyme proposé de <ref type="syn">chlorophylle</ref> (de Candolle).</sense>
       </entry>
       <entry xml:id="chronicité">
         <form><orth>Chronicité</orth>, s. f.</form>
@@ -35695,11 +35695,11 @@
         <form><orth>Chronique</orth>, adj.</form>
         <dictScrap>
           <foreign xml:lang="lat">chronicus</foreign>
+          <foreign resp="#FR" xml:lang="grc">χρονικὸς</foreign>
           <foreign xml:lang="deu">chronisch</foreign>
-          <foreign xml:lang="eng">chronie</foreign>
+          <foreign xml:lang="eng">chronic</foreign>
           <foreign xml:lang="ita">cronico</foreign>
           <foreign xml:lang="spa">cronico</foreign>
-          <foreign resp="#FR" xml:lang="grc">χρονικὸς</foreign>
         </dictScrap>
         <sense n="1">Se dit des maladies qui parcourent lentement leurs périodes : c’est l’opposé <hi>d’aigu</hi>. V. <ref target="maladie">Maladie</ref>.</sense>
       </entry>
@@ -35708,7 +35708,7 @@
         <dictScrap>
           <etym xml:lang="grc">de χρονίζειν, durer</etym>
         </dictScrap>
-        <sense n="1">Synonyme proposé <hi>d’officinal</hi>, pour désigner tout médicament susceptible d’être conservé plus ou moins longtemps, et que l’on doit trouver tout préparé dans les officines (Ché- reau).</sense>
+        <sense n="1">Synonyme proposé d'<ref type="syn">officinal</ref>, pour désigner tout médicament susceptible d’être conservé plus ou moins longtemps, et que l’on doit trouver tout préparé dans les officines (Ché- reau).</sense>
       </entry>
       <entry xml:id="chronizoospores">
         <form><orth>Chronizoospores</orth>.</form>
@@ -35719,11 +35719,11 @@
         <dictScrap>
           <etym xml:lang="grc">de χρόνος, temps, période, et de γυνή, femme</etym>
         </dictScrap>
-        <sense n="1">Synonyme de <hi>règles, menstruation</hi>.</sense>
+        <sense n="1">Synonyme de <ref type="syn">règles</ref>, <ref type="syn">menstruation</ref>.</sense>
       </entry>
       <entry xml:id="chronologie_médicale">
         <form><orth>Chronologie médicale</orth>.</form>
-        <sense n="1">De même qu’il y a une <ref>géographie médicale</ref> (V. ce mot), il y a aussi une <hi>chronologie médicale</hi>. ' Apisi la <ref>maladie cardiaque</ref> de l’antiquité (V. ce mot) paraît ne plus exister. La lèpre tuberculeuse, épidémique dans l’Occident durant le moyen âge, y a complètement cessé, La peste à bubon a été à peu près aussi fréquente en France, en Angleterre, en
+        <sense n="1">De même qu’il y a une <xr><ref target="géographie">géographie</ref> médicale</xr> (V. ce mot), il y a aussi une <hi>chronologie médicale</hi>. ' Apisi la <xr><ref target="maladie">maladie</ref> cardiaque</xr> de l’antiquité (V. ce mot) paraît ne plus exister. La lèpre tuberculeuse, épidémique dans l’Occident durant le moyen âge, y a complètement cessé, La peste à bubon a été à peu près aussi fréquente en France, en Angleterre, en
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=313" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0313/full/full/0/default.jpg" n="0299"/>
            Allemagne, durant le <num>xvᵉ</num> siècle, le <num>xviᵉ</num> et une partie du xvnᵉ, qu’elle l’est présentement en Égypte et en Syrie. Le choléra asiatique a fait en 1832 son apparition parmi nous V. <ref target="choléra">Choléra</ref>. La variole ne semble pas avoir été connue de l’antiquité, et la première mention en est faite dans le <num>viᵉ</num> siècle de l’ère chrétienne. L’étude des épidémies est beaucoup trop peu avancée, pour qu’on puisse distinguer s’il y a une liaison, et quelle liaison, entre l’état des sociétés et les épidémies qui y naissent.</sense>
       </entry>
@@ -35731,6 +35731,7 @@
         <form><orth>Chrysalide</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">chrysallis</foreign>
+          <foreign resp="#FR" xml:lang="grc">χρυσαλλὶς</foreign>
           <etym xml:lang="grc">de χρυσές, or</etym>
           <foreign xml:lang="deu">Chrysalide</foreign>
           <foreign xml:lang="deu">Puppe</foreign>
@@ -35738,7 +35739,6 @@
           <foreign xml:lang="ita">aurelia</foreign>
           <foreign xml:lang="ita">crisalide</foreign>
           <foreign xml:lang="spa">crisalida</foreign>
-          <foreign resp="#FR" xml:lang="grc">χρυσαλλὶς</foreign>
         </dictScrap>
         <sense n="1">Nymphe des lépidoptères, forme . que prennent ces insectes pour passer de l’état de chenille à celui de papillon. V. <ref target="lépidoptères">Lépidoptères</ref>.</sense>
       </entry>
@@ -35747,7 +35747,7 @@
         <dictScrap>
           <etym xml:lang="grc">de χρυσός, or, et άμμος, sable</etym>
         </dictScrap>
-        <sense n="1">— <term>Acide chrysamminique hydraté</term> (<hi>poly chromique, aloétique</hi>, ou <hi>amer d’aloès artificiel</hi>). Corps obtenu en même temps que l’acide nitro- picrinique, par action de l’acide nitrique sur l’aloès (HOC¹⁷HO⁴,2AzO⁴). Il est d’un jaune verdâtre, cristallin, lamelleux, à peine soluble dans l’eau, et pourtant la colorant en rouge ; très-amer ; soluble dans les acides minéraux, l’alcool et l’éther.</sense>
+        <sense n="1">— <term>Acide chrysamminique hydraté</term> (<ref type="syn"><ex>acide</ex> polychromique</ref>, <ref type="syn"><ex>acide</ex> aloétique</ref>, ou <ref>amer d’aloès artificiel</ref>). Corps obtenu en même temps que l’acide nitro- picrinique, par action de l’acide nitrique sur l’aloès (HOC¹⁷HO⁴,2AzO⁴). Il est d’un jaune verdâtre, cristallin, lamelleux, à peine soluble dans l’eau, et pourtant la colorant en rouge ; très-amer ; soluble dans les acides minéraux, l’alcool et l’éther.</sense>
       </entry>
       <entry xml:id="chrysanilique">
         <form><orth>Chrysanilique</orth> (<rs>Acide</rs>)</form>
@@ -35758,7 +35758,7 @@
       </entry>
       <entry xml:id="chrysenase">
         <form><orth>Chrysenase</orth>. s. f.</form>
-        <sense n="1">— <term>Nitrite dechrysenase</term>. V. <ref target="nitrite">Nitrite</ref>.</sense>
+        <sense n="1">— <term>Nitrite de chrysenase</term>. V. <ref target="nitrite">Nitrite</ref>.</sense>
       </entry>
       <entry xml:id="chrysène">
         <form><orth>Chrysène</orth>. s. m.</form>
@@ -35771,7 +35771,7 @@
           <etym xml:lang="grc">de χρυσός, or</etym>
           <foreign xml:lang="ita">criside</foreign>
         </dictScrap>
-        <sense n="1">Genre d’insectes hyménoptères d’une belle couleur rouge bleu brillante, nommée vulgairement <hi>guêpe dorée</hi>. Quelques espèces sont indiquées à tort comme douées de propriétés analogues à celles des cantharides.</sense>
+        <sense n="1">Genre d’insectes hyménoptères d’une belle couleur rouge bleu brillante, nommée vulgairement <ref type="syn">guêpe dorée</ref>. Quelques espèces sont indiquées à tort comme douées de propriétés analogues à celles des cantharides.</sense>
       </entry>
       <entry xml:id="chrysides">
         <form><orth>Chrysides</orth>. s. m. pl.</form>
@@ -35783,11 +35783,11 @@
       <entry xml:id="chrysocolle">
         <form><orth>Chrysocolle</orth>, s. f.</form>
         <dictScrap>
+          <foreign resp="#FR" xml:lang="grc">χρυσόκολλα</foreign>
           <etym xml:lang="grc">de χρυσός, or, et κόλλα, colle</etym>
           <foreign xml:lang="eng">goldsolder</foreign>
           <foreign xml:lang="ita">crisocolla</foreign>
           <foreign xml:lang="spa">crisocola</foreign>
-          <foreign resp="#FR" xml:lang="grc">χρυσόκολλα</foreign>
         </dictScrap>
         <sense n="1">Dans les arts, le borax dont on se sert pour souder les métaux.</sense>
       </entry>
@@ -35797,17 +35797,16 @@
       </entry>
       <entry xml:id="chrysolépique">
         <form><orth>Chrysolépique</orth>.</form>
-        <sense n="1">V. <ref>Plcrique</ref>..</sense>
+        <sense n="1">V. <ref target="picrique">Picrique</ref>..</sense>
       </entry>
       <entry xml:id="chrysopée">
         <form><orth>Chrysopée</orth>. s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">chrysopœa</foreign>
-          <etym>faire;</etym>
+          <etym xml:lang="grc">χρυσὸς + ποιεῖν, faire</etym>;
           <foreign xml:lang="deu">Goldmacherkunst</foreign>
           <foreign xml:lang="ita">crisopea</foreign>
           <foreign xml:lang="spa">crisopeya</foreign>
-          <foreign resp="#FR" xml:lang="grc">χρυσὸς + ποιεῖν</foreign>
         </dictScrap>
         <sense n="1">Art de faire de l’or, alchimie.</sense>
       </entry>
@@ -35847,16 +35846,16 @@
       </entry>
       <entry xml:id="chute">
         <form><orth>Chute</orth>, s. f.</form>
-        <sense n="1">En physique, <hi>chute des graues</hi> V. <ref target="grave">Grave</ref>.</sense>
-        <sense>== En médecine : la <hi>chute des cheveux</hi> [<hi>defluvium capillorum</hi>, all. <hi>Ausfallen</hi>] (V. <ref target="cheveu">Cheveu</ref>); la <hi>chute d’une eschare</hi> [<hi>escharœsolutio</hi>], etc.</sense>
-        <sense>== En chirurgie, le mot <hi>chute</hi> est souvent rendu en latin par <hi>prolapsus</hi>.</sense>
+        <sense n="1">En physique, <term>chute des graves</term> V. <ref target="grave">Grave</ref>.</sense>
+        <sense>== En médecine : la <term>chute des cheveux</term> [<foreign xml:lang="lat">defluvium capillorum</foreign>, all. <foreign xml:lang="deu">Ausfallen</foreign>] (V. <ref target="cheveu">Cheveu</ref>); la <term>chute d’une eschare</term> [<foreign xml:lang="lat">escharæ solutio</foreign>], etc.</sense>
+        <sense>== En chirurgie, le mot <term>chute</term> est souvent rendu en latin par <foreign xml:lang="lat">prolapsus</foreign>.</sense>
         <sense>— <term>Chute du cordon ombilical</term>. V. <ref target="ombilical">Ombilical</ref> et <ref target="prolapsus">Prolapsus</ref>.</sense>
         <sense>— <term>Chute de la luette</term>. V. <ref target="luette">Luette</ref>.</sense>
         <sense>— <term>Chute du rectum</term>. V. <ref target="exanie">Exanie</ref>.</sense>
         <sense>— <term>Chute de l’utérus</term>.</sense>
         <sense>— V. <ref target="hystéroptose">Hystéroptose</ref>.</sense>
-        <sense>— <term>Chute de la paupière</term>. V. <ref>Buépharoptose</ref>.</sense>
-        <sense>— <term>Chiite du vagin</term>. V. <ref target="élytroptose">Élytroptose</ref>.</sense>
+        <sense>— <term>Chute de la paupière</term>. V. <ref target="blépharoptose">Blépharoptose</ref>.</sense>
+        <sense>— <term>Chute du vagin</term>. V. <ref target="élytroptose">Élytroptose</ref>.</sense>
       </entry>
       <entry xml:id="chyazique">
         <form><orth>Chyazique</orth>. adj.</form>
@@ -35872,7 +35871,7 @@
           <foreign xml:lang="lat">chylaris</foreign>
           <foreign xml:lang="spa">quilar</foreign>
         </dictScrap>
-        <sense n="1">Qui est relatif au chyle. On dit plutôt <hi>chyleux</hi>.</sense>
+        <sense n="1">Qui est relatif au chyle. On dit plutôt <ref type="syn">chyleux</ref>.</sense>
       </entry>
       <entry xml:id="chyle">
         <form><orth>Chyle</orth>, s. m.</form>
@@ -35900,7 +35899,7 @@
         <sense>— <term>Fluide chyleux</term>. Humeur qui ressemble au chyle.</sense>
         <sense>— <term>Sang chyleux</term>. V. <ref target="piarrhémie">Piarrhémie</ref>.</sense>
         <sense>— <term>Urines chyleuses</term>. V. <ref target="chylurie">Chylurie</ref> et <ref target="urine">Urine</ref>.</sense>
-        <sense>— <term>Vaisseaux chyleux<hi>, ou mieux </hi>chylifères</term>. V. ce mot.</sense>
+        <sense>— <term>Vaisseaux chyleux</term>, ou mieux <xr><ex>vaisseaux</ex> <ref target="chylifère">chylifères</ref></xr>. V. ce mot.</sense>
       </entry>
       <entry xml:id="chylifère">
         <form><orth>Chylifère</orth>, adj.</form>
@@ -35913,7 +35912,7 @@
           <foreign xml:lang="ita">chilifero</foreign>
           <foreign xml:lang="spa">quilifero</foreign>
         </dictScrap>
-        <sense n="1">— <term>Vaisseaux chylifèves <hi>ou</hi> veines lactées</term>, vaisseaux lymphatiques des intestins, ceux qui s’emparent du chyle pendant l’acte de la digestion et le conduisent au canal thoracique. Bien qu’ils diffèrent, par leurs usages, des autres vaisseaux lymphatiques,
+        <sense n="1">— <term>Vaisseaux chylifères</term> ou <ref type="syn">veines lactées</ref>, vaisseaux lymphatiques des intestins, ceux qui s’emparent du chyle pendant l’acte de la digestion et le conduisent au canal thoracique. Bien qu’ils diffèrent, par leurs usages, des autres vaisseaux lymphatiques,
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=314" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0314/full/full/0/default.jpg" n="0300"/>
           <graphic url="BIUSante_37020d_200-300-img/image29.jpeg"/> ils leur ressemblent quant à l’organisation et à la dis- 1 position anatomique. Les vaisseaux chylifères, entrevus en 1621 par Aselli, qui n’en connut pas les fonctions, sont très-nombreux dans l’intestin grêle, et rares dansle gros intestin. A la sortie de l’intestin grêle, ils sont logés dans l’épaisseur du mésentère, entre les deux feuillets du péritoine qui le constituent. Ils aboutissent d’abord aux nombreux ganglions lymphatiques (<hi>ganglions</hi> ou mieux <hi>glandes mésentériques</hi>) qu’ils rencontrent à 27 millimètres du bord adhérent de l’intestin ; interrompus ensuite de distance en distance par des ganglions semblables, ils vont se jeter dans le <hi>réservoir de Pecquet</hi> par deux ou trois grosses branches (Fig. 84, C).</sense>
         <sense>— Fig. 84. Réservoir de Pecquet ou citerne du chyle et canal thoracique distendus par le mercure, avec les veines dans lesquelles se jettentles lymphatiques (celles-ci ont été représentées sans avoir reçu d’injection). MM, trait indiquant la ligne médiane du corps. GG, ganglions lymphatiques lombaires envoyant leurs efférents dans le réservoir. P, le <hi>réservoir</hi>; plein de mercure, il reste un peu déprimé, d’une largeur qui peut varier de 5 à 17 millimètres d’un sujet à l’autre, s’il n’est pas représenté par un plexus ou un simple confluent de quatre à six conduits. C, tronc venant des glandes lymphatiques chylifères qui se jettent dans la citerne. LL, troncs lymphatiques se jetant dans le canal. TT, le canal thoracique, toruleux, place à droite, passant à gauche, et renflé ici à son origine. BT, dilatation assez fréquente près de son abouchement. A, abouchement du canal dans la veine sous-clavière gauche (S), après avoir décrit une courbe anguleuse. J, veine jugulaire interne coupée, près de l’abouchement de laquelle a lieu celui du canal. O, lymphatiques efférents venant des glandes axillaires. QQ, autres venant de celles du cou. DD, deux des petits ganglions intercostaux dont les efférents vont dans le canal. U, N, lymphatiques efférents des glandes lymphatiques de l’épaule droite formant la <hi>grande veine lymphatique</hi>. V, abouchement de celle-ci dans la veine sous-clavière droite (F). H, lymphatique efférent des ganglions du cou se jettant isolément (K) près de la jugulaire interne droite (I). Z, abouchement de la grande veine azygos derrière la veine cave supérieure. X Y, origines lombaires de l’azygos. R R, la petite azygos passant de gauche à droite, derrière le canal, pour se jeter dans la grande azygos (Ch. Robin).</sense>
@@ -35927,10 +35926,10 @@
           <foreign xml:lang="deu">Milchsaftbereitung</foreign>
           <foreign xml:lang="eng">chylification</foreign>
           <foreign xml:lang="ita">chilificazione</foreign>
-          <foreign xml:lang="spa">quili ficacion</foreign>
+          <foreign xml:lang="spa">quilificacion</foreign>
         </dictScrap>
         <sense n="1">Élaboration qu’éprouve le chyme dans l’intestin grêle, particulièrement par l’influence du suc pancréatique, élaboration qui rend ce chyme apte à fournir le <hi>chyle</hi>.</sense>
-        <sense>— Action par laquelle la graisse du chyme arrive dans les vaisseaux chylifères, et qui a pour résultat la formation du chyle. Dans ce dernier sens, <hi>chylification</hi> est synonyme <hi>dechylose</hi>. L’absorption chyleuse commence à la fin du duodénum, continue dans toute la longueur du jéjunum, et cesse à la fin de l’iléon. V. <ref target="pénétration">Pénétration</ref>.</sense>
+        <sense>— Action par laquelle la graisse du chyme arrive dans les vaisseaux chylifères, et qui a pour résultat la formation du chyle. Dans ce dernier sens, <hi>chylification</hi> est synonyme de <ref type="syn">chylose</ref>. L’absorption chyleuse commence à la fin du duodénum, continue dans toute la longueur du jéjunum, et cesse à la fin de l’iléon. V. <ref target="pénétration">Pénétration</ref>.</sense>
       </entry>
       <entry xml:id="chylopoèse">
         <form><orth>Chylopoèse</orth>, et non <orth>Chylopoièse</orth>. s. f.</form>
@@ -35938,7 +35937,7 @@
           <foreign xml:lang="lat">chylopoesis</foreign>
           <etym xml:lang="grc">de ypdhz, suc, chyle, et ποιεϊν, faire</etym>
         </dictScrap>
-        <sense n="1">Synonyme de <hi>chylification</hi>.</sense>
+        <sense n="1">Synonyme de <ref type="syn">chylification</ref>.</sense>
       </entry>
       <entry xml:id="chylopoétique">
         <form><orth>Chylopoétique</orth> et non <orth>Chylopoiétique</orth>. adj.</form>
@@ -35964,7 +35963,7 @@
         </dictScrap>
         <sense n="1">Altération consistant en la présence de la graisse en
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=315" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0315/full/full/0/default.jpg" n="0301"/>
-           émulsion dans les urines, ce qui a fait croire qu’il pouvait y avoir du lait dans la sécrétion urinaire (<hi>galacturie</hi>). Mais cette graisse diffère du beurre, et les autres principes du lait ne l’accompagnent pas. La coloration blanche de l’urine par la graisse en émulsion est assez commune dans les pays chauds (V. <ref target="urine">Urine</ref> et <ref target="hématurie">Hématurie</ref>). Elle tient au passage, dans l’urine, des fines gouttes de graisse que le sérum du sang a normalement en suspension, et qui le rendent opalin ou <hi>laiteux</hi> à un certain moment de la digestion. L’état de l’urine dit <hi>chylurie</hi> est un symptôme de la <ref>piarrhémie</ref> (V. ce mot), mais non d’une affection du rein. Elle indique un état du foie produisant en excès et d’une manière continue les substances grasses et azotées qui donnent au sérum du sang son état laiteux. Les granulations en suspension dans l’<hi>urine laiteuse</hi> ne.se rassemblent ni ne se déposent dans Furine par le repos. Elles sont d’une finesse excessive, trop petites pour paraître jaunes au centre, comme les gouttes ordinaires de graisse vues au microscope. Elles sont, par leur aspect et leurs réactions, tout à fait semblables à celles qu’on trouve dans le sérum du <hi>sang laiteux</hi>. C’est surtout dans les pays chauds, où abondent les maladies du foie, qu’on trouve cet état des urines. V. <ref target="piarrhémie">Piarrhémie</ref> et <ref target="sang">Sang</ref>.</sense>
+           émulsion dans les urines, ce qui a fait croire qu’il pouvait y avoir du lait dans la sécrétion urinaire (<hi>galacturie</hi>). Mais cette graisse diffère du beurre, et les autres principes du lait ne l’accompagnent pas. La coloration blanche de l’urine par la graisse en émulsion est assez commune dans les pays chauds (V. <ref target="urine">Urine</ref> et <ref target="hématurie">Hématurie</ref>). Elle tient au passage, dans l’urine, des fines gouttes de graisse que le sérum du sang a normalement en suspension, et qui le rendent opalin ou <hi>laiteux</hi> à un certain moment de la digestion. L’état de l’urine dit <hi>chylurie</hi> est un symptôme de la <ref target="piarrhémie">piarrhémie</ref> (V. ce mot), mais non d’une affection du rein. Elle indique un état du foie produisant en excès et d’une manière continue les substances grasses et azotées qui donnent au sérum du sang son état laiteux. Les granulations en suspension dans l’<hi>urine laiteuse</hi> ne.se rassemblent ni ne se déposent dans Furine par le repos. Elles sont d’une finesse excessive, trop petites pour paraître jaunes au centre, comme les gouttes ordinaires de graisse vues au microscope. Elles sont, par leur aspect et leurs réactions, tout à fait semblables à celles qu’on trouve dans le sérum du <hi>sang laiteux</hi>. C’est surtout dans les pays chauds, où abondent les maladies du foie, qu’on trouve cet état des urines. V. <ref target="piarrhémie">Piarrhémie</ref> et <ref target="sang">Sang</ref>.</sense>
       </entry>
       <entry xml:id="chyme">
         <form><orth>Chyme</orth>, s. m.</form>
@@ -36005,7 +36004,7 @@
       <entry xml:id="chynlen">
         <form><orth>Chynlen</orth>. s. m.</form>
         <dictScrap>
-          <etym><hi>choulen, choulin, chouline, chuline, Souline, racine d’or, jaune</hi> ou <hi>amère de la Chine, racine de mungo, foli des Chinois, raiz de mungo, bois de couleuvre</hi> et <hi>racine de Mangouste</hi>, parce que cet animal, dit-on, en mange avant d’attaquer les serpents ou après leur morsure, ce.qui a conduit à l’employer comme antidote universel</etym>
+          <ref type="syn">choulen</ref>, <ref type="syn">choulin</ref>, <ref type="syn">chouline</ref>, <ref type="syn">chuline</ref>, <ref type="syn">souline</ref>, <ref type="syn">racine d’or</ref>, <ref type="syn"><ex>racine</ex> jaune</ref> ou <ref type="syn"><ex>racine</ex> amère de la Chine</ref>, <ref type="syn">racine de mungo</ref>, <ref type="syn">foli des Chinois</ref>, <ref type="syn">raiz de mungo</ref>, <ref type="syn">bois de couleuvre</ref> et <ref type="syn">racine de Mangouste</ref>, parce que cet animal, dit-on, en mange avant d’attaquer les serpents ou après leur morsure, ce.qui a conduit à l’employer comme antidote universel</etym>
         </dictScrap>
         <sense n="1">Racine qui paraît appartenir au <hi>Strych- nos colubrina</hi> ou <hi>Ophioxylum Serpentinum</hi>, L., famille des apocynées. On s’en sert dans l’Inde et en Chine contre les fièvres, les coliques, et contre les vomissements, bien qu’elle soit émétique chez certains individus. Souche un peu renflée, annelée ou ondulée, avec de courtes pointes épineuses, terminées par un prolongement cylindrique radiculaire vers l’extrémité opposée aux pétioles des feuilles.</sense>
       </entry>
@@ -36020,7 +36019,7 @@
       </entry>
       <entry xml:id="ciboule">
         <form><orth>Ciboule</orth>, s. f.</form>
-        <sense n="1">Nom vulgaire de l’<hi>ail fistuleux</hi> (<hi>Allium fistulosum</hi>, L.).</sense>
+        <sense n="1">Nom vulgaire de l’<ref type="syn">ail fistuleux</ref> (<foreign xml:lang="lat">Allium fistulosum</foreign>, L.).</sense>
       </entry>
       <entry xml:id="ciboulette">
         <form><orth>Ciboulette</orth>, s. f.</form>
@@ -36030,26 +36029,26 @@
           <foreign xml:lang="ita">cipollina</foreign>
           <foreign xml:lang="spa">cebollino</foreign>
         </dictScrap>
-        <sense n="1">Nom vulgaire de la <hi>civette</hi> {<hi>Allium Schœnoprasum</hi>, L.).</sense>
+        <sense n="1">Nom vulgaire de la <ref type="syn">civette</ref> {<foreign xml:lang="lat">Allium schœnoprasum</foreign>, L.).</sense>
       </entry>
       <entry xml:id="cicatrice">
         <form><orth>Cicatrice</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cicatrix</foreign>
+          <foreign resp="#FR" xml:lang="grc">οὐλὴ</foreign>
           <foreign xml:lang="deu">Narbe</foreign>
           <foreign xml:lang="eng">scar</foreign>
           <foreign xml:lang="ita">cicatrice</foreign>
           <foreign xml:lang="spa">cicatriz</foreign>
-          <foreign resp="#FR" xml:lang="grc">οὐλὴ</foreign>
         </dictScrap>
-        <sense n="1">Tissu qui réunit les so- lutiong de continuité des divers systèmes organiques animaux ou végétaux. On appelle eut la cicatrice des os (V. <ref target="cal">Cal</ref>).-La <hi>cicatrice</hi> résulte du dépôt, entre les lèvres ou à la surface de la plaie, d’une lymphe plastique qui donne naissance à des éléments anatomiques. La marche de la cicatrisation diffère nécessairement suivant que la plaie est avec perte de substance et qu’il y a suppuration, ou qu’au contraire les bords d’une plaie faite par un instrument tranchant sont réunis immédiatement ; néanmoins, au fond, son mode de formation est le même. Dans le premier cas, une plaie simple, qui vient d’être faite, cesse bientôt de fournir du sang ; il se fait pendant quelques heures un suintement séro-sanguinolent; puis la surface de la plaie devient sèche, irrégulière, d’un rouge blafard; il suinte de nouveau un fluide séreux, sanguinolent, un peu visqueux, qui. devient ensuite un peu consistant, jaunâtre, crémeux : c’est du pus. La plaie se couvre de granulations coniques et rouges (V. <xr><ref>Bourgeons</ref> charnus</xr>)·, ses bords, tuméfiés par l’inflammation, se dégorgent et s’affaissent, et leur contour se rapproche du centre de la plaie, qui diminue ainsi d’étendue. Elle est pourvue abondamment de vaisseaux sanguins rampant dans une matière amorphe finement granuleuse, sorte de <hi>blastème</hi> demi-solide dans lequel se voient aussi des fibrilles de tissu cellulaire écartées, entrecroisées, peu onduleuses, et des corps fibro-plastiques. Quand la plaie suppurante est très-étendue ou irrégulière, la cicatrisation est moins régulière aussi, et il se forme· une mince couche épidermique sous forme de pellicule blanchâtre sur les bourgeons charnus les plus saillants, qui se réunissent peu à peu les uns aux autres et avec la pellicule de la circonférence. Les cicatrices^ récentes sont plus ou moins rouges, molles, bleuâtres; elles sont quelquefois : le siège de douleurs, lors des changements atmosphéri- I ques; peu à peu elles deviennent plus sèches et d’un blanc plus ou moins mat. Lorsque les bords d’une plaie ont été réunis immédiatement, la cicatrice n’est que linéaire. V. <xr><ref target="réunion">Réunion</ref> immédiate</xr>.</sense>
-        <sense>— <term>Cicatrice vicieuse</term>. V. <ref>Inodulaire</ref>.</sense>
-        <sense>== En botanique, <hi>cicatrice</hi>, la marque plus ou moins apparente que toute partie articulée d’un végétal, une feuille surtout, laisse, après sa chute, sur l’organe qui la portait.</sense>
+        <sense n="1">Tissu qui réunit les so- lutiong de continuité des divers systèmes organiques animaux ou végétaux. On appelle eut la cicatrice des os (V. <ref target="cal">Cal</ref>).-La <hi>cicatrice</hi> résulte du dépôt, entre les lèvres ou à la surface de la plaie, d’une lymphe plastique qui donne naissance à des éléments anatomiques. La marche de la cicatrisation diffère nécessairement suivant que la plaie est avec perte de substance et qu’il y a suppuration, ou qu’au contraire les bords d’une plaie faite par un instrument tranchant sont réunis immédiatement ; néanmoins, au fond, son mode de formation est le même. Dans le premier cas, une plaie simple, qui vient d’être faite, cesse bientôt de fournir du sang ; il se fait pendant quelques heures un suintement séro-sanguinolent; puis la surface de la plaie devient sèche, irrégulière, d’un rouge blafard; il suinte de nouveau un fluide séreux, sanguinolent, un peu visqueux, qui. devient ensuite un peu consistant, jaunâtre, crémeux : c’est du pus. La plaie se couvre de granulations coniques et rouges (V. <xr><ref target="bourgeon">Bourgeons</ref> charnus</xr>)·, ses bords, tuméfiés par l’inflammation, se dégorgent et s’affaissent, et leur contour se rapproche du centre de la plaie, qui diminue ainsi d’étendue. Elle est pourvue abondamment de vaisseaux sanguins rampant dans une matière amorphe finement granuleuse, sorte de <hi>blastème</hi> demi-solide dans lequel se voient aussi des fibrilles de tissu cellulaire écartées, entrecroisées, peu onduleuses, et des corps fibro-plastiques. Quand la plaie suppurante est très-étendue ou irrégulière, la cicatrisation est moins régulière aussi, et il se forme· une mince couche épidermique sous forme de pellicule blanchâtre sur les bourgeons charnus les plus saillants, qui se réunissent peu à peu les uns aux autres et avec la pellicule de la circonférence. Les cicatrices^ récentes sont plus ou moins rouges, molles, bleuâtres; elles sont quelquefois : le siège de douleurs, lors des changements atmosphéri- I ques; peu à peu elles deviennent plus sèches et d’un blanc plus ou moins mat. Lorsque les bords d’une plaie ont été réunis immédiatement, la cicatrice n’est que linéaire. V. <xr><ref target="réunion">Réunion</ref> immédiate</xr>.</sense>
+        <sense>— <term>Cicatrice vicieuse</term>. V. <ref target="inodulaire">Inodulaire</ref>.</sense>
+        <sense>== En botanique, <term>cicatrice</term>, la marque plus ou moins apparente que toute partie articulée d’un végétal, une feuille surtout, laisse, après sa chute, sur l’organe qui la portait.</sense>
       </entry>
       <entry xml:id="cicatriciel">
         <form><orth>Cicatriciel</orth>, ELLE. adj.</form>
         <sense n="1">Qui appartient à une cicatrice, qui la forme ou en provient.</sense>
-        <sense>— <term>Tissu cicatriciel</term> ou <term>tissu de cicatrice</term>. V. <ref target="inodulaire">Inodulaire</ref>.</sense>
+        <sense>— <term>Tissu cicatriciel</term> ou <ref type="syn">tissu de cicatrice</ref>. V. <ref target="inodulaire">Inodulaire</ref>.</sense>
       </entry>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=316" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0316/full/full/0/default.jpg" n="0302"/>
       <entry xml:id="cicatricule">
@@ -36061,17 +36060,17 @@
           <foreign xml:lang="ita">cicatricula</foreign>
         </dictScrap>
         <sense n="1">Petite cicatrice ; marque blanchâtre, souvent linéaire, que l’on observe sur les membranes séreuses ou muqueuses, ou sur la peau, après des solutions de continuité très-peu étendues ou des éruptions exanthématiques.</sense>
-        <sense>== Tache blanche que l’on voit sur le sommet du jaune (V. <ref target="œuf">Œuf</ref>), lorsque l’on casse un œuf fécondé, et qui contient le rudiment du blastoderme : c’est le <hi>blastoderme</hi> de Pander.</sense>
+        <sense>== Tache blanche que l’on voit sur le sommet du jaune (V. <ref target="œuf">Œuf</ref>), lorsque l’on casse un œuf fécondé, et qui contient le rudiment du blastoderme : c’est le <ref type="syn">blastoderme</ref> de Pander.</sense>
         <sense>== En botanique, trou que le funicule laisse sur la graine des végétaux, après que celle-ci s’en est détachée.</sense>
       </entry>
       <entry xml:id="cicatrisant">
         <form><orth>Cicatrisant</orth>, adj. et s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">cicatricans</foreign>
+          <foreign resp="#FR" xml:lang="grc">ἐπουλωτικὸς</foreign>
           <foreign xml:lang="deu">vernarbend</foreign>
           <foreign xml:lang="ita">cicatrizzante</foreign>
           <foreign xml:lang="spa">cicatrizante</foreign>
-          <foreign resp="#FR" xml:lang="grc">ἐπουλωτικὸς</foreign>
         </dictScrap>
         <sense n="1">S’est dit des topiques auxquels on supposait la propriété de hâter ou de favoriser la cicatrisation des plaies. Il n’y a pas de <hi>cicatrisants</hi> proprement dits, et les moyens à employer pour accélérer la cicatrisation doivent varier suivant la nature des tissus lésés et suivant le mode de production et l’état de la plaie.</sense>
       </entry>
@@ -36079,10 +36078,10 @@
         <form><orth>Cicatrisation</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cicatricatio</foreign>
+          <foreign resp="#FR" xml:lang="grc">ἐπούλωσις</foreign>
           <foreign xml:lang="deu">Vernarbung</foreign>
           <foreign xml:lang="ita">cicatrizzazione</foreign>
           <foreign xml:lang="spa">cicatrizacion</foreign>
-          <foreign resp="#FR" xml:lang="grc">ἐπούλωσις</foreign>
         </dictScrap>
         <sense n="1">Formation d’une cicatrice; phénomènes qui ont lieu à la surface d’une plaie en voie de guérison. V. <ref target="cicatrice">Cicatrice</ref>.</sense>
       </entry>
@@ -36095,48 +36094,49 @@
       </entry>
       <entry xml:id="cicutaire">
         <form><orth>Cicutaire</orth>. s. f.</form>
-        <sense n="1">— <term>Cicutaire aquatique</term>. V. <xr><ref target="ciguë">Ciguë</ref> viveuse</xr>.\</sense>
+        <sense n="1">— <term>Cicutaire aquatique</term>. V. <xr><ref target="ciguë"><choice><sic>Cigue</sic><corr>Ciguë</corr></choice></ref> vireuse</xr>.\</sense>
       </entry>
       <entry xml:id="cicutin">
-        <form><orth>Cicutin</orth>. s. m., ou CICUTINE. s. f.</form>
+        <form><orth>Cicutin</orth>. s. m., ou <orth>Cicutine</orth>. s. f.</form>
         <dictScrap>
           <etym>de <hi>cicuta</hi>, ciguë;</etym>
           <foreign xml:lang="eng">cicutine</foreign>
           <foreign xml:lang="ita">cicutina</foreign>
         </dictScrap>
-        <sense n="1">(Geisecke et Geiger). Alcaloïde particulier dit aussi <ref>conicine</ref>. V. ce mot.</sense>
+        <sense n="1">(Geisecke et Geiger). Alcaloïde particulier dit aussi <ref target="conicine">conicine</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="cidre">
         <form><orth>Cidre</orth>, s. m.</form>
         <dictScrap>
-          <etym xml:lang="grc">de σίκερα, qui signifie toute espèce de liqueur fermentée autre que le <hi>\m;pomaceum</hi></etym>
+          <etym xml:lang="grc">de σίκερα, qui signifie toute espèce de liqueur fermentée autre que le vin</etym>;
+          <foreign xml:lang="lat">pomaceum</foreign>
           <foreign xml:lang="deu">Obstwein</foreign>
           <foreign xml:lang="eng">cider</foreign>
           <foreign xml:lang="ita">sidro</foreign>
           <foreign xml:lang="spa">sidra</foreign>
         </dictScrap>
         <sense n="1">Boisson faite avec le jus des pommes, et aussi quelquefois avec celui des poires ou même des fruits du cormier. Les cidres récents, les gros cidres sucrés.et mousseux se digèrent mal; ils peuvent causer des coliques, des diarrhées et même la dysenterie. Les cidres <hi>parés</hi> sont excitants et causent l’ivresse; ils sont moins agréables, mais salubres. Le cidre peut donner lieu à l’intoxication alcoolique lorsqu’il est pris en excès, bien qu’il ne renferme que de 2 à 4 pour 100 d’alcool.</sense>
-        <sense>— <term>Cidre de poire</term>. V. PoiRÉ.</sense>
+        <sense>— <term>Cidre de poire</term>. V. <ref target="poiré">Poiré</ref>.</sense>
       </entry>
       <entry xml:id="cierge">
         <form><orth>Cierge</orth>, s. m.</form>
         <dictScrap>
-          <etym>cactus</etym>
+          <foreign xml:lang="lat">cactus</foreign>
         </dictScrap>
-        <sense n="1">. Synonyme de <ref>cactier</ref>. V. ce mot.</sense>
+        <sense n="1">. Synonyme de <ref target="cactier">cactier</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="cigale">
         <form><orth>Cigale</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cicada</foreign>
+          <foreign resp="#FR" xml:lang="grc">τέττιξ</foreign>
           <foreign xml:lang="deu">Grille</foreign>
           <foreign xml:lang="eng">cicada</foreign>
           <foreign xml:lang="ita">cicala</foreign>
           <foreign xml:lang="spa">cigarra</foreign>
-          <foreign resp="#FR" xml:lang="grc">τέττιξ</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image1.jpeg"/>
-        <sense n="1">Genre d’insectes hémiptères, homoptères, cicadaires, à trois yeux lisses, six articles aux antennes, dont les mâles seuls portent de chaque côté de la base de l’abdomen un organe spécial à 1 aide duquel ils produisent un bruit particulier, par tension et relâchement alternatifs d’une membrane sèche. Une espèce, la <hi>cigale de l’orne</hi> (<hi>Cicada orni</hi>, L.), vit sur Former ou <hi>frêne à la manne</hi> (V. <ref target="manne">Manne</ref>). On a dit à tort que c’est par piqûre de son écorce qu’elle faisait couler la manne du commerce. La cigale commune est la <hi>Cicada plebeia</hi>, L. (fîg. 85).</sense>
+        <sense n="1">Genre d’insectes hémiptères, homoptères, cicadaires, à trois yeux lisses, six articles aux antennes, dont les mâles seuls portent de chaque côté de la base de l’abdomen un organe spécial à 1 aide duquel ils produisent un bruit particulier, par tension et relâchement alternatifs d’une membrane sèche. Une espèce, la <term>cigale de l’orne</term> (<foreign xml:lang="lat">Cicada orni</foreign>, L.), vit sur Former ou <hi>frêne à la manne</hi> (V. <ref target="manne">Manne</ref>). On a dit à tort que c’est par piqûre de son écorce qu’elle faisait couler la manne du commerce. La cigale commune est la <term xml:lang="lat">Cicada plebeia</term>, L. (fîg. 85).</sense>
       </entry>
       <entry xml:id="cigare_médicinal">
         <form><orth>Cigare médicinal</orth>, s. m.</form>
@@ -36144,28 +36144,28 @@
       </entry>
       <entry xml:id="cigarette">
         <form><orth>Cigarette</orth>, s. f.</form>
-        <sense n="1">V. <ref>Cigare</ref>.</sense>
+        <sense n="1">V. <ref target="cigare">Cigare</ref>.</sense>
         <sense>— <term>Cigarette de camphre</term>. V. <ref target="camphre">Camphre</ref>.</sense>
       </entry>
       <entry xml:id="ciguë">
         <form><orth>Ciguë</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cicuta</foreign>
+          <foreign resp="#FR" xml:lang="grc">κώνειον</foreign>
           <foreign xml:lang="deu">Schierling</foreign>
           <foreign xml:lang="deu">Conium</foreign>
           <foreign xml:lang="eng">conium</foreign>
           <foreign xml:lang="eng">hemlock</foreign>
           <foreign xml:lang="ita">cicuta</foreign>
           <foreign xml:lang="spa">cicuta</foreign>
-          <foreign resp="#FR" xml:lang="grc">κώνειον</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image2.jpeg"/>
-        <sense n="1">Nom sous lequel on confond vulgairement trois plantes ombellifères qu’il importe de distinguer. -1° La <hi>ciguë vireuse</hi> [<hi>ciguë d eau, cicutaire aquatique, Cicuta virosa</hi>, L. <hi>Cicutaria aquatica</hi>, Lamk, all. <hi>Wasserschierling</hi>, angl, <hi>wader-hemlock</hi>, it. <hi>si- cuta virosa</hi>}. Quelquefois confondue avec le <hi>Phellandrium aquaticum</hi>, L., elle a une racine épaisse et charnue, creusée intérieurement de cavités irrégulières {deines d’un suc âcre et laiteux. Sa tige, haute de 65 centimètres à 1 mètre, porte des feuilles composées, grandes, tripennées, à pétioles creux, à folioles étroites et allongées, et à dents de scie aiguës. C’est un poison narcotico-âcre encore plus actif que les autres ciguës. Sa racine a été prise quelquefois pour celle du panais ; elle en diffère par son suc jaune et âcre.-2° La <hi>ciguë</hi> proprement dite, ou <hi>grande ciguë, ciguë commune, ciguë des anciens, ciguë de Socrate, ciguë officinale</hi>, la seule qui doive être employée parles pharmaciens (<hi>Comum maculatum</hi>, L.), est une plante indigène, dont la tige, cylindrique, rameuse, de 1 â 2 mètres de haut, est creuse et marquée extérieurement de taches rougeâtres (fig. 86). Elle croît dans les lieux, incultes. Il faut bien la distinguer du persil, avec lequel on pourrait la confondre quand elle commence à croître. Les taches de sa tige, ses feuilles d’un vert plus foncé, ses involucres po- lyphylles et courts, ses graines presque sphériques et marquées de stries crénelées, son odeur vireuse, fournissent des caractères distinctifs : le persil a au contraire une odeur et une couleur verte agréables, des graines ovales et à stries non crénelées, des involucres très-petits et monopbylles. La grande ciguë est un poison d’autant
+        <sense n="1">Nom sous lequel on confond vulgairement trois plantes ombellifères qu’il importe de distinguer. -1° La <term>ciguë vireuse</term> [<ref type="syn">ciguë d'eau</ref>, <ref type="syn">cicutaire aquatique</ref>, <foreign xml:lang="lat">Cicuta virosa</foreign>, L. <foreign xml:lang="lat">Cicutaria aquatica</foreign>, Lamk, all. <foreign xml:lang="deu">Wasserschierling</foreign>, angl, <foreign xml:lang="eng">water-hemlock</foreign>, it. <foreign xml:lang="ita">sicuta virosa</foreign>}. Quelquefois confondue avec le <hi>Phellandrium aquaticum</hi>, L., elle a une racine épaisse et charnue, creusée intérieurement de cavités irrégulières {deines d’un suc âcre et laiteux. Sa tige, haute de 65 centimètres à 1 mètre, porte des feuilles composées, grandes, tripennées, à pétioles creux, à folioles étroites et allongées, et à dents de scie aiguës. C’est un poison narcotico-âcre encore plus actif que les autres ciguës. Sa racine a été prise quelquefois pour celle du panais ; elle en diffère par son suc jaune et âcre.-2° La <term>ciguë</term> proprement dite, ou <term>grande ciguë</term>, <term>ciguë commune</term>, <term>ciguë des anciens</term>, <term>ciguë de Socrate</term>, <term>ciguë officinale</term>, la seule qui doive être employée parles pharmaciens (<foreign xml:lang="lat">Conium maculatum</foreign>, L.), est une plante indigène, dont la tige, cylindrique, rameuse, de 1 â 2 mètres de haut, est creuse et marquée extérieurement de taches rougeâtres (fig. 86). Elle croît dans les lieux, incultes. Il faut bien la distinguer du persil, avec lequel on pourrait la confondre quand elle commence à croître. Les taches de sa tige, ses feuilles d’un vert plus foncé, ses involucres po- lyphylles et courts, ses graines presque sphériques et marquées de stries crénelées, son odeur vireuse, fournissent des caractères distinctifs : le persil a au contraire une odeur et une couleur verte agréables, des graines ovales et à stries non crénelées, des involucres très-petits et monopbylles. La grande ciguë est un poison d’autant
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=317" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0317/full/full/0/default.jpg" n="0303"/>
            plus actif qu’elle, croît dans un climat plus chaud;.ses effets toxiques paraissent dus à un alcaloïde particulier (<hi>conicine</hi>). Elle est assez fréquemment employée à titre de médicament : classée, parmi les narcotiques, elle agit comme sédative du système nerveux ; elle provoque le sommeil, la transpiration cutanée, la sécrétion urinaire; elle a une action particulière sur le système lymphatique. On l’emploie, mais sans effet, particulièrement contre les engorgements squirrheux, les cancers, les scrofules. On en a obtenu de bons effets contre la phthisie commençante, contre la coqueluche, etc. En général, les extraits de ciguë se donnent d’abord à la dose de 1 déci- gramme en pilules, et l’on répète cette dose deux ou trois fois par jour, en l’augmentant successivement jusqu’à h ou 8 grammes dans les vingt-quatre heures. On fait aussi usage de la racine et des feuilles, soit en cataplasmes, soit à l’intérieur.</sense>
         <graphic url="BIUSante_37020d_301-400-img/image3.jpeg"/>
-        <sense>— 3° La <hi>petite ciguë</hi>, ou <hi>ciguë des jardins</hi> (<hi>Æthusa cynapium</hi>, L.), diffère des autres en ce que sa racine ne contient pas de suc, et que ses semences sont globuleuses, à stries lisses (Fig. 87). Son activité, plus grande que celle de la ciguë ordinaire, en fait un agent thérapeutique puissant, mais dangereux. Elle a été quelquefois confondue avec le persil : de là son nom de <hi>faux persil</hi>; à part l’odeur, il est peut-être difficile de l’en distinguer lorsqu’elle n’est pas en fleur. Les fleurs de l’éthuse sont très-blanches; celles du persil sont d’un jaune verdâtre. La tige de l’éthuse est presque lisse et glauque; celle du persil est cannelée et verte. Les feuilles de la première sont trois fois divisées, à folioles nombreuses, étroites, aiguës; celles du persil ne sont que deux fois divisées, à folioles plus larges, divisées en 3 lobes. D’ailleurs l’odeur du persil est aromatique; celle de l’éthuse, vireuse et nauséabonde. -4° La <hi>ciguë oaphel- landrie aquatique</hi> [<hi>Phellandrium aquaticum</hi>, L.) croît dans l’eau. Sa tige est grosse, cylindrique, striée, creuse, ramifiée vers la partie supérieure. Ses feuilles sont très- grandes, décomposées en un nombre prodigieux de folioles glabres et d’un vert foncé. Son odeur a quelque analogie avec celle du cerfeuil. Cette plante vénéneuse a été préconisée contre la phthisie pulmonaire. V. <ref>Œnantiie</ref>.</sense>
-        <sense>— <term>Huile de ciguë</term>. V. <xr><ref target="huile">Huile</ref> médicinales</xr>.</sense>
+        <sense>— 3° La <term>petite ciguë</term>, ou <term>ciguë des jardins</term> (<foreign xml:lang="lat">Æthusa cynapium</foreign>, L.), diffère des autres en ce que sa racine ne contient pas de suc, et que ses semences sont globuleuses, à stries lisses (Fig. 87). Son activité, plus grande que celle de la ciguë ordinaire, en fait un agent thérapeutique puissant, mais dangereux. Elle a été quelquefois confondue avec le persil : de là son nom de <ref type="syn">faux persil</ref>; à part l’odeur, il est peut-être difficile de l’en distinguer lorsqu’elle n’est pas en fleur. Les fleurs de l’éthuse sont très-blanches; celles du persil sont d’un jaune verdâtre. La tige de l’éthuse est presque lisse et glauque; celle du persil est cannelée et verte. Les feuilles de la première sont trois fois divisées, à folioles nombreuses, étroites, aiguës; celles du persil ne sont que deux fois divisées, à folioles plus larges, divisées en 3 lobes. D’ailleurs l’odeur du persil est aromatique; celle de l’éthuse, vireuse et nauséabonde. -4° La <term>ciguë <ex>aquatique</ex></term> ou <ref type="syn">phellandrie aquatique</ref> [<foreign xml:lang="lat">Phellandrium aquaticum</foreign>, L.) croît dans l’eau. Sa tige est grosse, cylindrique, striée, creuse, ramifiée vers la partie supérieure. Ses feuilles sont très- grandes, décomposées en un nombre prodigieux de folioles glabres et d’un vert foncé. Son odeur a quelque analogie avec celle du cerfeuil. Cette plante vénéneuse a été préconisée contre la phthisie pulmonaire. V. <ref target="œnanthe">Œnanthe</ref>.</sense>
+        <sense>— <term>Huile de ciguë</term>. V. <xr><ref target="huile">Huiles</ref> médicinales</xr>.</sense>
       </entry>
       <entry xml:id="cil">
         <form><orth>Cil</orth>. s. m.</form>
@@ -36174,11 +36174,11 @@
           <foreign xml:lang="deu">Wimper</foreign>
           <foreign xml:lang="eng">cilia</foreign>
           <foreign xml:lang="ita">ciglio</foreign>
-          <foreign xml:lang="spa">pestaîia</foreign>
+          <foreign xml:lang="spa">pestaña</foreign>
         </dictScrap>
         <sense n="1">Poils longs et roides qui garnissent les bords libres des paupières.</sense>
         <graphic url="BIUSante_37020d_301-400-img/image4.jpeg"/>
-        <sense>— <term>Cils vibratiles</term>. Filaments très fins, hyalins, très-transparents, homogènes, en forme de <hi>cils</hi> d’une extrême petitesse (0ᵐᵐ,005, à 0,050), dressés sur toute la surface ou une partie seidement de certains éléments anatomiques [<hi>cellules épithéliales, spermatozoïdes</hi>) de quelques animaux invertébrés, de quelques embryons des animaux et de quelques algues [<hi>zoosporées</hi>). De même que les fibres musculaires, chacune homogène en soi, se contractent par elles-mêmes sans que le contact d’un nerf soit nécessaire, de même les cils vibratiles, se contractant par eux-mêmes, se meuvent d’un <hi>mouvement vibratile</hi> très-vif et continu. Le fait a lieu sans que des nerfs arrivent aux parties qui en possèdent, et même pendant vingt-quatre ou soixante heures hors de l’animal, lorsqu’un tient les éléments anatomiques ou les fragments d’êtres qui les portent dans des conditions de liquide et de température convenables, ce qui a fait prendre quelquefois des cellules détachées pour des animaux. L’application locale des narcotiques et de beaucoup de principes végétaux actifs sur les muscles ne modifie ni n’arrête ce mouvement, dans lequel il n’y a pas raccourcissement de tout le cil, mais inclinaisons ou courbures alternatives, soit par torsion de la base de l’organe, soit par raccourcissement borné à l’un des bords, puis ensuite à l’autre. On distingue deux sortes de cils, d’après les parties ou les êtres qui les portent : 1° <hi>Cils vibratiles</hi> .proprement dits ou <hi>des éléments anatomiques</hi> (Fig. 88 : Cellules épithéliales prismatiques dont les cils vibratiles sont insérés sur l’extrémité libre la plus élargie de l’élément). Onles trouve.: a, chez les animaux à sang chaud, sur les cellules d’épithélium prismatique surtout et sur les cellules polyédriques chez les batraciens et les poissons; b, chez les autres animaux, en outre sur les cellules sphériques, les pavimen- teuses et même sur des épithéliums nucléaires ; c, ceux des spermatozoïdes des algues (à 2 ou 4 cils), des cryptogames vasculaires et des mousses (à cils nombreux), ne diffèrent pas essentiellement des cils vibratiles précédents. Ce fait appuie la comparaison de la <hi>queue</hi> des <ref>spermatozoïdes</ref> (V. ce mot) avec des cils. 2° <hi>Organes</hi> ou <hi>filaments vibratiles</hi> situés sur la surface du corps des animaux sans être sur des cellules, mais bien en continuité de substance avec la matière homogène, granuleuse ou non, de la surface de ces organismes, dont quelques-uns, il est vrai, ne sont guère plus compliqués que des cellules [<hi>a</hi>, infusoires), mais dont les autres [<hi>b</hi>, planariées, tentacules des mollusques bryozoaires) ont une organisation plus complexe; c, on en trouve encore sur les embryons de quelques algues (V. <ref target="zoospore">Zoospore</ref>).</sense>
+        <sense>— <term>Cils vibratiles</term>. Filaments très fins, hyalins, très-transparents, homogènes, en forme de <hi>cils</hi> d’une extrême petitesse (0ᵐᵐ,005, à 0,050), dressés sur toute la surface ou une partie seidement de certains éléments anatomiques [<hi>cellules épithéliales, spermatozoïdes</hi>) de quelques animaux invertébrés, de quelques embryons des animaux et de quelques algues [<hi>zoosporées</hi>). De même que les fibres musculaires, chacune homogène en soi, se contractent par elles-mêmes sans que le contact d’un nerf soit nécessaire, de même les cils vibratiles, se contractant par eux-mêmes, se meuvent d’un <hi>mouvement vibratile</hi> très-vif et continu. Le fait a lieu sans que des nerfs arrivent aux parties qui en possèdent, et même pendant vingt-quatre ou soixante heures hors de l’animal, lorsqu’un tient les éléments anatomiques ou les fragments d’êtres qui les portent dans des conditions de liquide et de température convenables, ce qui a fait prendre quelquefois des cellules détachées pour des animaux. L’application locale des narcotiques et de beaucoup de principes végétaux actifs sur les muscles ne modifie ni n’arrête ce mouvement, dans lequel il n’y a pas raccourcissement de tout le cil, mais inclinaisons ou courbures alternatives, soit par torsion de la base de l’organe, soit par raccourcissement borné à l’un des bords, puis ensuite à l’autre. On distingue deux sortes de cils, d’après les parties ou les êtres qui les portent : 1° <term>Cils vibratiles</term> .proprement dits ou <term><ex>cils</ex> des éléments anatomiques</term> (Fig. 88 : Cellules épithéliales prismatiques dont les cils vibratiles sont insérés sur l’extrémité libre la plus élargie de l’élément). Onles trouve.: a, chez les animaux à sang chaud, sur les cellules d’épithélium prismatique surtout et sur les cellules polyédriques chez les batraciens et les poissons; b, chez les autres animaux, en outre sur les cellules sphériques, les pavimen- teuses et même sur des épithéliums nucléaires ; c, ceux des spermatozoïdes des algues (à 2 ou 4 cils), des cryptogames vasculaires et des mousses (à cils nombreux), ne diffèrent pas essentiellement des cils vibratiles précédents. Ce fait appuie la comparaison de la <hi>queue</hi> des <ref target="spermatozoïde">spermatozoïdes</ref> (V. ce mot) avec des cils. 2° <hi>Organes</hi> ou <hi>filaments vibratiles</hi> situés sur la surface du corps des animaux sans être sur des cellules, mais bien en continuité de substance avec la matière homogène, granuleuse ou non, de la surface de ces organismes, dont quelques-uns, il est vrai, ne sont guère plus compliqués que des cellules [<hi>a</hi>, infusoires), mais dont les autres [<hi>b</hi>, planariées, tentacules des mollusques bryozoaires) ont une organisation plus complexe; c, on en trouve encore sur les embryons de quelques algues (V. <ref target="zoospore">Zoospore</ref>).</sense>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=318" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0318/full/full/0/default.jpg" n="0304"/>
         <sense>== En botanique, nom donné à des poils d’une certaine longueur qui naissent sur le bord d’une surface et dans le même plan qu’elle, sans faire partie de l’une ou de l’autre face. V. <ref target="épithélium">Épithélium</ref> et <ref target="flagellum">Flagellum</ref></sense>
       </entry>
@@ -36190,21 +36190,21 @@
           <foreign xml:lang="ita">ciliare</foreign>
           <foreign xml:lang="spa">ciliar</foreign>
         </dictScrap>
-        <sense n="1">Qui appartient aux cils : c’est dans ce sens qu’on dit le <hi>bord ciliaire des paupières</hi>.</sense>
+        <sense n="1">Qui appartient aux cils : c’est dans ce sens qu’on dit le <term>bord ciliaire des paupières</term>.</sense>
         <sense>— <term>Blépharite ciliaire</term>. V. <ref target="blépharite">Blépharite</ref>.</sense>
         <sense>— Se dit de diverses parties qui entrent dans la structure de l’œil, à cause d’une certaine ressemblance que présente l’une d’elles (les procès ciliaires) avec l’ensemble des cils formant la bordure des paupières entr’ouvertes.</sense>
-        <sense>— <term>Artères ciliaires</term>. EHes sont fournies par l’ophthalmique, au-dessus du nerf optique. On distingue les <hi>ciliaires courtes, postérieures</hi> ou <hi>uvéales</hi>, au nombre de trente à quarante, qui se distribuent aux procès ciliaires; les <hi>ciliaires longues</hi> ou <hi>iriennes</hi>, au nombre de deux, qui, par les anastomoses de leurs rameaux, forment trois cercles artériels à la face antérieure de l’iris ; les <hi>ciliaires antérieures</hi>, dont le nombre est variable, qui percent la sclérotique à quelques lignes de sa réunion avec la cornée, et se distribuent principalement à l’iris. Les <hi>veines ciliaires</hi> se rendent dans la veine ophthal- mique. V. <ref target="canal">Canal</ref>.</sense>
+        <sense>— <term>Artères ciliaires</term>. EHes sont fournies par l’ophthalmique, au-dessus du nerf optique. On distingue les <term>ciliaires courtes</term>, <term><ex>ciliaires</ex> postérieures</term> ou <term><ex>ciliaires</ex> uvéales</term>, au nombre de trente à quarante, qui se distribuent aux procès ciliaires; les <term>ciliaires longues</term> ou <term><ex>ciliaires</ex> iriennes</term>, au nombre de deux, qui, par les anastomoses de leurs rameaux, forment trois cercles artériels à la face antérieure de l’iris ; les <hi>ciliaires antérieures</hi>, dont le nombre est variable, qui percent la sclérotique à quelques lignes de sa réunion avec la cornée, et se distribuent principalement à l’iris. Les <term>veines ciliaires</term> se rendent dans la veine ophthal- mique. V. <ref target="canal">Canal</ref>.</sense>
         <sense>— <term>Canal ciliaire</term>. V. <ref target="canal">Canal</ref>.</sense>
-        <sense>— <term>Cercle, anneau, ligament, ganglion, corps<hi> et mieux </hi>muscle ciliaire</term> de Bowman et de Brücke. Anneau grisâtre, mou, large de 2 à 3 millimètres, placé à la face interne de la sclérotique, immédiatement en arrière de sa jonction à la cornée. La choroïdecesseàsagrande circonférence, qui reçoit les nombreux nerfs ciliaires. Il est composé, en outre, de fibres de tissu lamineux, et surtout de fibres-cellules, étendues de sa petite circonférence où elles adhèrent, à la paroi interne du plexux de Fontana, pour se terminer à sa grande circonférence : 1° les plus longues, sur le bord antérieur de la choroïde ; 2° les plus courtes, plus internes, à la surface externe des procès ciliaires et à la grande circonférence de l’iris (V. <ref target="section">Section</ref>). Le muscle ciliaire est l’organe actif de l’accommodation. Le. cristallin joue un rôle purement passif. La contraction du muscle relâche la zone deZinn, et le cristallin, que la tension de .cette membrane maintenait aplati, prend aussitôt une forme plus convexe. Les anomalies de la réfraction sont principalement causées par des changements dans la longueur de l’axe optique, il est fort rare qu’elles dépendent de variations dans la courbure de la cornée et du cristallin (Arel, Donders). Supposons que la puissance dioptrique du milieu réfringent soit la même dans tous les yeux, et que les anomalies de la réfraction dépendent entièrement de. la position de la <hi>fovea centralis</hi>, relativement au foyer de l’appareil dioptrique, nous comprendrons alors que le muscle ciliaire, pour fonctionner chez le myope et chez l’hypermétrope, doit accomplir des quantités de travail tout à fait différentes. En effet, tandis que chez le myope le muscle ciliaire reste inactif tant que les objets en vue sont situés entre l’infini et le <hi>punctum remotum</hi>, l’hypermétrope, au contraire, doit le contracter, quelle que soit la distance de cet objet, s’il veut en percevoir une image nette. Aussi son inaction doit entraîner l’atrophie chez l’un, et son action l’hypertrophie dans le second (Ivanoff).</sense>
+        <sense>— <term>Cercle <ex>ciliaire</ex></term>, <term>anneau <ex>ciliaire</ex></term>, <term>ligament <ex>ciliaire</ex></term>, <term>ganglion <ex>ciliaire</ex></term>, <term>corps <ex>ciliaire</ex></term> et mieux <term>muscle ciliaire</term> de Bowman et de Brücke. Anneau grisâtre, mou, large de 2 à 3 millimètres, placé à la face interne de la sclérotique, immédiatement en arrière de sa jonction à la cornée. La choroïdecesseàsagrande circonférence, qui reçoit les nombreux nerfs ciliaires. Il est composé, en outre, de fibres de tissu lamineux, et surtout de fibres-cellules, étendues de sa petite circonférence où elles adhèrent, à la paroi interne du plexux de Fontana, pour se terminer à sa grande circonférence : 1° les plus longues, sur le bord antérieur de la choroïde ; 2° les plus courtes, plus internes, à la surface externe des procès ciliaires et à la grande circonférence de l’iris (V. <ref target="section">Section</ref>). Le muscle ciliaire est l’organe actif de l’accommodation. Le. cristallin joue un rôle purement passif. La contraction du muscle relâche la zone deZinn, et le cristallin, que la tension de .cette membrane maintenait aplati, prend aussitôt une forme plus convexe. Les anomalies de la réfraction sont principalement causées par des changements dans la longueur de l’axe optique, il est fort rare qu’elles dépendent de variations dans la courbure de la cornée et du cristallin (Arel, Donders). Supposons que la puissance dioptrique du milieu réfringent soit la même dans tous les yeux, et que les anomalies de la réfraction dépendent entièrement de. la position de la <hi>fovea centralis</hi>, relativement au foyer de l’appareil dioptrique, nous comprendrons alors que le muscle ciliaire, pour fonctionner chez le myope et chez l’hypermétrope, doit accomplir des quantités de travail tout à fait différentes. En effet, tandis que chez le myope le muscle ciliaire reste inactif tant que les objets en vue sont situés entre l’infini et le <hi>punctum remotum</hi>, l’hypermétrope, au contraire, doit le contracter, quelle que soit la distance de cet objet, s’il veut en percevoir une image nette. Aussi son inaction doit entraîner l’atrophie chez l’un, et son action l’hypertrophie dans le second (Ivanoff).</sense>
         <sense>— <term>Corps ciliaire</term>. V. <ref target="choroïde">Choroïde</ref> et <ref target="cervelet">Cervelet</ref>.</sense>
         <sense>— <term>Couronne ciliaire</term>. V. <ref target="choroïde">Choroïde</ref>.</sense>
-        <sense>— <term>Couronne ciliaire de Zinn</term>. V. <ref target="vitré">Vitré</ref> [<hi>Corps</hi>].</sense>
+        <sense>— <term>Couronne ciliaire de Zinn</term>. V. <ref target="vitré">Vitré</ref> (<rs>Corps</rs>).</sense>
         <sense>— <term>Muscle ciliaire</term>. L’orbiculaire des paupières (Riolan).</sense>
         <sense>— <term>Ophthalmie ciliaire</term>. V. <ref target="blépharite">Blépharite</ref>.</sense>
-        <sense>— <term>Nerfs ciliaires <hi>ou</hi> iriens</term>. Ces nerfs, au nombre de douze à quinze, tirent leur origine du nerf nasal, et, spécialement, de la partie antérieure du ganglion ophthalmique. Ils se réunissent en deux faisceaux qui se rendent autour du nerf optique, et percent la sclérotique près de l’entrée de ce nerf dans l’œil. Ils vont se perdre dans le cercle ciliaire en rampant entre la choroïde et la sclérotique.</sense>
+        <sense>— <term>Nerfs ciliaires</term> ou <ref type="syn"><ex>nerfs</ex> iriens</ref>. Ces nerfs, au nombre de douze à quinze, tirent leur origine du nerf nasal, et, spécialement, de la partie antérieure du ganglion ophthalmique. Ils se réunissent en deux faisceaux qui se rendent autour du nerf optique, et percent la sclérotique près de l’entrée de ce nerf dans l’œil. Ils vont se perdre dans le cercle ciliaire en rampant entre la choroïde et la sclérotique.</sense>
         <sense>— <term>Procès ciliaires</term>. V. <ref target="choroïde">Choroïde</ref>.</sense>
-        <sense>— <term>Procès ciliaires du corps vitré <hi>ou</hi> hyatoïdiens</term>. V. <ref target="vitré">Vitré</ref> [<hi>Corps</hi>).</sense>
-        <sense>— <term>Zone ciliaire de Zinn</term>. V. <ref>Vithé</ref> [<hi>Corps</hi>).</sense>
+        <sense>— <term>Procès ciliaires du corps vitré</term> ou <term><ex>procès ciliaires</ex> hyaloïdiens</term>. V. <ref target="vitré">Vitré</ref> (<rs>Corps</rs>).</sense>
+        <sense>— <term>Zone ciliaire de Zinn</term>. V. <ref target="vitré">Vitré</ref> (<rs>Corps</rs>).</sense>
       </entry>
       <entry xml:id="cilié">
         <form><orth>Cilié</orth>, ÉE. adj.</form>
@@ -36223,7 +36223,7 @@
         <dictScrap>
           <foreign xml:lang="deu">Blinzeln</foreign>
         </dictScrap>
-        <sense n="1">Synonyme deett- <hi>gnotement</hi>. V. <ref target="nystagme">Nystagme</ref>.</sense>
+        <sense n="1">Synonyme de <ref type="syn">clignotement</ref>. V. <ref target="nystagme">Nystagme</ref>.</sense>
       </entry>
       <entry xml:id="ciller">
         <form><orth>Ciller</orth>, v. n., ou <orth>Se ciller</orth>, v. réfl.</form>
@@ -36243,7 +36243,7 @@
       <entry xml:id="cimetière">
         <form><orth>Cimetière</orth>, s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">coemeterium</foreign>
+          <foreign xml:lang="lat">cœmeterium</foreign>
           <etym xml:lang="grc">de κοιρ.7ΐηθιον, fieu de sommeil, de κοιτάω, je dors</etym>
           <foreign xml:lang="deu">Kirchhof</foreign>
           <foreign xml:lang="eng">church-yard</foreign>
@@ -36268,13 +36268,13 @@
         <form><orth>Cimolée</orth> (<rs>Terre</rs>)</form>
         <dictScrap>
           <foreign xml:lang="lat">cimolia terra</foreign>
+          <foreign resp="#FR" xml:lang="grc">κιμωλία γῆ</foreign>
           <foreign xml:lang="deu">Cimolit</foreign>
           <foreign xml:lang="eng">tobacco-pipe-clay</foreign>
           <foreign xml:lang="ita">cimolia</foreign>
-          <foreign resp="#FR" xml:lang="grc">κιμωλία γῆ</foreign>
         </dictScrap>
         <sense n="1">Espèce d’argile ainsi nommée de <hi>Cimolis</hi>, l’une des Cyclades, aujourd’hui l’Argentière, d’où on la tirait. Elle passait pour astringente et résolutive.</sense>
-        <sense>== Nom donné aussi à la <hi>boue des couteliers</hi>, que l’on emploie comme résolutive et contre la brûlure du premier au troisième degré.</sense>
+        <sense>== Nom donné aussi à la <ref type="syn">boue des couteliers</ref>, que l’on emploie comme résolutive et contre la brûlure du premier au troisième degré.</sense>
       </entry>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=319" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0319/full/full/0/default.jpg" n="0305"/>
       <entry xml:id="cinabre">
@@ -36330,14 +36330,14 @@
           <foreign resp="#FR" xml:lang="grc">κίγκλισις</foreign>
         </dictScrap>
         <sense n="1">Agitation; mouvement fréquent et peu-étendu. Hippocrate s’est servi de cette expression en parlant du mouvement précipité de la poitrine.</sense>
-        <sense>== Synonyme de <hi>clignotement</hi>.</sense>
+        <sense>== Synonyme de <ref type="syn">clignotement</ref>.</sense>
       </entry>
       <entry xml:id="cinération">
         <form><orth>Cinération</orth>. s. f.</form>
         <dictScrap>
           <etym>de émis, cendre</etym>
         </dictScrap>
-        <sense n="1">Action de brûler, de réduire en cendres. Synonyme <hi>A incinération</hi>, qui est seul usité. V. <ref target="crémation">Crémation</ref>.</sense>
+        <sense n="1">Action de brûler, de réduire en cendres. Synonyme d'<ref type="syn">incinération</ref>, qui est seul usité. V. <ref target="crémation">Crémation</ref>.</sense>
       </entry>
       <entry xml:id="cinèse">
         <form><orth>Cinèse</orth>. s. f.</form>
@@ -36371,11 +36371,11 @@
         <form><orth>Cinnabre</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">cinnabaris</foreign>
+          <foreign resp="#FR" xml:lang="grc">κιννάβαρι</foreign>
           <foreign xml:lang="deu">Zinnober</foreign>
           <foreign xml:lang="eng">cinnabar</foreign>
           <foreign xml:lang="ita">cinabro</foreign>
           <foreign xml:lang="spa">cinabrio</foreign>
-          <foreign resp="#FR" xml:lang="grc">κιννάβαρι</foreign>
         </dictScrap>
         <sense n="1">Pline et Galien appelaient ainsi le minium ou oxyde de plomb rouge.</sense>
         <sense>== Nom donné aujourd’hui au sulfure rouge de mercure (V. <xr><ref target="sulfure">Sulfure</ref> de mercure</xr>).</sense>
@@ -36396,14 +36396,14 @@
       <entry xml:id="cinnamène">
         <form><orth>Cinnamène</orth>, s. m., ou <orth>Cinnamine</orth>, s. f.</form>
         <dictScrap>
-          <etym><hi>styrol, essence de storax</hi>, et <hi>cinnamol</hi></etym>
+          <ref type="syn">styrol</ref>, <ref type="syn">essence de storax</ref>, et <ref type="syn">cinnamol</ref></etym>
         </dictScrap>
         <sense n="1">Carbure d’hydrogène liquide, incolore, obtenu par l’action delà baryte caustique en excès sur l’acide cinnamique. (C¹⁶H⁸.)</sense>
       </entry>
       <entry xml:id="cinnamique">
         <form><orth>Cinnamique</orth>. adj.</form>
-        <sense n="1">— <term>Acidecinnamique</term> [<hi>acide cannel- lique</hi>). Se dépose sous forme de cristaux dans l’huile de cannelle exposée à l’air. On l’a retrouvé encore dans le baume du Pérou liquide (C¹⁸H⁷O³.HO). On l’obtient aussi à l’état anhydre.</sense>
-        <sense>— <term>Alcool cinnamique</term>. V. <ref>Sttrone</ref>.</sense>
+        <sense n="1">— <term>Acide cinnamique</term> [<ref type="syn">acide cannellique</ref>). Se dépose sous forme de cristaux dans l’huile de cannelle exposée à l’air. On l’a retrouvé encore dans le baume du Pérou liquide (C¹⁸H⁷O³.HO). On l’obtient aussi à l’état anhydre.</sense>
+        <sense>— <term>Alcool cinnamique</term>. V. <ref target="styrone">Styrone</ref>.</sense>
       </entry>
       <entry xml:id="cinnamocinnamique">
         <form><orth>Cinnamocinnamique</orth>. adj.</form>
@@ -36445,7 +36445,7 @@
         <dictScrap>
           <etym xml:lang="grc">de κίων, luette, et ραφή, suture</etym>
         </dictScrap>
-        <sense n="1">La staphylorrhaphie. V. <ref>Staphylorrhaphif</ref>.</sense>
+        <sense n="1">La staphylorrhaphie. V. <ref target="staphylorrhaphie">Staphylorrhaphie</ref>.</sense>
       </entry>
       <entry xml:id="cionotome">
         <form><orth>Cionotome</orth>. s. m.</form>
@@ -36462,15 +36462,15 @@
       <entry xml:id="circée">
         <form><orth>Circée</orth>. s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">Circœa lutetiana (L.)</foreign>
-          <etym> <hi>herbe de Saint- Étienne, herbe aux Sorcier s P etc</hi> </etym>
+          <foreign xml:lang="lat">Circœa lutetiana</foreign>, L.,
+          <ref type="syn">herbe de Saint-Étienne</ref>, <ref type="syn">herbe aux sorciers</ref>, etc.
         </dictScrap>
         <sense n="1">Petite plante vivace (diandrie monogynie, L., onagrariées, J.) employée autrefois comme résolutive.</sense>
       </entry>
       <entry xml:id="circinal">
         <form><orth>Circinal</orth>, ALE, <orth>Circiné</orth>, ÉE. adj.</form>
         <dictScrap>
-          <foreign xml:lang="lat">circinatis</foreign>
+          <foreign xml:lang="lat">circinalis</foreign>
           <foreign xml:lang="lat">circinatus</foreign>
           <etym>de <hi>circinus</hi>, cercle, compas</etym>
         </dictScrap>
@@ -36481,14 +36481,14 @@
         <dictScrap>
           <foreign xml:lang="lat">circumcisio</foreign>
           <etym>de <hi>circum</hi>, autour. <hi>dccœdere</hi>, couper</etym>
+          <foreign resp="#FR" xml:lang="grc">περιτομὴ</foreign>
           <foreign xml:lang="deu">Beschneidung</foreign>
           <foreign xml:lang="eng">circumcision</foreign>
           <foreign xml:lang="ita">circoncisione</foreign>
           <foreign xml:lang="spa">circuncision</foreign>
-          <foreign resp="#FR" xml:lang="grc">περιτομὴ</foreign>
         </dictScrap>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=320" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0320/full/full/0/default.jpg" n="0306"/>
-        <sense n="1">Opération qui consiste à retrancher circulairement une portion du prépuce chez les enfants nouveau-nés ; coutume qui parait avoir eu pour but, chez les Égyptiens, les Hébreux et les musulmans, d’empêcher l’accumulation de la matière sébacée sécrétée à la base du gland. On pratique sur les filles, dans certaines contrées de l’Afrique, une opération analogue, consistant à exciser une portion des petites lèvres de la vulve, qui prennent quelquefois, dans ces climats, un accroissement démesuré. La circoncision est en certains cas une opération chirurgicale nécessitée par des affections du pénis ou du prépuce, telles que le <ref>phimosis</ref> et le <ref>paraphimosis</ref>. V. ces mots.</sense>
+        <sense n="1">Opération qui consiste à retrancher circulairement une portion du prépuce chez les enfants nouveau-nés ; coutume qui parait avoir eu pour but, chez les Égyptiens, les Hébreux et les musulmans, d’empêcher l’accumulation de la matière sébacée sécrétée à la base du gland. On pratique sur les filles, dans certaines contrées de l’Afrique, une opération analogue, consistant à exciser une portion des petites lèvres de la vulve, qui prennent quelquefois, dans ces climats, un accroissement démesuré. La circoncision est en certains cas une opération chirurgicale nécessitée par des affections du pénis ou du prépuce, telles que le <ref target="phimosis">phimosis</ref> et le <ref target="paraphimosis">paraphimosis</ref>. V. ces mots.</sense>
       </entry>
       <entry xml:id="circonflexe">
         <form><orth>Circonflexe</orth>, adj.</form>
