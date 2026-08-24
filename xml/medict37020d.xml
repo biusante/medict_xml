@@ -322,12 +322,12 @@
           <foreign xml:lang="ita">abduzione</foreign>
           <foreign xml:lang="spa">abduccion</foreign>
         </dictScrap>
-        <sense n="1">, Mouvement qui écarte un membre ou une partie quelconque du plan mitoyen qu’on suppose partager le corps longitudinalement en deux moitiés semblables ou symétriques. Quant à la main et au pied, beaucoup d’anatomistes y ont admis une ligne médiane particulière, et ont appelé <hi>ab- duction ie</hi> mouvement par lequel les autres doigts s’écartent de celui du milieu; mais Desault et ceux qui ont écrit depuis lui supposent que les pieds sont parallèles, les bras pendants le long du tronc et les paumes des mains tournées en devant ; et ils ont appelé <hi>abduction</hi> le mouvement par lequel un doigt quelconque est éloigné du plan médian général du corps. Il résulte de là que, pour legros orteil et le suivant, pour le petit doigt et le doigt annulaire, ce que Gavart, Bichat, Boyer et Cloquet nomment <hi>abduction</hi>, les anciens auteurs l’appellent <syn>adduction</syn>, et <hi>vice versâ</hi>.</sense>
+        <sense n="1">, Mouvement qui écarte un membre ou une partie quelconque du plan mitoyen qu’on suppose partager le corps longitudinalement en deux moitiés semblables ou symétriques. Quant à la main et au pied, beaucoup d’anatomistes y ont admis une ligne médiane particulière, et ont appelé <hi>ab- duction ie</hi> mouvement par lequel les autres doigts s’écartent de celui du milieu; mais Desault et ceux qui ont écrit depuis lui supposent que les pieds sont parallèles, les bras pendants le long du tronc et les paumes des mains tournées en devant ; et ils ont appelé <hi>abduction</hi> le mouvement par lequel un doigt quelconque est éloigné du plan médian général du corps. Il résulte de là que, pour legros orteil et le suivant, pour le petit doigt et le doigt annulaire, ce que Gavart, Bichat, Boyer et Cloquet nomment <hi>abduction</hi>, les anciens auteurs l’appellent <ref type="syn">adduction</ref>, et <hi>vice versâ</hi>.</sense>
       </entry>
       <entry xml:id="abeille">
         <form><orth>Abeille</orth>, s. f.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>apicula</hi>, diminutif de <foreign xml:lang="lat">apis</foreign></etym>;
+          <etym xml:lang="lat">de <hi>apicula</hi>, diminutif de apis</etym>
           <foreign xml:lang="grc">μέλισσα</foreign>
           <foreign xml:lang="deu">Biene</foreign>
           <foreign xml:lang="eng">bee</foreign>
@@ -536,18 +536,12 @@
           <foreign xml:lang="eng">abortive</foreign>
           <foreign xml:lang="ita">abortivo</foreign>
         </dictScrap>
-        <term>Fœtus abortif</term> ou <ref type="syn">avorton</ref> (<foreign xml:lang="grc">ἀπόφθαρμα</foreign>)
-        <term>Méthode abortive</term>
-        <term>étamine abortive</term>
-        <term>fleur abortive</term>
-        <term>Abortif</term>
-        <dictScrap>
-          <foreign xml:lang="grc">ἐκβόλιον</foreign>
-          <foreign xml:lang="grc">φάρμακον φθόριον</foreign>
-          <foreign xml:lang="deu">abtreibend</foreign>
-        </dictScrap>
-        <term>médicaments abortifs</term>
-        <sense n="1"></sense>
+        <sense n="1">— <term>Fœtus abortif</term> ou <ref type="syn">avorton</ref> (<foreign xml:lang="grc">ἀπόφθαρμα</foreign>)</sense>
+        <sense>— <term>Méthode abortive</term></sense>
+        <sense>— <term>étamine abortive</term></sense>
+        <sense>— <term>fleur abortive</term></sense>
+        <sense>— <term>Abortif</term> [<foreign xml:lang="grc">ἐκβόλιον</foreign>, <foreign xml:lang="grc">φάρμακον φθόριον</foreign>, <foreign xml:lang="deu">abtreibend</foreign>]</sense>
+        <sense>— <term>médicaments abortifs</term></sense>
       </entry>
       <entry xml:id="abouchement">
         <form><orth>Abouchement</orth>, s, m.</form>
@@ -661,7 +655,7 @@
         <sense>— <term>Inf.</term>. (<hi>infundatur</hi>), qu’on fasse infuser.</sense>
         <sense>— <term>M/</term> (<hi>misce</hi>), mêlez.</sense>
         <sense>— <term>Man.</term> (<hi>manipulus</hi>), poignée. V. <ref target="manipule">Manipule</ref>.</sense>
-        <sense>— <term>N° 1<term>, <term>N° 2</term>, etc., expriment le nombre. Ainsi on dit : <term>Jaunes d’œufs N° 2</term> ; ce qui signifie <hi>deux jaunes d’œufs</hi>.</sense>
+        <sense>— <term>N° 1</term>, <term>N° 2</term>, etc., expriment le nombre. Ainsi on dit : <term>Jaunes d’œufs N° 2</term> ; ce qui signifie <hi>deux jaunes d’œufs</hi>.</sense>
         <sense>— <term>P. æ</term> ou <term>p. é.</term> (<hi>partes œquales</hi>), parties égales.</sense>
         <sense>— <term>Pug.</term> (<hi>pugillus</hi>), pincée.</sense>
         <sense>— <term>Pulv.</term> (<hi>pulvis</hi>), poudre.</sense>
@@ -752,10 +746,7 @@
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=21" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0021/full/full/0/default.jpg" n="0007"/>
       <entry xml:id="absinthique">
         <form><orth>Absinthique</orth>. adj.</form>
-        <sense n="1"><term>Acide absinthique</term>
-          <dictScrap>
-          [all. <foreign xml:lang="deu">Wermuthsäure</foreign>].
-          </dictScrap>
+        <sense n="1"><term>Acide absinthique</term> [all. <foreign xml:lang="deu">Wermuthsäure</foreign>].
           L’acide succinique. V. <ref target="succinique">Succinique</ref>.</sense>
       </entry>
       <entry xml:id="absinthisme">
@@ -784,8 +775,8 @@
           
         </dictScrap>
         <sense n="1">— En chirurgie, <term>absorbants</term>, substances molles, spongieuses, propres à s’imbiber des liquides épanchés, comme la <ref>charpie</ref>, l’<ref>amadou</ref>, l’<ref>agaric</ref>, etc. (V. ce mot).</sense>
-        <sense>— <term>Bouches absorbantes</term>. V. <ref target="bouche">Bouche</ref>.
-        <sense>— <term>Médicaments absorbants</term>, ou simplement <term>absorbants</term>. Substances que l’on croit propres à absorber les acides développés dans les voies digestives : tels sont en général les carbonates calcaires, la magnésie, etc.; telles sont aussi la <term>poudre absorbante</term> (V. <ref target="poudre">Poudre</ref>), et les <term>tablettes absorbantes</term> ou <term><ex>tablettes</ex> de magnésie</hi> (V. <ref target="tablette">Tablette</ref>).</sense>
+        <sense>— <term>Bouches absorbantes</term>. V. <ref target="bouche">Bouche</ref>.</sense>
+        <sense>— <term>Médicaments absorbants</term>, ou simplement <term>absorbants</term>. Substances que l’on croit propres à absorber les acides développés dans les voies digestives : tels sont en général les carbonates calcaires, la magnésie, etc.; telles sont aussi la <term>poudre absorbante</term> (V. <ref target="poudre">Poudre</ref>), et les <term>tablettes absorbantes</term> ou <term><ex>tablettes</ex> de magnésie</term> (V. <ref target="tablette">Tablette</ref>).</sense>
         <sense>— <term>Système absorbant</term>. Ensemble des vaisseaux et des glandes "lymphatiques, ou système lymphatique. Bichat le faisait naître de toutes les parties du corps, même de parties où il n’y en a pas : cela tient à ce que, ne connaissant pas la propriété physique d’endosmose, commune à tous les tissus, il était forcé d’imaginer un système pour se rendre compte des phénomènes d’absorption etd’assimila- tion qu’il avait observés dans toutes les parties de l’organisme. V. <ref target="lymphatique">Lymphatique</ref>.</sense>
         <sense>— <term>Pouvoir absorbant</term>. V. <ref target="pouvoir">Pouvoir</ref>.</sense>
       </entry>
@@ -868,11 +859,7 @@
         </dictScrap>
         <sense n="1">En général, privation volontaire : <term>abstinence des plaisirs</term>, <term>abstinence des boissons</term>, etc.</sense>
         <sense>== Particulièrement employé pour indiquer la privation de certains aliments. V. <ref target="inanition">Inanition</ref>.</sense>
-        <sense>== Synonyme de <ref type="syn">diète</ref>
-          <dictScrap>
-            <foreign xml:lang="grc">ἀσιτία</foreign>,
-            <foreign xml:lang="grc">νηστείη</foreign>.
-          </dictScrap></sense>
+        <sense>== Synonyme de <ref type="syn">diète</ref> [<foreign xml:lang="grc">ἀσιτία</foreign>, <foreign xml:lang="grc">νηστείη</foreign>].</sense>
       </entry>
       <entry xml:id="abstractif">
         <form><orth>Abstractif</orth>. adj.</form>
@@ -900,7 +887,7 @@
       <entry xml:id="absus">
         <form><orth>Absus</orth>. s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">Cassia absus</foreign> (L.)
+          <foreign xml:lang="lat">Cassia absus</foreign>, (L.)
         </dictScrap>
         <sense n="1">Espèce de petite casse. Les Égyptiens pulvérisent les graines de cette plante avec une égale quantité de sucre, et mettent un peu de cette préparation sous les paupières, au commencement de leur ophthalmie.</sense>
       </entry>
@@ -1315,13 +1302,7 @@
         <sense>— <term>Accouchements non naturels</term>. Ceux qui exigent l’application de la main seule ou armée, d’instruments propres à favoriser l’extraction du fœtus, sans intéresser l’intégrité de ses parties, ni celle dcS parties de la mère (Flamant).</sense>
         <sense>— <term>Accouchement physiologique</term>. L’accouchement naturel.</sense>
         <sense>— <term>Accouchements vicieux</term>. Ceux qui exigent l’intervention de l’art (Nægele).</sense>
-        <sense><term>Accouchement prématuré</term>,
-          <dictScrap>
-            [all. <foreign xml:lang="deu">Frühgeburt</foreign>,
-             angl, <foreign xml:lang="eng">premature labour</foreign>,
-             it. <foreign xml:lang="ita">travaglio prematuro</foreign>].
-          </dictScrap>
-          Expulsion, avant le terme de la grossesse, d’un fœtus viable.</sense>
+        <sense><term>Accouchement prématuré</term> [[all. <foreign xml:lang="deu">Frühgeburt</foreign>, angl, <foreign xml:lang="eng">premature labour</foreign>, it. <foreign xml:lang="ita">travaglio prematuro</foreign>]. Expulsion, avant le terme de la grossesse, d’un fœtus viable.</sense>
         <sense>— Il est des cas dans lesquels le médecin est obligé de recourir à l’expulsion forcée du fœtus ou de l’œuf pour sauver la vie de la mère. Il est, en effet, admis comme principe de morale sociale, que l’homme de l’art doit songer à la vie do la mère, nécessaire à la famille et utile à la société, avant de songer à celle du fœtus, parce que celui-ci n’offre pas encore ces conditions, et parce qu’il est reconnu que ses chances de mort naturelle sont plus nombreuses que celles d’une personne adulte. Cette expulsion ne s’effectue pas toujours dans les mêmes conditions ; aussi est- il nécessaire de distinguer les deux états dans lesquels elle se fait. Dans le premier, la grossesse a atteint le septième mois ; dans le second, elle n’y est pas encore parvenue : dans l’un, ce sera un <hi>accouchement prématuré artificiel</hi>·, dans l’autre, un <xr><ref>avortement</ref> provoqué</xr> (V. ce mot). L’accouchement prématuré, qui a soulevé tant d’oppositions en France, à une époque qui n’est pas très- éloignée de la nôtre, est passé maintenant dans la pratique ; il a pour but de sauver à la fois deux existences, qui seraient très-compromises si l’on voulait abandonner la grossesse à elle-même. Cette opération, admise pour remédier à quelques accidents graves, tels que métror- rhagie*, rétrécissements du bassin, doit être acceptée aussi pour les vomissements incoercibles. « La provocation de l’enfantement avant le terme, dit Fodéré, est licite et même obligatoire,'lorsque, la femme est éminemment frêle, nerveuse, sujette, aux spasmes, qu’elle vomit sans cesse tous les aliments, qu’elle ne se nourrit pas, et qu’il est à craindre qu’elle ne s’épuise, elle et son enfant, avant le terme ordinaire de l’enfantement. » L’opération est alors pleinement justifiée par les dangers auxquels est exposée la mère et par la possibilité de voir le fœtus continuer à vivre après son expulsion. Elle est d’autant plus admissible, que le succès a presque toujours couronné les tentatives ; en effet, sur six cas d’accouchement prématuré, il n’y a eu qu’une seule mort : cinq fois on a sauvé la mère et l’enfant. L’opportunité de cette opération est d’autant moins contestable, que le fœtus a'plus de chances de vie. Pour les, conditions dans lesquelles on doit y recourir, car elles sont les mêmes dans les deux cas, ainsi que les moyens à employer, voy. <ref target="avortement">Avortement</ref>.</sense>
         <sense>— <term>Maison d’accouchements</term>. V. <ref target="maison">Maison</ref>.</sense>
       </entry>
@@ -1666,8 +1647,8 @@
         <form><orth>Acétabule</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">acetabulum</foreign>
-          <etym xml:lang="grc">sorte de vase; de <hi>acetum</hi>, vinaigre,
-          <foreign xml:lang="grc"><choice><sic>κοτυλη</sic><corr>κοτύλη</corr></choice></foreign>, mesure contenant 0 lit. 27 ;</etym>
+          <etym xml:lang="grc">sorte de vase; de <hi>acetum</hi>, vinaigre</etym>
+          <foreign xml:lang="grc"><choice><sic>κοτυλη</sic><corr>κοτύλη</corr></choice></foreign>, mesure contenant 0 lit. 27 ;
           <foreign xml:lang="deu">Gelenkpfanne</foreign>
           <foreign xml:lang="eng">acetabulum</foreign>
           <foreign xml:lang="ita">acetabolo</foreign>
@@ -1734,7 +1715,9 @@
       </entry>
       <entry xml:id="acétène">
         <form><orth>Acétène</orth>. s. m.</form>
-          (<ref type="syn">méthyle</ref>)
+        <dictScrap>
+          <ref type="syn">méthyle</ref>
+        </dictScrap>
         <sense n="1">Garbure d’hydrogène (C⁴H⁶) obtenu par la décomposition oxydante de l’éther iodhydrique et par divers moyens indirects de désoxydation de l’alcool. (C⁴H⁶O².)</sense>
         <sense>— <term>Acétène monocyané</term>. V. <ref target="cyanhydrique">Cyanhydrique</ref>.</sense>
         <sense>— <term>Acétène monoiodé</term>. V. <ref target="iodhydrique">Iodhydrique</ref>.</sense>
@@ -1837,7 +1820,7 @@
           <foreign xml:lang="lat">acetonum</foreign>
           <foreign xml:lang="deu">Aceton</foreign>
           <foreign xml:lang="deu">Brenzessiggeist</foreign>
-          <ref type="syn">alcool <ex>pyro-acétique</ex></ref>, <ref type="syn">esprit <ex>pyro-acétique</ex></ref> ou <ref type="syn">éther pyro-acétique</ref>, <ref type="syn">oxyde d’acétonyle</ref></ref>
+          <ref type="syn">alcool <ex>pyro-acétique</ex></ref>, <ref type="syn">esprit <ex>pyro-acétique</ex></ref> ou <ref type="syn">éther pyro-acétique</ref>, <ref type="syn">oxyde d’acétonyle</ref>
         </dictScrap>
         <sense n="1">(C⁶H⁶O².) Liquide inflammable, incolore, limpide, d’une saveur âcre et brûlante, et dont la densité est égale à 0,792, quand il a été bien rectifié sur du chlorure de calcium. On l’obtient lorsqu’on distille les acétates alcalins de chaux, de baryte, etc., préalablement bien desséchés. Dans cette opération, l’acide acétique se transforme en partie en acide carbonique, qui reste uni à la base, et en <hi>acétone</hi>, qui se volatilise. Ce corps peut, sans s’altérer, rester dans un flacon à moitié vide, ce qui n’a pas lieu pour le chloroforme. Il a une odeur pénétrante comme l’éther, et qui n’est pas sans analogie avec celle de la menthe poivrée ou du coing ; son goût a quelque chose de mordant suivi d’une sensation de froid. Comme anesthésique, Kidd pense qu’il n’est pas aussi désagréable que l’amy- lène. L’action en est moins durable, et c’est peut-être là une supériorité sur le chloroforme et l’amylène ; elle est rapide, quoique passagère : les lapins, bien que promptement anesthésiés, ne sont pas tués. Les principaux avantages de l’acétone paraissent être de se mêler en toutes proportions avec l’eau (en sorte qu’on peut l’employer sur des éponges mouillées et chaudes), et de pouvoir se conserver sans décomposition. On s’est servi de l’acétone dans la phthisie.</sense>
         <sense>== Aujourd’hui, terme générique désignant un grand nombre de composés oxygénés neutres se formant dans la distillation sèche des sels calcaires dont les acides organiques ont 4 équivalents d’oxygène.</sense>
@@ -1866,7 +1849,7 @@
         <form><orth>Acétylène</orth>, s. m.</form>
         <dictScrap>
           <ref type="syn">ditétryle</ref>
-          <ref type="syn">hydrogène quadricarboné</ref>,
+          <ref type="syn">hydrogène quadricarboné</ref>
           <ref type="syn">quadricarbure d’hydrogène</ref>
         </dictScrap>
         <sense n="1">Gaz retiré d’abord de celui de l’éclairage obtenu par distillation des huiles grasses. On le prépare directement aujourd’hui-en produisant un arc voltaïque entre deux pôles de charbon pur au sein d’une atmosphère d’hydrogène. Il est incolore, d’une odeur particulière, il brûle à l’air avec une flamme très-éclairante et en donnant un dépôt de charbon. Mélangé à l’oxygène ou à l’air il détone (C⁴H$). Un litre d’acétylène contient un litre d’hydrogène. Avec les oxydes métalliques,il forme des composés analogues aux hydrogènes arsénié, phosphore, etc., appelés <hi>acétylures</hi>. Il joue
@@ -1890,7 +1873,8 @@
       <entry xml:id="ache">
         <form><orth>Ache</orth>. s. f.</form>
         <dictScrap>
-          <ref type="syn">persil</ref> ou <ref type="syn">céleri des marais</ref>,
+          <ref type="syn">persil</ref>
+          <ref type="syn">céleri des marais</ref>
           <foreign xml:lang="deu">Petresilie</foreign>
           <foreign xml:lang="eng">smallage</foreign>
           <foreign xml:lang="ita">appio</foreign>
@@ -2950,7 +2934,8 @@
         <sense n="1">Synonyme de <ref type="syn">diarthrose</ref>. V. <ref target="abréviation">Abréviation</ref>.</sense>
       </entry>
       <entry xml:id="add">
-        <form><orth>Add</orth></form>. V. <ref>Abrévation</ref>. 
+        <form><orth>Add</orth></form>
+        <sense n="1">V. <ref target="abréaviation">Abrévation</ref>.</sense> 
       </entry>
       <entry xml:id="addéphagie">
         <form><orth>Addéphagie</orth> OU <orth>Adéphagie</orth>. s. f.</form>
@@ -4130,7 +4115,8 @@
       <entry xml:id="agave">
         <form><orth>Agave</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">agave</foreign>, <etym>ά’άγαυός, admirable</foreign>
+          <foreign xml:lang="lat">agave</foreign>
+          <etym>ά’άγαυός, admirable</etym>
         </dictScrap>
         <sense n="1">Genre de la famille des amaryllidées, plantes vivaces ayant le port des aloès, mais propres à l’Amérique du Sud. Une espèce, l’<term>Agave americana</term>, L., s’est naturalisée sur les côtes de la Méditerranée ; on rappelle <ref type="syn">pite</ref> ou <ref type="syn">aloès</ref>. L'<term>Agave cubaensis</term>, Jacquin (<ref type="syn">maguey</ref> ou <ref type="syn">pulque</ref> des Américains), croît à Cuba et au Mexique ; on en retire une liqueur sucrée qui fermenté et prend la saveur du cidre (<hi>vin de pulque</hi>) ; la racine est substituée à celle de salsepareille, mais est inerte ; les faisceaux de fibres des feuilles de ces espèces servent à faire des cordes.</sense>
       </entry>
@@ -4626,7 +4612,8 @@
       <entry xml:id="aiguille">
         <form><orth>Aiguille</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">acus</foreign>, <etym>dont le diminutif <hi>acicula</hi> a donné <hi>aiguille</hi>,; </etym>
+          <foreign xml:lang="lat">acus</foreign>
+          <etym>dont le diminutif <hi>acicula</hi> a donné <hi>aiguille</hi>,; </etym>
           <foreign resp="#FR" xml:lang="grc">ῥαφὶς </foreign>
           <foreign resp="#FR" xml:lang="grc">βελόνη</foreign>
           <foreign xml:lang="deu">Nadel</foreign>
@@ -4668,7 +4655,7 @@
         </dictScrap>
         <sense n="1">Espèce de dard piquant et rétractile par lequel se termine le dernier anneau de l’abdomen chez quelques insectes (V. <ref target="abeille">Abeille</ref>).</sense>
         <sense>== Production dure et pointue que présentent certaines plantes, comme la rose, beaucoup de solanées, etc. <hi>L’aiguillon</hi> diffère de <hi>Xépine</hi> en ce qu’il naît seulement de l’épiderme, dont on le détache très-facilement, tandis que l’épine est un prolongement de la partie ligneuse.</sense>
-        <sense>— <xr><term>Aiguillon</term> (Vicq d’Azyr)</xr>. Cause prochaine et déterminante de l’inflammation ; cette expression n’est autre chose que la traduction du mot <hi>spina</hi>, que van Helmont avait employé, par une sorte de métaphore, pour expliquer sa théorie de l’inflammation.</sense>
+        <sense>— <term>Aiguillon</term> (Vicq d’Azyr). Cause prochaine et déterminante de l’inflammation ; cette expression n’est autre chose que la traduction du mot <hi>spina</hi>, que van Helmont avait employé, par une sorte de métaphore, pour expliquer sa théorie de l’inflammation.</sense>
       </entry>
       <entry xml:id="aiguiseur">
         <form><orth>Aiguiseur</orth>, s. m.</form>
@@ -4719,7 +4706,8 @@
       <entry xml:id="aileron">
         <form><orth>Aileron</orth>, s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">extrema ala</foreign> ou <foreign xml:lang="lat">pinnula></foreign>,
+          <foreign xml:lang="lat">extrema ala</foreign>
+          <foreign xml:lang="lat">pinnula></foreign>
           <etym>diminutif <hi>d’aile</hi></etym>
         </dictScrap>
         <sense n="1">Bouquet de trois à cinq petites plumes roides qui sont implantées sur le pouce de la main des oiseaux.</sense>
@@ -5037,8 +5025,8 @@
       <entry xml:id="albumen">
         <form><orth>Albumen</orth>, s. m.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>albus</hi>, blanc;
-          <foreign xml:lang="grc">τὸ λευκὸν τοῦ <choice><sic>ὠοῦ</sic><corr>ᾠοῦ</corr></choice></etym>
+          <etym xml:lang="grc">de <hi>albus</hi>, blanc;</etym>
+          <foreign xml:lang="grc">τὸ λευκὸν τοῦ <choice><sic>ὠοῦ</sic><corr>ᾠοῦ</corr></choice></foreign>
           <foreign xml:lang="deu">Eiweiss</foreign>
           <foreign xml:lang="ita">albume</foreign>
         </dictScrap>
@@ -5059,7 +5047,13 @@
           <foreign xml:lang="eng">albumine</foreign>
           <foreign xml:lang="ita">albumina</foreign>
           <foreign xml:lang="spa">albumina</foreign>
-          Lymphe animale coagulable, Rouelle, 1771-1776; <hi>matière</hi> ou <hi>lymphe coagulable du sérum</hi>, Sénac, 1749, et Hunter, 1795; <hi>deuxième espèce de gelée animale</hi>, ou <hi>matière albumineuse</hi>, ou <hi>albumen animal</hi>, Fourcroy; <hi>albumine</hi>, Fourcroy, 1792,</etym>
+          <ref type="syn">Lymphe animale coagulable</ref>, Rouelle, 1771-1776
+          <ref type="syn">matière <ex>coagulable du sérum</ex></ref>
+          <ref type="syn">lymphe coagulable du sérum</ref>, Sénac, 1749, et Hunter, 1795;
+          <hi>deuxième espèce de gelée animale</hi>
+          <ref type="syn">matière albumineuse</ref>
+          <ref type="syn">albumen animal</ref>, Fourcroy
+          <ref type="syn">albumine</ref>, Fourcroy, 1792,
         </dictScrap>
         <sense n="1">Principe immédiat des animaux, dont on connaît deux espèces. La première se trouve dans le sérum du sang, de la lymphe et du chyle, ainsi que dans quelques liquides sécrétés, normaux ou pathologiques; l’autre dans les œufs des oiseaux surtout, où elle forme une couche particulière enveloppant le jaune. V. <ref target="œuf">Œuf</ref>.</sense>
         <sense><term>Albumine d’œuf</term> ou <term><ex>albumine</ex> proprement dite</term> [10(C⁴⁰H³¹O?Az?) -| — Ph|S²J. Liquide transparent légèrement verdâtre, inodore et presque insipide, qui compose à lui seul presque entièrement le blanc d’œuf. C’est le produit de la sécrétion de glandes en grappe simple de l’oviducte des oiseaux, et, par conséquent, c’est le type des mucus dont il offre l’aspect strié, etc., sous le microscope avant sa coagulation. Réduite en poudre après une dessiccation lepte, elle forme une masse jaunâtre, brillante, cassante, transparente, qui se dissout complètement dans l’eau froide. Chauffée à 60°, elle se coagule et devient insoluble, sans cependant avoir changé de combinaison. Elle se dissout dans les acides très-étendus; un excès d’acide la précipite, et les acides concentrés la redissolvent, en la décomposant. Les alcalis concentrés la coagulent; étendus, ils l’empêchent d’être coagulée par la chaleur. Elle se combine, tant avec les acides, jouant alors le rôle de base, qu’avec les bases, jouant alors le rôle d’acide : ces combinaisons ont été appelées <hi>albuminates</hi>, mais à tort, car elle ne sature ni les uns ni les autres. D’après Mitscherlich, elle se combine avec les sels, notamment ceux de cuivre et de mercure, et forme ainsi des composés qui ont à peine de l’action sur l’économie, ce qui la rend précieuse dans un grand nombre d’empoisonnements. Des blancs d’œufs délayés dans l’eau, ou battus avec ce liquide, sont donc le contre-poison le plus efficace lorsque les accidents sont dus à quelqu’une de ces substances délétères, et particulièrement au sublimé corrosif; mais il faut administrer le blanc d’œuf dès le début et en grandes proportions. Las- saigne a reconnu que le sublimé formait avec l’albumine une combinaison insoluble, ou à peine soluble, que peut dissoudre le chlorure de sodium. Ce composé est sans doute aussi celui qui se forme dans la préparation des <hi>biscuits mercuriels</hi> d’Ollivier. V. <ref target="biscuit">Biscuit</ref>, <xr><ref target="chlorure">Chlorure</ref> de mercure</xr> et <ref target="clarification">Clarification</ref>.</sense>
@@ -5108,7 +5102,7 @@
       <entry xml:id="albuminose">
         <form><orth>Albuminose</orth>. s. f.</form>
         <dictScrap>
-          <ref type="syn">caséine du sang</ref>, Dumas et Cahours, etc</etym>
+          <ref type="syn">caséine du sang</ref>, Dumas et Cahours, etc
         </dictScrap>
         <sense n="1">V. <ref target="bioxyprotéine">Bioxyprotéine</ref> et <ref target="peptone">Peptone</ref>.</sense>
       </entry>
@@ -5620,7 +5614,7 @@
         <form><orth>Alhagi</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">Hedysarum alhagi (L.)</foreign>
-          diadelphic décandrie, L., légumineuses, J</etym>
+          diadelphic décandrie, L., légumineuses, J
         </dictScrap>
         <sense n="1">Sous-arbrisseau épineux qui croît dans la Perse et l’Arabie. Ses branches et ses feuilles se couvrent, pendant les chaleurs de l’été, d’une espèce de manne, d’abord liquide, qui se condense en petits grains. Cette manne est purgative, mais beaucoup moins que celle de Calabre.</sense>
       </entry>
@@ -5652,13 +5646,13 @@
         <form><orth>Aliboufier</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">Styrax (L.)</foreign>
-          décandrie monogynie, L., styracinées, J.;</etym>
+          décandrie monogynie, L., styracinées, J.;
           <foreign xml:lang="deu">Storaxbaum</foreign>
           <foreign xml:lang="spa">estoraque</foreign>
         </dictScrap>
         <sense n="1">Deux espèces de ce genre intéressent la médecine :</sense>
-        <sense>— l°le <term>Styrax officinal</term>, arbre de la Syrie, qui fournit le styrax ou <hi>storax</hi> calamite ; 
-        <sense>— 2° le <term>Styrax benzoin</hi>, arbre de Sumatra, de Java, etc., qui fournit le benjoin. V. <ref target="benjoin">Benjoin</ref>, <ref target="storax">Storax</ref> et <ref target="styracinées">Styracinées</ref>.</sense>
+        <sense>— l°le <term>Styrax officinal</term>, arbre de la Syrie, qui fournit le styrax ou <hi>storax</hi> calamite ;</sense> 
+        <sense>— 2° le <term>Styrax benzoin</term>, arbre de Sumatra, de Java, etc., qui fournit le benjoin. V. <ref target="benjoin">Benjoin</ref>, <ref target="storax">Storax</ref> et <ref target="styracinées">Styracinées</ref>.</sense>
       </entry>
       <entry xml:id="aliénation">
         <form><orth>Aliénation</orth>, s. f.</form>
@@ -6094,10 +6088,10 @@
           <foreign xml:lang="ita">aloe</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_1-99-img/image14.jpeg"/>
-        <sense n="1">Substance extracto-résineuse que l’on retire des feuilles épaisses et charnues de plusieurs <hi>aloès</hi>, genre de plantes de la famille des liliacées. Il en existe trois espèces dans le commerce :
-        <sense>— 1° L'<term>aloès socotrin</term> [<foreign xml:lang="lat">aloe socotorina</hi>), qui est le meilleur (Fig. 15), nous venait autrefois de Socotora, île située , près des côtes d’Arabie, d’où il a tiré son nom. On l’apporte maintenant du cap de Bonne- Espérance et de la Jamaïque. Il est en masses d’un brun foncé, d’une cassure résineuse et brillante, rouge et translucide sur les bords ; réduit en poudre, il est d’un jaune doré ou safrané; sa saveur est amère et un peu aromatique; son odeur un peu balsamique et tout à fait particulière. Il se dissout en totalité dans l’alcool et dans l’eau bouillante. On trouve dans le commerce un aloès très-pur, parfaitementjau- nc et transparent, qui ne diffère pas du soco- trin: on l’appelle <term>aloès en calebasse</term>, <term>aloès lucide</term>, <term>aloès du Cap</term> ou <term><ex>aloès</ex> des Barbades</hi>.</sense>
-        <sense>— 2° L’<term>aloès hépatique</term> [<foreign xml:lang="lat">aloe hepatica</hi>) : il est moins pur et tire son nom de sa couleur, analogue à celle du foie ; sa cassure est terne et opaque ; sa poudre, d’un jaune rougeâtre ; son odeur, forte et désagréable.
-        <sense>— 3° L'<term>aloès caballin</term> [<foreign xml:lang="lat">aloe caballina</term>, de <etym>caballus</etym>, cheval) : c’est le moins estimé; il n’est employé qu’en médecine vétérinaire. Il est presque noir et contient beaucoup de matières étrangères ; son odeur et sa saveur sont beaucoup plus fortes et plus désagréables. On retire ces trois espèces
+        <sense n="1">Substance extracto-résineuse que l’on retire des feuilles épaisses et charnues de plusieurs <hi>aloès</hi>, genre de plantes de la famille des liliacées. Il en existe trois espèces dans le commerce :</sense>
+        <sense>— 1° L'<term>aloès socotrin</term> [<foreign xml:lang="lat">aloe socotorina</foreign>), qui est le meilleur (Fig. 15), nous venait autrefois de Socotora, île située , près des côtes d’Arabie, d’où il a tiré son nom. On l’apporte maintenant du cap de Bonne- Espérance et de la Jamaïque. Il est en masses d’un brun foncé, d’une cassure résineuse et brillante, rouge et translucide sur les bords ; réduit en poudre, il est d’un jaune doré ou safrané; sa saveur est amère et un peu aromatique; son odeur un peu balsamique et tout à fait particulière. Il se dissout en totalité dans l’alcool et dans l’eau bouillante. On trouve dans le commerce un aloès très-pur, parfaitementjau- nc et transparent, qui ne diffère pas du soco- trin: on l’appelle <term>aloès en calebasse</term>, <term>aloès lucide</term>, <term>aloès du Cap</term> ou <term><ex>aloès</ex> des Barbades</term>.</sense>
+        <sense>— 2° L’<term>aloès hépatique</term> [<foreign xml:lang="lat">aloe hepatica</foreign>) : il est moins pur et tire son nom de sa couleur, analogue à celle du foie ; sa cassure est terne et opaque ; sa poudre, d’un jaune rougeâtre ; son odeur, forte et désagréable.</sense>
+        <sense>— 3° L'<term>aloès caballin</term> [<foreign xml:lang="lat">aloe caballina</foreign>, de <etym xml:lang="lat">caballus, cheval</etym>) : c’est le moins estimé; il n’est employé qu’en médecine vétérinaire. Il est presque noir et contient beaucoup de matières étrangères ; son odeur et sa saveur sont beaucoup plus fortes et plus désagréables. On retire ces trois espèces
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=63" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0063/full/full/0/default.jpg" n="0049"/>
            des <hi>Aloe socotorina</hi> (Fig. 15), <hi>spicata</hi> et <hi>vulgaris</hi>; leurs différences proviennent sans doute des procédés suivis pour leur extraction et leur évaporation. Le soco- trin s’obtient en incisant transversalement les feuilles, l’hépatique en est retiré par la pression ; le caballin, en broyant les débris des feuilles : ce dernier n’est employé que dans la médecine vétérinaire. Tous sont formés d’une matière résinoïde, âcre, amère et échauffante. Le socotrin en renferme environ un quart de son poids ; l’hépatique en.contient, dit-on, un tiers, avec une fécule ; celle-ci est plus abondante encore dans le caballin. L’aloès est tonique, purgatif et drastique, suivant les doses : comme tonique, 5 centigrammes à 20 en poudre ; comme purgatif, 30 centigrammes à 16ʳ,40. Il peut provoquer les hémor- rhoïdes et la menstruation. Guibourt a fait connaître deux autres aloès. Le premier, appelé <hi>aloès socotrin vrai</hi>, est envoyé de Bombay. Il a une surface luisante, claire, une odeur agréable qui se rapproche de la myrrhe. Sa couleur est rouge jaunâtre, avec un reflet pourpre. Il est dur, cassant, et se ramollit entre les doigts comme de la cire. Sa poudre est jaune d’or. Le deuxième, apporté aussi de Bombay, est <hi>l’hépatique vrai</hi>. Il a la couleur opaque du foie ; il coule comme la poix, quoiqu’il paraisse très-dur, l’odeur en est analogue à celle du précédent.</sense>
         <sense>— <term>Bois d’aloès</term>. V. <ref target="bois">Bois</ref>.</sense>
@@ -6734,7 +6728,7 @@
         </dictScrap>
         <sense n="1">Se dit des manifestations morbides d’orgueil et de vanité.</sense>
         <sense>— <term>Délire ambitieux</term>. Forme ordinaire des symptômes de la paralysie générale au début.</sense>
-        <sense>— <term>Manie <ex>ambitieuse</ex> ou <term>monomanie ambitieuse</term> ou <term><ex>monomanie</ex> orgueilleuse</term>. Forme d’aliénation dont les caractères sont un désir exagéré de la puissance et de la domination, etc., et surtout la croyance à la réalité du pouvoir matériel et intellectuel (V. <ref target="instinct">Instinct</ref>). Les malades ne s’occupent plus que de l’illustre origine dont ils se croient issus, des honneurs dont ils se pensent entourés, ou de la fortune immense qu’ils supposent posséder ou leur avoir été injustement enlevée. Ils exagèrent en parole et souvent en action tout ce qui se rapporte aux habitudes de la vie. Cette maladie est rarement à l’état simple et susceptible de guérison complète. C’est un symptôme fréquent de la paralysie générale. V. <ref target="paralysie">Paralysie</ref>.</sense>
+        <sense>— <term>Manie <ex>ambitieuse</ex></term> ou <term>monomanie ambitieuse</term> ou <term><ex>monomanie</ex> orgueilleuse</term>. Forme d’aliénation dont les caractères sont un désir exagéré de la puissance et de la domination, etc., et surtout la croyance à la réalité du pouvoir matériel et intellectuel (V. <ref target="instinct">Instinct</ref>). Les malades ne s’occupent plus que de l’illustre origine dont ils se croient issus, des honneurs dont ils se pensent entourés, ou de la fortune immense qu’ils supposent posséder ou leur avoir été injustement enlevée. Ils exagèrent en parole et souvent en action tout ce qui se rapporte aux habitudes de la vie. Cette maladie est rarement à l’état simple et susceptible de guérison complète. C’est un symptôme fréquent de la paralysie générale. V. <ref target="paralysie">Paralysie</ref>.</sense>
       </entry>
       <entry xml:id="amble">
         <form><orth>Amble</orth>, s. m.</form>
@@ -7146,7 +7140,7 @@
       <entry xml:id="ammi">
         <form><orth>Ammi</orth>. s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">Ammi majus</foreign>, pentandrie digynie, L., ombellifères, J.;</etym>
+          <foreign xml:lang="lat">Ammi majus</foreign>, pentandrie digynie, L., ombellifères, J.;
           <foreign xml:lang="deu">Ammey</foreign>
           <foreign xml:lang="ita">ammi</foreign>
         </dictScrap>
@@ -36500,20 +36494,20 @@
           <foreign xml:lang="ita">circonflesso</foreign>
           <foreign xml:lang="spa">circunflejo</foreign>
         </dictScrap>
-        <sense n="1">— <term>Artères<hi> et </hi>veines circonflexes</term>. On distingue : 1° au bras, les <hi>circonflexes antérieure</hi> et <hi>postérieure</hi> (scapulo-humé- rales, Ch.), qui naissent de l’axillaire, tantôt séparément, tantôt par un tronc commun, et se perdent dans le deltoïde; 2° à la cuisse, les <hi>circonflexes externe</hi> et <hi>interne</hi> (sous-trochantériennes, Ch.), fournies par la profonde de la cuisse ou musculaire profonde. Chaussier a appelé <hi>artère</hi> et <hi>veine circonflexes de l’ilium</hi> les artère et veine iliaques antérieures. V. <ref target="iliaque">Iliaque</ref>.</sense>
-        <sense>— <term>Nerf circonflexe</term> (sca- pulo-huméral, Ch.). Le même que l’<ref>axillaire</ref> (V. ce mot).</sense>
+        <sense n="1">— <term>Artères <ex>circonflexes</ex></term> et <term>veines circonflexes</term>. On distingue : 1° au bras, les <term>circonflexe antérieure</term> et <term><ex>circonflexe</ex> postérieure</term> (scapulo-humé- rales, Ch.), qui naissent de l’axillaire, tantôt séparément, tantôt par un tronc commun, et se perdent dans le deltoïde; 2° à la cuisse, les <term>circonflexe externe</term> et <term><ex>circonflexe</ex> interne</term> (sous-trochantériennes, Ch.), fournies par la profonde de la cuisse ou musculaire profonde. Chaussier a appelé <term>artère <ex>circonflexe de l'ilium</ex></term> et <term>veine circonflexes de l’ilium</term> les artère et veine iliaques antérieures. V. <ref target="iliaque">Iliaque</ref>.</sense>
+        <sense>— <term>Nerf circonflexe</term> (sca- pulo-huméral, Ch.). Le même que l’<ref target="axillaire">axillaire</ref> (V. ce mot).</sense>
       </entry>
       <entry xml:id="circonscrit">
         <form><orth>Circonscrit</orth>, ITE. adj.</form>
         <dictScrap>
           <foreign xml:lang="lat">circumscriptus</foreign>
           <etym>de <hi>circum</hi>, autour, <hi>eAscriptus</hi>, écrit, tracé</etym>
-          <foreign xml:lang="deu">umgranzt</foreign>
+          <foreign xml:lang="deu">umgränzt</foreign>
           <foreign xml:lang="ita">circonscritto</foreign>
           <foreign xml:lang="spa">circunscrito</foreign>
         </dictScrap>
         <sense n="1">Limité, borné.</sense>
-        <sense>— <term>Tumeurs circonscrites</term>. Celles dont les limites sont bien prononcées, par opposition à celles qui sont <ref>diffuses</ref>. V. ce mot.</sense>
+        <sense>— <term>Tumeurs circonscrites</term>. Celles dont les limites sont bien prononcées, par opposition à celles qui sont <ref target="diffus">diffuses</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="circonspection">
         <form><orth>Circonspection</orth>, s. f.</form>
@@ -36530,21 +36524,22 @@
       <entry xml:id="circonvolution">
         <form><orth>Circonvolution</orth>, s. f.</form>
         <dictScrap>
-          <etym>de <hi>circumvolvere</hi>, s’entortiller autour ; <hi>gyrus</hi></etym>
+          <etym>de <hi>circumvolvere</hi>, s’entortiller autour</etym> ;
+          <foreign xml:lang="lat">gyrus</foreign>
           <foreign xml:lang="deu">Windung</foreign>
           <foreign xml:lang="eng">circumvolution</foreign>
           <foreign xml:lang="ita">circonvoluzione</foreign>
           <foreign xml:lang="spa">circunvolucion</foreign>
         </dictScrap>
         <sense n="1">, Contours que décrivent lés intestins renfermés dans l’abdomen, ou saillies sinueuses de la surface du cerveau, parce qu’elles ressemblent aux circonvolutions intestinales. Les <hi>circonvolutions</hi>, qui se pressent en grand nombre à la surface du cerveau, sont des replis assez analogues à ceux qui se formeraient sur la périphérie d’une sphère creuse qu’on voudrait renfermer dans une autre sphère de plus petit diamètre. La production de ces plis, de leur engrènement réciproque, de leurs inflexions, de la profondeur des sillons de séparation, de leurs dissemblances sensibles d’un lobe cérébral (et même cérébelleux) à l’autre, résulte, en effet, d’une inégalité relative entre l’accroissement de la substance cérébrale, qui tend à s’étaler, et la boîte crânienne. Ce plissement se montre, dans le fœtus, toujours sur l’hémisphère gauche en premier lieu, et y reste plus prononcé qu’à droite (Gratiolet) d’une manière très-visible jusqu’à l’époque de la naissance ou un peu après ; ce qui explique pourquoi tous les peuples sont droitiers en raison de l’action croisée des lobes cérébraux, et les lésions dans l’aphasie montrent qu’il en est ainsi jusque dans les actes relatifs aux fonctions d’expression. Épais, arrondis et plus ou moins allongés, ces replis serpentent à la surface des hémisphères en saillies cylindroïdes, dont la direction et l’agencement réciproque, quoique différents d’un sujet et d’une moitié à l’autre, sont assujettis dans leur disposition la plus générale à une loi constante. Nulles dans les poissons, les reptiles, les oiseaux et les monotrèmes, rudimentaires chez la plupart des rongeurs et des édentés, les circonvolutions cérébrales arrivent à des proportions assez remarquables dans les carnassiers, les ruminants, les cétacés et les solipèdes, et atteignent leurs plus grandes dimensions chez les singes, l’éléphant, et surtout chez l’homme, qui, en cela, domine tout l’embranchement des vertébrés. Le. volume, le nombre, la longueur et les communications ou anastomoses des circonvolutions sont généralement en rapport avec le degré de développement du cerveau et du corps des animaux. Lorsqu’on divise une circonvolution dans toute son épaisseur, on constate qu’elle est formée à l’intérieur par de la substance blanche qui reproduit sa forme sous de moindres dimensions, et à l’extérieur par une couche de substance grise qui passe sans interruption d’une circonvolution à la circonvolution voisine, et dite <hi>couche corticale</hi> [all. <hi>Rindenblatt</hi>]. V. <ref target="cerveau">Cerveau</ref>..</sense>
-        <sense>— <term>Circonvolutions, lames <hi>ou</hi> lamelles cérébelleuses</term>. V. <ref target="cervelet">Cervelet</ref>.</sense>
-        <sense>— <term>Circonvolution du corps calleux, grande, crétée <hi>ou</hi> lingniforme</term> [<hi>gyrus cristatus linguiformis</hi>, all. <hi>Zungenwindung</hi>]. Celle qui contourne le corps calleux.</sense>
-        <sense>— <hi>Circonvolution de la grande fente, unciforme, en crochet</hi> ou <hi>de la corne d’Ammon</hi> [<hi>gyrus fornicatus, unciformis, hippocampi, subiculum cornu Ammonis</hi> ; all. <hi>Hakenwindung</hi>]. Continuation de la précédente, correspondant en avant à la partie renflée de la <hi>corne cl’Ammon</hi>; elle reçoit ces divers noms selon ses rapports et ses changements de forme dans son trajet.</sense>
-        <sense>— <term>Circonvolutions en coin</term> [<hi>gyri cuneiformes, abrupti, cuneus</hi>; all. <hi>Zwickel, Zwickelswindungen</hi>]. Petites circonvolutions enclavées les unes dans les autres, formant la pointe, calotte ou extrémité postérieure, ou occipitale, des lobes cérébraux.</sense>
-        <sense>— <term>Circonvolutions frontales</term> [all. <hi>Stirnwindungen</hi>]. On les distingue en l?, 2ᵉ et 3ᵉ, à compter de la scissure médiane et d’avant en arrière; elles ont ou non des appendices, viennent ensuite celles du <hi>lobe moyen</hi>.</sense>
-        <sense>— <term>Circonvolutions de l’ile</term>. Celles de l’<hi>insula</hi>.</sense>
-        <sense>— <hi>Circonvolution marginale, d’enceinte, enveloppante de la scissure de Sylvius ou</hi> 3ᵉ <hi>frontale</hi>. Celle qui borde la scissure de Sylvius.</sense>
-        <sense>— <term>Circonvolutions orbitaires ousus-orbitaires</term> [all. <hi>Orbitalwindungen</hi>]. Celles qui sont en dehors du lobule olfactif, à la face inférieure du lobe frontal, et reposent sur la voûte orbitaire.</sense>
+        <sense>— <term>Circonvolutions <ex>cérébelleuses</ex></term>, <term>lames <ex>cérébelleuses</ex></term> ou <term>lamelles cérébelleuses</term>. V. <ref target="cervelet">Cervelet</ref>.</sense>
+        <sense>— <term>Circonvolution du corps calleux grande</term>, <term><ex>circonvolution du corps calleux</ex> crétée</term> ou <term><ex>circonvolution du corps calleux</ex> linguiforme</term> [<foreign xml:lang="lat">gyrus cristatus linguiformis</foreign>, all. <foreign xml:lang="deu">Zungenwindung</foreign>]. Celle qui contourne le corps calleux.</sense>
+        <sense>— <term>Circonvolution de la grande fente</term>, <term><ex>circonvolution</ex> unciforme</term>, <term><ex>circonvolution</ex> en crochet</term> ou <term><ex>circonvolution</ex> de la corne d’Ammon</term> [<foreign xml:lang="lat">gyrus fornicatus</foreign>, <foreign xml:lang="lat"><ex>gyrus</ex> unciformis</foreign>, <foreign xml:lang="lat"><ex>gyrus</ex> hippocampi</foreign>, <foreign xml:lang="lat"><ex>gyrus</ex> subiculum cornu Ammonis</foreign> ; all. <foreign xml:lang="deu">Hakenwindung</foreign>]. Continuation de la précédente, correspondant en avant à la partie renflée de la <hi>corne cl’Ammon</hi>; elle reçoit ces divers noms selon ses rapports et ses changements de forme dans son trajet.</sense>
+        <sense>— <term>Circonvolutions en coin</term> [<foreign xml:lang="lat">gyri cuneiformes</foreign>, <foreign xml:lang="lat"><ex>gyri</ex> abrupti</foreign>, <foreign xml:lang="lat"><ex>gyri</ex> cuneus</foreign>; all. <foreign xml:lang="deu">Zwickel</foreign>, <foreign xml:lang="deu">Zwickelswindungen</foreign>]. Petites circonvolutions enclavées les unes dans les autres, formant la pointe, calotte ou extrémité postérieure, ou occipitale, des lobes cérébraux.</sense>
+        <sense>— <term>Circonvolutions frontales</term> [all. <foreign xml:lang="deu">Stirnwindungen</foreign>]. On les distingue en l?, 2ᵉ et 3ᵉ, à compter de la scissure médiane et d’avant en arrière; elles ont ou non des appendices, viennent ensuite celles du <hi>lobe moyen</hi>.</sense>
+        <sense>— <term>Circonvolutions de l’<choice><sic>ile</sic><corr>île</corr></choice></term>. Celles de l’<hi>insula</hi>.</sense>
+        <sense>— <term>Circonvolution marginale</term>, <term><ex>circonvolution</ex> d’enceinte</term>, <term><ex>circonvolution</ex> enveloppante de la scissure de Sylvius ou 3ᵉ frontale</term>. Celle qui borde la scissure de Sylvius.</sense>
+        <sense>— <term>Circonvolutions orbitaires</term> ou <term><ex>circonvolutions</ex> sus-orbitaires</term> [all. <foreign xml:lang="deu">Orbitalwindungen</foreign>]. Celles qui sont en dehors du lobule olfactif, à la face inférieure du lobe frontal, et reposent sur la voûte orbitaire.</sense>
       </entry>
       <entry xml:id="circulaire">
         <form><orth>Circulaire</orth>, adj.</form>
@@ -36555,7 +36550,7 @@
           <foreign xml:lang="ita">circolare</foreign>
           <foreign xml:lang="spa">circular</foreign>
         </dictScrap>
-        <sense n="1">Qui décrit un cercle : <hi>amputation circulaire</hi>. V. <ref target="amputation">Amputation</ref>.</sense>
+        <sense n="1">Qui décrit un cercle : <term>amputation circulaire</term>. V. <ref target="amputation">Amputation</ref>.</sense>
         <sense>— <term>Bandage circulaire</term>. V. <ref target="bandage">Bandage</ref>.</sense>
         <sense>— <term>Cautère circulaire</term>. V. <ref target="cautère">Cautère</ref>.</sense>
         <sense>— <term>Folie circulaire</term>. V. <ref target="folie">Folie</ref>.</sense>
@@ -36575,22 +36570,22 @@
           <foreign xml:lang="ita">circulazione</foreign>
           <foreign xml:lang="spa">circulacion</foreign>
         </dictScrap>
-        <sense n="1">Fonction caractérisée par le transport, dans l’appareil vasculaire, du sang et de la lymphe, quelle qu’en soit la direction, distribuant <hi>dans tous les organes</hi> les principes absorbés durant la <hi>digestion</hi> et l’<hi>inspira- tion</hi>, et se chargeant en même temps de ceux qui, devenus impropres à la nutrition, sont rejetés pendant l’<hi>expiration</hi> et dans l’<ref>urination</ref> (V. ces mots).·La circulation, ainsi qu’on le voit, sert particulièrement d’intermédiaire entre les diverses fonctions de la vie organique (V. <ref target="porte">Porte</ref>), au nombre desquelles elle compte, les liant, à leur tour, à celles de la vie animale. C’est là un résultat fondamental de l’accomplissement de cette fonction ; et, qu’il y ait ou non un ou plusieurs centres de circulation venant compliquer
+        <sense n="1">Fonction caractérisée par le transport, dans l’appareil vasculaire, du sang et de la lymphe, quelle qu’en soit la direction, distribuant <hi>dans tous les organes</hi> les principes absorbés durant la <ref target="digestion">digestion</ref> et l’<ref target="inspiration">inspiration</ref>, et se chargeant en même temps de ceux qui, devenus impropres à la nutrition, sont rejetés pendant l’<ref target="expiration">expiration</ref> et dans l’<ref target="urination">urination</ref> (V. ces mots).·La circulation, ainsi qu’on le voit, sert particulièrement d’intermédiaire entre les diverses fonctions de la vie organique (V. <ref target="porte">Porte</ref>), au nombre desquelles elle compte, les liant, à leur tour, à celles de la vie animale. C’est là un résultat fondamental de l’accomplissement de cette fonction ; et, qu’il y ait ou non un ou plusieurs centres de circulation venant compliquer
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=321" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0321/full/full/0/default.jpg" n="0307"/>
-           l’acte général, le résultat reste au fond le même. L’appareil et, par suite, la fonction, sont absents où manquent les appareils de la vie animale et l’animalité, comme chez les plantes, et même partout où ces appareils et l’animalité sont peu prononcés, comme on le voit sur les embryons ou les larves dé divers invertébrés, ainsi que dans quelques rayonnés et infusoires. La circulation a pour condition fondamentale d’existence (comme le montrent la production ou l’introduction de gaz dans les vaisseaux) la propriété physique d’incompressibilité des liquides, et elle satisfait à la condition de renouvellement des matériaux qui ont servi ou doivent servir indispensablement pour que la nutrition ait heu. C’est la plus élevée, en complication, de toutes les fonctions de la vie végétative chez les êtres qui la possèdent, et ceux-là seuls qui la possèdent ont une organisation complexe. Avec l’<ref>urination</ref> (V. ce mot), elle est la première qui disparaît, lorsqu’on partant de l’homme on descend aux êtres plus simples. La circulation est un mouvement successif et, pour ainsi dire, circulaire du sang, qui est poussé par le cœur dans les artères et rapporté à cet organe par les veines, pour en repartir de nouveau. Projeté dans l’aorte par les contractions du ventricule gauche, le sang, d’un rouge éclatant et chargé de principes nutritifs, parcourt rapidement toutes les divisions et subdivisions du système artériel, et arrive ainsi dans le système capillaire général, où il fournit les matériaux de l’assimilation, et reçoit ceux de la désassimilation. Les vaisseaux capillaires, intermédiaires entre les dernières ramifications des artères et les veines les plus ténues, le transmettent, ainsi dépouillé de sa qualité vivifiante et converti en sang noir, au système veineux, dont les divisions,· diminuant successivement de nombre, viennent toutes aboutir aux veines caves, et porter dans l’oreillette droite du cœur, non- seulement le sang, mais encore la lymphe et le chyle réparateur versé par le canal thoracique dans la sous- . clavière gauche, et dans la droite par la grande veine lymphatique droite. De l’oreillette droite, le sang passe dans le ventricule correspondant, dont la contraction le projette par l’artère pulmonaire dans le système capillaire des poumons, où il est revivifié par l’acte de la respiration, qui lui rend la couleur rouge caractéristique du sang artériel. Dans cet état, il est rapporté au cœur par la veine pulmonaire ; l’oreillette gauche, qui le reçoit, le transmet à son ventricule, qui se contracte pour le chasser de nouveau par l’aorte, et lui fait ainsi recommencer sans cesse le trajet qu’il a déjà parcouru. V. <ref>Coeur</ref>.</sense>
-        <sense>— <term>Circulation générale</term>. L’ensemble des mouvements circulatoires, la circulation du sang dans toute l’économie. On a décrit, dans tous les traités de <hi>physiologie</hi> publiés jusqu’à ce jour, une <hi>grande</hi> et une <hi>petite circulation</hi>. Hiffelsheim a montré qu’il n’y a physiologiquement, en fait, qu’un <hi>circuit</hi> composé de deux <hi>Segments</hi>. Tous les phénomènes se passent dans le cercle circulatoire, comme dans une série de tubes continus, non interrompus, toujours remplis d’un liquide.</sense>
+          l’acte général, le résultat reste au fond le même. L’appareil et, par suite, la fonction, sont absents où manquent les appareils de la vie animale et l’animalité, comme chez les plantes, et même partout où ces appareils et l’animalité sont peu prononcés, comme on le voit sur les embryons ou les larves dé divers invertébrés, ainsi que dans quelques rayonnés et infusoires. La circulation a pour condition fondamentale d’existence (comme le montrent la production ou l’introduction de gaz dans les vaisseaux) la propriété physique d’incompressibilité des liquides, et elle satisfait à la condition de renouvellement des matériaux qui ont servi ou doivent servir indispensablement pour que la nutrition ait heu. C’est la plus élevée, en complication, de toutes les fonctions de la vie végétative chez les êtres qui la possèdent, et ceux-là seuls qui la possèdent ont une organisation complexe. Avec l’<ref target="urination">urination</ref> (V. ce mot), elle est la première qui disparaît, lorsqu’on partant de l’homme on descend aux êtres plus simples. La circulation est un mouvement successif et, pour ainsi dire, circulaire du sang, qui est poussé par le cœur dans les artères et rapporté à cet organe par les veines, pour en repartir de nouveau. Projeté dans l’aorte par les contractions du ventricule gauche, le sang, d’un rouge éclatant et chargé de principes nutritifs, parcourt rapidement toutes les divisions et subdivisions du système artériel, et arrive ainsi dans le système capillaire général, où il fournit les matériaux de l’assimilation, et reçoit ceux de la désassimilation. Les vaisseaux capillaires, intermédiaires entre les dernières ramifications des artères et les veines les plus ténues, le transmettent, ainsi dépouillé de sa qualité vivifiante et converti en sang noir, au système veineux, dont les divisions,· diminuant successivement de nombre, viennent toutes aboutir aux veines caves, et porter dans l’oreillette droite du cœur, non- seulement le sang, mais encore la lymphe et le chyle réparateur versé par le canal thoracique dans la sous- . clavière gauche, et dans la droite par la grande veine lymphatique droite. De l’oreillette droite, le sang passe dans le ventricule correspondant, dont la contraction le projette par l’artère pulmonaire dans le système capillaire des poumons, où il est revivifié par l’acte de la respiration, qui lui rend la couleur rouge caractéristique du sang artériel. Dans cet état, il est rapporté au cœur par la veine pulmonaire ; l’oreillette gauche, qui le reçoit, le transmet à son ventricule, qui se contracte pour le chasser de nouveau par l’aorte, et lui fait ainsi recommencer sans cesse le trajet qu’il a déjà parcouru. V. <ref target="cœur">Cœur</ref>.</sense>
+        <sense>— <term>Circulation générale</term>. L’ensemble des mouvements circulatoires, la circulation du sang dans toute l’économie. On a décrit, dans tous les traités de <hi>physiologie</hi> publiés jusqu’à ce jour, une <term>grande <ex>circulation</ex></term> et une <term>petite circulation</term>. Hiffelsheim a montré qu’il n’y a physiologiquement, en fait, qu’un <hi>circuit</hi> composé de deux <hi>Segments</hi>. Tous les phénomènes se passent dans le cercle circulatoire, comme dans une série de tubes continus, non interrompus, toujours remplis d’un liquide.</sense>
         <sense>— On doit à Guillaume Harvey (1619) les premières connaissances exactes sur la circulation, entrevue auparavant par Servet. Mais, aujourd’hui même, les physiologistes ne sont point d’accord sur la part qu’ont, dans cette importante fonction, les quatre parties de l’appareil circulatoire (cœur, artères, système capillaire, veines)..Le cœur en est l’agent principal; mais les artères jouent un rôle de première importance par leur élasticité. A ces deux puissances ajoutons la contractilité des capillaires, celle des veines, favorisée par leurs valvules. La circulation du sang n’est point un courant uniforme; elle se fait avec une rapidité variable suivant les différents points du trajet; mais elle n’est jamais absolument interrompue. Hiffelsheim a lait voir que le ventricule ne se vide pas complètement. Après l’occlusion des valvules auriculo- ventriculaires par le sang, celui-ci s’échappe par les artères. Malgré la contraction du ventricule, bientôt les valvules <hi>ne Sont plus fermées, le Sang diminuant</hi>; dès lors irruption d’en haut. La rapidité, dans les différents points, dépend de conditions le plus souvent locales; de plus, il y a des trajets en retour (V. <ref target="porte">Porte</ref>). On a cherché à apprécier la rapidité de la circulation. Hiffelsheim a montré que l’on a confondu ce qui est physique avec ce qui est organique dans cette question. Le problème physique est double. H y a à étudier : 1° La <hi>durée</hi>, c’est-à dire le temps que met une molécule de. sang partant d’un point pour y revenir, après avoir traversé le <hi>cercle mathématique</hi> de la circulation, ou cercle moyen entre le plus grand et le plus petit. D’après lui, la durée moyenne est de 2 minutes 16 secondes. 2° La <hi>vitesse</hi>. Celle-là suppose connu l’espace parcouru. Quelques-uns seulement l’ont mesuré, et encore partiellement; les autres ont fait des recherches sur des <hi>durées</hi> partielles.</sense>
         <sense>— Tous les animaux n’ont pas une véritable circulation (infusoires, spongiaires). Chez certains annélides, l’appareil circulatoire ne consiste qu’en vaisseaux dont les uns recueillent le sang dans l’organe de la respiration où il se forme, et le distribuent à toutes les parties du corps, tandis que les autres le ramènent de celles-ci à l’organe respiratoire. Ailleurs, il existe en outre un agent d’impulsion qui est un muscle creux, appelé <hi>cœur</hi>. Ici encore les diversités sont nombreuses. Les insectes ont un cœur (<hi>vaisseau dorsal</hi>) qui, par l’une de ses extrémités, pousse le liquide nourricier dans un système vasculaire très- simple, d’où il revient à l’autre extrémité de ce même organe. Les crustacés et les arachnides ont un cœur aortique sans cœur pulmonaire. Chez les céphalopodes, il y a deux cœurs pulmonaires ou branchiaux, séparés l’un de l’autre, et dans l’intervalle desquels se trouve un cœur aortique, de sorte qu’il existe réellement ici deux cercles artériels et veineux, un pour chaque côté du corps, dont le point de convergence est au cœur aortique. Les autres moUusques n’ont qu’un cœur pulmonaire, sans cœur aortique. Sur les poissons, il y a un cœur branchial volumineux et puissant; ils sont privés de cœur aortique, et le sang ne circule dans leurs corps que par l’impulsion reçue du muscle qui l’a poussé d’abord dans les branchies. Sur les reptiles écailleux, le cœur se compose de deux oreillettes, l’une pour le sang veineux du corps, l’autre pour le sang artérialîsé des poumons, et de deux ventricules, mis en communication, qui distribuent le sang aux poumons et au reste du corps. Le cœur des reptiles à peau nue a deux oreillettes et un seul ventricule, et préside aux deux circulations à la fois. Dans cette classe donc, le cœur est à la fois aortique et pulmonaire, quoique simple. Enfin, sur les oiseaux et les mammifères, comme sur l’homme, il existe un cœur double, un organe qu’on peut regarder comme formé de deux cœurs adossés, l’un pulmonaire, f autre aortique. V. <ref target="respiration">Respiration</ref>.</sense>
-        <sense>— <term>Circulation capillaire</term>. Passage du sang des artères dans les veines en traversant le système des vaisseaux <ref>capillaires</ref> (V. ce mot). On la suit aisément sous le microscope, qui fait distinguer le système artériel, le veineux et les différents ordres capillaires. La circulation centrifuge est plus rapide que celle de retour; entre ces deux courants, on rémarque la circulation capillaire qui se caractérise par sa moindre rapidité et la direction des courants en sens aussi divers que ceux des conduits. Les artères, les veiner et même les gros capillaires présentent, de chaque côté de la colonne centrale courante des globules rouges, la <hi>zone latérale transparente</hi> formée du liquide hyalin ou plasma avec ou sans leucocytes, qui est surtout bien accusée
+        <sense>— <term>Circulation capillaire</term>. Passage du sang des artères dans les veines en traversant le système des vaisseaux <ref target="capillaire">capillaires</ref> (V. ce mot). On la suit aisément sous le microscope, qui fait distinguer le système artériel, le veineux et les différents ordres capillaires. La circulation centrifuge est plus rapide que celle de retour; entre ces deux courants, on rémarque la circulation capillaire qui se caractérise par sa moindre rapidité et la direction des courants en sens aussi divers que ceux des conduits. Les artères, les veiner et même les gros capillaires présentent, de chaque côté de la colonne centrale courante des globules rouges, la <hi>zone latérale transparente</hi> formée du liquide hyalin ou plasma avec ou sans leucocytes, qui est surtout bien accusée
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=322" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0322/full/full/0/default.jpg" n="0308"/>
            dans les vaisseaux à courant centrifuge, où le torrent <hi>central</hi> ou <hi>axile</hi> est très-marque. Cette zone est aussi appelée <hi>espace blanc, couche globulaire inerte</hi>. Les pulsations cardiaques retentissent dans tout le système artériel, mais ne se font nullement sentir dans les capillaires proprement dits ni dans les veines. Ce n’est que lorsque la circulation s’est très-ralentie ou presque suspendue dans les capillaires et qu’elle reprend, qu’on voit l’impulsion cardiaque se faire sentir jusque dans les capillaires. Il sera toujours facile à l’observateur de trouver des ramusculos vasculaires où les éléments passent pour ainsi dire un à un, de les suivre des artérioles jusque dans les veinules, de les compter pendant quelques secondes et même p'endant quelques minutes. On peut admettre assez rigoureusement que dans une minute il passe dans un capillaire une dizaine de globules blancs pour cent rouges (Yict. Feltz).</sense>
         <sense>— Une excitation modérée fait contracter les vaisseaux, et une excitation excessive les fait dilater. Cette dilatation est <hi>passive, atonique</hi> ou <hi>paralytique</hi>. Des physiologistes avaient admis que la dilatation des capillaire sretarde le cours du sang, et que leur contraction l’accélère. Marey a prouvé que la contraction des vaisseaux ralentit la circulation ; leur dilatation l’accélère, active l’écoulement du sang des artères et, par suite, le nombre des battements fébriles du cœur chargé de pousser le liquide qui satisfait à l’écoulement. L’état de plus ou moins forte contraction des vaisseaux se traduit dans les maladies par deux états pathologiques tranchés : l°La contraction trop forte, par l’algidité (le pouls peu fréquent le plus souvent). 2° La contraction trop faible, par la fièvre (le pouls fréquent, ou la congestion locale). Dans chacun de ces états pathologiques s’observe l’état de contraction ou de dilatation vasculaire, soit du côté des tissus (température, couleur, gonflement), soit du côté de la tension sanguine (caractères du pouls et bruits de souffle vasculaire). Demêmequedanslesexpériences physiologiques, on voit en pathologie la contraction des vaisseaux'suivie de leur relâchement, c’est-à-dire l’algidité suivie de fièvre (ce qui a été appelé à tort période de réaction). L’inflammation dans la première période est un état congestif dû à l’atonie vasculaire ; toutes les causes d’inflammation s’expliquent par la théorie de l’<hi>épuisement</hi>, suite d’üne excitation trop forte. V. <ref target="vaso-moteur">Vaso-moteur</ref>.</sense>
         <sense>— <term>Circulation dérivative</term> (Sucquet). Pour une même impulsion, il y a deux modes d’écoulement du sang, subordonnés chacun à une particularité distincte dans la constitution anatomique du système sanguin : l’un, à partir de la fin des artères, constitue la circulation capillaire proprement dite, et qui peut être appelée circulation capillaire générale profonde ou interstitielle, ou circulation <hi>nutritive</hi>; l’autre, à partir du même point, consiste dans l’abouchement, avec les veines, d’artérioles qui, ne se subdivisant plus en très-fins capillaires, comme les autres vaisseaux du même volume, conservent un volume relativement grand au delà des organes auxquels elles ont fourni des divisions ; c’est la <hi>circulation dérivative</hi>.</sense>
-        <sense>— <term>Circulation fœtale</term>. V. <ref>Foetus</ref>.</sense>
-        <sense>— <term>Circulation lacunaire</term>. V. <ref>Lacunaihe</ref>.</sense>
+        <sense>— <term>Circulation fœtale</term>. V. <ref target="fœtus">Fœtus</ref>.</sense>
+        <sense>— <term>Circulation lacunaire</term>. V. <ref target="lacunaire">Lacunaire</ref>.</sense>
         <sense>— <term>Circulation placentaire</term>. V. <ref target="placenta">Placenta</ref>.</sense>
-        <sense>== En botanique, <hi>Circulation du latex</hi>. V. <ref target="latex">Latex</ref>.</sense>
-        <sense>— <term>Circulation des plantes ou de la sève</term>. V. <ref target="sève">Sève</ref>.</sense>
+        <sense>== En botanique, <term>Circulation du latex</term>. V. <ref target="latex">Latex</ref>.</sense>
+        <sense>— <term>Circulation des plantes</term> ou <term><ex>circulation</ex> de la sève</term>. V. <ref target="sève">Sève</ref>.</sense>
       </entry>
       <entry xml:id="circulatoire">
         <form><orth>Circulatoire</orth>, adj.</form>
@@ -36599,7 +36594,7 @@
           <foreign xml:lang="ita">circulatorio</foreign>
         </dictScrap>
         <sense n="1">Qui a rapport à la circulation.</sense>
-        <sense>— <term>Appareil <hi>ou</hi> organe circulatoire</term>. Ensemble des organes qui servent à la circulation. V. <ref target="aorte">Aorte</ref> et <ref>Coeuh</ref>.</sense>
+        <sense>— <term>Appareil <ex>cirulatoire</ex></term> ou <term>organe circulatoire</term>. Ensemble des organes qui servent à la circulation. V. <ref target="aorte">Aorte</ref> et <ref target="cœur">Cœur</ref>.</sense>
         <sense>— <term>Angoisses circulatoires</term>. V. <ref target="besoin">Besoin</ref>.</sense>
         <sense>— <term>Embarras circulatoire</term>. V. <ref target="congestion">Congestion</ref> et <ref target="inflammation">Inflammation</ref>.</sense>
         <sense>— <term>Gène circulatoire</term>! V. <ref target="angoisse">Angoisse</ref>.</sense>
@@ -36611,7 +36606,7 @@
           <etym>de <hi>circumducere</hi>, conduire autour </etym>
           <foreign xml:lang="deu">Kreisbewegung</foreign>
           <foreign xml:lang="eng">circumduction</foreign>
-          <foreign xml:lang="ita">ctrconduzione</foreign>
+          <foreign xml:lang="ita">circonduzione</foreign>
           <foreign xml:lang="spa">circumduccion</foreign>
         </dictScrap>
         <sense n="1">Mouvement dans lequel un membre ou un os décrit en quelque sorte un cône dont le sommet est dans l’articulation supérieure, et la base dans l’inférieure.</sense>
@@ -36626,28 +36621,27 @@
       </entry>
       <entry xml:id="circum-utérin">
         <form><orth>Circum-utérin</orth>.</form>
-        <sense n="1">V. <ref>Périutérin</ref>.</sense>
+        <sense n="1">V. <ref target="péri-utérin">Péri-utérin</ref>.</sense>
       </entry>
       <entry xml:id="cire">
         <form><orth>Cire</orth>. s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cera</foreign>
-          <foreign xml:lang="grc"/>
+          <foreign resp="#FR" xml:lang="grc">κηρὸς</foreign>
           <foreign xml:lang="deu">Wachs</foreign>
           <foreign xml:lang="eng">wax</foreign>
           <foreign xml:lang="ita">cera</foreign>
           <foreign xml:lang="spa">cera</foreign>
-          <foreign resp="#FR" xml:lang="grc">κηρὸς</foreign>
         </dictScrap>
-        <sense n="1">, Substance produite par les abeilles, et avec laquelle ces insectes forment les alvéoles où ils déposent leur provision de miel et élèvent leur progéniture. La cire est un produit de sécrétion de follicules glandulaires placés sur les côtés des anneaux du ventre; les abeilles en détachent les fragments réguliers, moulés en quelque sorte au moment de leur production et entassés ensuite régulièrement par ces animaux. On a cru à tort qu’eUe était produite à l’aide du pollen des fleurs; celui- ci ne sert qu’à l’alimentation, comme le sucre. La cire, telle qu’on l’obtient en faisant fondre dans l’eau le marc provenant de l’expression des gâteaux de miel, est une matière solide, jaunâtre, opaque, insipide, inodore, dure et cassante à une basse température, molle et ductile à 40° ou 45° centigrades, fusible à environ 65°, se transformant, à 100°, en un liquide transparent, oléagineux, plus léger que l’eau distillée. Exposée à l’air en lames minces et humectée souvent avec de l’eau, elle perd sa couleur jaune et se transforme en <hi>cire blanche</hi>, fusible à 64° ou 65°; on peut aussi la traiter par le chlore fibre ou le chlorure de chaux. La cire est insoluble dans l’eau, entièrement soluble dans l’essence de térébenthine; l’alcool bouillant en dissout peu, 0,02 de son poids; les huiles fixes et les corps gras s’unissent avec elle en toutes proportions; elle forme, avec les alcalis, des composés savonneux employés dans les arts sous le nom <hi>à’encaustiques</hi>. La cire est composée de trois principes : la <hi>cérine, '</hi> la <hi>céroléine</hi> et la <hi>myricine</hi>. Elle donne, par la distillation, un peu d’eau acide, des gaz combustibles, des huiles liquides isomères, du gaz oléifiant, de l’acide margarique, et un composé très-voisin de la paraffine. La cire fait la base du cérat et de plusieurs composés emplastiques.</sense>
+        <sense n="1">, Substance produite par les abeilles, et avec laquelle ces insectes forment les alvéoles où ils déposent leur provision de miel et élèvent leur progéniture. La cire est un produit de sécrétion de follicules glandulaires placés sur les côtés des anneaux du ventre; les abeilles en détachent les fragments réguliers, moulés en quelque sorte au moment de leur production et entassés ensuite régulièrement par ces animaux. On a cru à tort qu’eUe était produite à l’aide du pollen des fleurs; celui- ci ne sert qu’à l’alimentation, comme le sucre. La cire, telle qu’on l’obtient en faisant fondre dans l’eau le marc provenant de l’expression des gâteaux de miel, est une matière solide, jaunâtre, opaque, insipide, inodore, dure et cassante à une basse température, molle et ductile à 40° ou 45° centigrades, fusible à environ 65°, se transformant, à 100°, en un liquide transparent, oléagineux, plus léger que l’eau distillée. Exposée à l’air en lames minces et humectée souvent avec de l’eau, elle perd sa couleur jaune et se transforme en <term>cire blanche</term>, fusible à 64° ou 65°; on peut aussi la traiter par le chlore fibre ou le chlorure de chaux. La cire est insoluble dans l’eau, entièrement soluble dans l’essence de térébenthine; l’alcool bouillant en dissout peu, 0,02 de son poids; les huiles fixes et les corps gras s’unissent avec elle en toutes proportions; elle forme, avec les alcalis, des composés savonneux employés dans les arts sous le nom <hi>à’encaustiques</hi>. La cire est composée de trois principes : la <hi>cérine, '</hi> la <hi>céroléine</hi> et la <hi>myricine</hi>. Elle donne, par la distillation, un peu d’eau acide, des gaz combustibles, des huiles liquides isomères, du gaz oléifiant, de l’acide margarique, et un composé très-voisin de la paraffine. La cire fait la base du cérat et de plusieurs composés emplastiques.</sense>
         <sense>— <term>Cire des Andaquies</term>. Matière produite, en petits fragments de 100 à 250 grammes, par un petit insecte mel- lipare, du nom <hi>d’avesa</hi>, qui la dépose sur une seule espèce d’arbre des plateaux de l’Orénoque supérieur; elle contient 50 parties de palmitine, 45 de cérolène, et 5 d’huile, et entre en fusion à 77°.</sense>
         <sense>— <term>Cire vierge</term>. Nom vulgaire de la cire blanche et pure.</sense>
-        <sense>— <term>Beurre de cire</term>. V. <ref>Beumœ</ref>.</sense>
+        <sense>— <term>Beurre de cire</term>. V. <ref target="beurre">Beurre</ref>.</sense>
         <sense>— <term>Emplâtre de cire</term>. Emplâtre composé de : 5 parties de cire jaune, autant de suif de mouton, et 1 partie de poix blanche, qu’on fait liquéfier sur un feu doux et qu’on passe à travers un linge.</sense>
         <sense>— <term>Emplâtre de cire verte</term> (emplâtre d’acétate de cuivre). 11 est composé de : 4 parties de cire jaune, 2 de poix blanche, une de térébenthine, et une de sous-acétate de cuivre.</sense>
         <sense>— <term>Huile de cire</term>. V. <xr><ref target="huile">Huile</ref> empyreumatique</xr>.</sense>
         <sense>— <term>Cires végétales</term>. Substances qui ont quelque analogie avec la cire des abeilles, et qu’on obtient en exprimant les feuilles de certains végétaux; traitant le marc par l’eau et l’alcool froid, puis le résidu par l’ammoniaque, et précipitant la cire par la saturation de l’alcali au moyen d’un acide.</sense>
-        <sense>— <term>Ciredepalme</term>^ . [<hi>cera de palma</hi>). Matière cireuse, dure, poreuse, friable, fusible à 72°; formée d’une résine et de <ref>céroxyline</ref> (V. ce mot), qui est exsudée par les feuilles et le tronc du <hi>Ceroxylon andicola</hi>, Humboldt, grand palmier dès Andes péruviennes.</sense>
+        <sense>— <term>Cire de palme</term>. [<hi>cera de palma</hi>). Matière cireuse, dure, poreuse, friable, fusible à 72°; formée d’une résine et de <ref target="céroxyline">céroxyline</ref> (V. ce mot), qui est exsudée par les feuilles et le tronc du <hi>Ceroxylon andicola</hi>, Humboldt, grand palmier dès Andes péruviennes.</sense>
         <sense>— <term>Cire de carnauba</term>. Matière cireuse, analogue
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=323" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0323/full/full/0/default.jpg" n="0309"/>
            à la cire d’abeille, fournie par un palmier, le <hi>Co- rypha cerifera</hi>, Martius, du nord du Brésil; elle est d’un blanc jaunâtre, sèche, cassante, à cassure lisse ; elle fond à 83°,5.</sense>
@@ -36656,7 +36650,7 @@
         <sense>— <term>Cire du Japon</term>. V. <ref target="palmitine">Palmitine</ref>.</sense>
         <sense>— <term>Cire de la canne à sucre</term>. V. <ref>Gérosie</ref>.</sense>
         <sense>== <term>Cire minérale</term>. Substance composée en grande partie de paraffine, qu’on trouve dans le voisinage de la houille, et dont on fait des bougies.</sense>
-        <sense>== En anatomie, <hi>cire cérébrale</hi>, V. <ref target="céphalote">Céphalote</ref> et <ref target="cérébrique">Cérébrique</ref>.</sense>
+        <sense>== En anatomie, <term>cire cérébrale</term>, V. <ref target="céphalote">Céphalote</ref> et <ref target="cérébrique">Cérébrique</ref>.</sense>
       </entry>
       <entry xml:id="cireux">
         <form><orth>Cireux</orth>, EUSE. adj.</form>
@@ -36669,12 +36663,12 @@
       <entry xml:id="cirillo">
         <form> <orth>Cirillo</orth> </form>
         <dictScrap>
-          <etym>médecin napolitain, 1734-1799</etym>
+          médecin napolitain, 1734-1799
         </dictScrap>
         <sense n="1">— <term>Pommade de Cirillo</term>. V. <ref target="pommade">Pommade</ref>.</sense>
       </entry>
       <entry xml:id="ciroène">
-        <form><orth>Ciroène</orth> ou CIROUÈNE. s. m.</form>
+        <form><orth>Ciroène</orth> ou <orth>Cirouène</orth>. s. m.</form>
         <sense n="1">V. <ref target="céroène">Céroène</ref>.</sense>
       </entry>
       <entry xml:id="ciron">
@@ -36682,25 +36676,26 @@
         <dictScrap>
           <foreign xml:lang="deu">Milbe</foreign>
         </dictScrap>
-        <sense n="1">Chez les anciens naturalistes, ce mot désigne les <hi>insectes aptères pourvus de quatrepaires de pattes, parasites des êtres vivants</hi>. Linné les a fait entrer dans son genre <hi>Acarus</hi> avec les <ref>mites</ref> (V. ce mot), et appelait <hi>Acarus siroAa</hi> mite du fromage; depuis lors, d’autres auteurs les ont confondus souvent avec les <hi>mites</hi>, ou les ont considérés comme une subdivision de celles-ci. Ils sont compris actuellement dans la famille des <hi>Sar- coptides</hi> principalement.</sense>
-        <sense>— <term>Ciron domestique <hi>ou</hi> du fromage</term>. V. <ref target="tyroglyphe">Tyroglyphe</ref>.</sense>
+        <sense n="1">Chez les anciens naturalistes, ce mot désigne les <hi>insectes aptères pourvus de quatrepaires de pattes, parasites des êtres vivants</hi>. Linné les a fait entrer dans son genre <hi>Acarus</hi> avec les <ref target="mite">mites</ref> (V. ce mot), et appelait <hi>Acarus siroAa</hi> mite du fromage; depuis lors, d’autres auteurs les ont confondus souvent avec les <hi>mites</hi>, ou les ont considérés comme une subdivision de celles-ci. Ils sont compris actuellement dans la famille des <hi>Sar- coptides</hi> principalement.</sense>
+        <sense>— <term>Ciron domestique</term> ou <term><ex>ciron</ex> du fromage</term>. V. <ref target="tyroglyphe">Tyroglyphe</ref>.</sense>
       </entry>
       <entry xml:id="cirre">
         <form><orth>Cirre</orth>, s. m.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>cirrus</hi>, boucle de cheveux, frange, huppe ; πλεκτάνη</etym>
+          <etym xml:lang="grc">de <hi>cirrus</hi>, boucle de cheveux, frange, huppe</etym> ;
+          <foreign xml:lang="grc">πλεκτάνη</foreign>
           <foreign xml:lang="deu">Ranke</foreign>
           <foreign xml:lang="eng">tendril</foreign>
           <foreign xml:lang="ita">cirro</foreign>
         </dictScrap>
-        <sense n="1">En botanique, <hi>cirres</hi> (<hi>vrilles</hi> ou <hi>mains</hi>), appendices filiformes, simples ou rameux, diversement tortillés ou roulés, au moyen desquels certaines plantes s’attachent aux corps voisins. =En zoologie : 1° Certaines plumes placées autour des narines des oiseaux, manquant de barbules complètement ou à peu près : c’est plutôt <hi>cil</hi> qu’il faudrait dire, d’après l’aspect et la structure. 2° Tentacules labiaux ou barbiUons de quelques poissons. 3° Chez les annélides, appendices mous, lisses ou moniliformes, pairs, au nombre de deux; un inférieur, un supérieur de chaque côté, à chaque anneau: ceux de l’avant-dernier anneau, quand ils prennent un grand allongement, sont des <hi>styles</hi> ; ceux des anneaux céphaliques constituent les <hi>cirres tentaculaires</hi> ou <hi>antennes</hi>. Il ne faut pas confondre les cirres avec les faisceaux de soies. 4° Petits appendices cylindriques, en lanières ou filamenteux, des bords du manteau de divers mollusques. 5° Organes érectiles, rétractiles, musculaires et vasculaires, servant à la locomotion des échinodermes (<hi>Cirro- dermaires</hi> de Blainville), caractère le plus général de cette classe. On a à tort appelé <hi>cirres</hi> les membres des Balanes.</sense>
+        <sense n="1">En botanique, <hi>cirres</hi> (<hi>vrilles</hi> ou <hi>mains</hi>), appendices filiformes, simples ou rameux, diversement tortillés ou roulés, au moyen desquels certaines plantes s’attachent aux corps voisins. =En zoologie : 1° Certaines plumes placées autour des narines des oiseaux, manquant de barbules complètement ou à peu près : c’est plutôt <hi>cil</hi> qu’il faudrait dire, d’après l’aspect et la structure. 2° Tentacules labiaux ou barbiUons de quelques poissons. 3° Chez les annélides, appendices mous, lisses ou moniliformes, pairs, au nombre de deux; un inférieur, un supérieur de chaque côté, à chaque anneau: ceux de l’avant-dernier anneau, quand ils prennent un grand allongement, sont des <hi>styles</hi> ; ceux des anneaux céphaliques constituent les <term>cirres tentaculaires</term> ou <ref type="syn">antennes</ref>. Il ne faut pas confondre les cirres avec les faisceaux de soies. 4° Petits appendices cylindriques, en lanières ou filamenteux, des bords du manteau de divers mollusques. 5° Organes érectiles, rétractiles, musculaires et vasculaires, servant à la locomotion des échinodermes (<hi>Cirro- dermaires</hi> de Blainville), caractère le plus général de cette classe. On a à tort appelé <hi>cirres</hi> les membres des Balanes.</sense>
       </entry>
       <entry xml:id="cirré">
         <form><orth>Cirré</orth>, ÉE, ou <orth>Cirriforme</orth>. adj.</form>
         <dictScrap>
           <foreign xml:lang="lat">cirratus</foreign>
         </dictScrap>
-        <sense n="1">Qui affecte la forme ou remplit les fonctions de cirres : <hi>feuille, pétiole cirrés</hi>.</sense>
+        <sense n="1">Qui affecte la forme ou remplit les fonctions de cirres : <term>feuille <ex>cirrée</ex></term>, <term>pétiole cirré</term>.</sense>
       </entry>
       <entry xml:id="cirreux">
         <form><orth>Cirreux</orth>, EUSE. adj.</form>
@@ -36711,8 +36706,8 @@
         <sense n="1">Mot mal fait. V. <ref target="cirre">Cirre</ref>.</sense>
       </entry>
       <entry xml:id="cirrhipède">
-        <form><orth>Cirrhipède</orth> ou CIRRHOPODE. s. m.</form>
-        <sense n="1">V. <ref>Clrripède</ref>.</sense>
+        <form><orth>Cirrhipède</orth> ou <orth>Cirrhopode</orth>. s. m.</form>
+        <sense n="1">V. <ref target="cirripède">Cirripède</ref>.</sense>
       </entry>
       <entry xml:id="cirrhonose">
         <form><orth>Cirrhonose</orth>. s. f.</form>
@@ -36743,12 +36738,12 @@
         </dictScrap>
         <sense n="1">Qui porte des cirres ou vrilles.</sense>
       </entry>
-      <entry xml:id="cirripèpes">
-        <form><orth>Cirripèpes</orth>. s. m. pl.</form>
+      <entry xml:id="cirripèdes">
+        <form><orth>Cirripèdes</orth>. s. m. pl.</form>
         <sense n="1">Ordre de crustacés marins nageant librement dans l’état embryonnaire et fixés aux corps solides dans l’âge adulte. Il comprend les Anatifes, les Balanes, etc. V. <ref target="cirre">Cirre</ref>.</sense>
       </entry>
-      <entry xml:id="cirrocumulus">
-        <form><orth>Cirrocumulus</orth>. s. m.</form>
+      <entry xml:id="cirro-cumulus">
+        <form><orth>Cirro-cumulus</orth>. s. m.</form>
         <sense n="1">V. <ref target="cumulus">Cumulus</ref>.</sense>
       </entry>
       <entry xml:id="cirro-stratus">
@@ -36757,12 +36752,12 @@
       </entry>
       <entry xml:id="cirrus">
         <form><orth>Cirrus</orth>, s. m.</form>
-        <sense n="1">Une des trois formes principales présentées par les nuages, et que les marins appellent <hi>queue- de-chat</hi>. Les <hi>cirrus</hi> sont formés par un ensemble de filaments analogues à un pinceau délié, à des cheveux crépus, à un réseau : ce sont les nuages les plus élevés. Kaemtz leur assigne une hauteur de 6500 mètres; Gay-Lussac, à 7000 mètres d’élévation, en vit encore au-dessus de lui qui paraissaient à une distance considérable. Les phénomènes de réfraction solaire (halos, parhélies) dont ils sont le siège prouvent qu’ils sont composés de particules glacées, de flocons de neige nageant à une grande hauteur dans l’atmosphère. En été, ils annoncent de la pluie; en hiver, de la gelée ou du dégel.</sense>
+        <sense n="1">Une des trois formes principales présentées par les nuages, et que les marins appellent <ref type="syn">queue-de-chat</ref>. Les <hi>cirrus</hi> sont formés par un ensemble de filaments analogues à un pinceau délié, à des cheveux crépus, à un réseau : ce sont les nuages les plus élevés. Kaemtz leur assigne une hauteur de 6500 mètres; Gay-Lussac, à 7000 mètres d’élévation, en vit encore au-dessus de lui qui paraissaient à une distance considérable. Les phénomènes de réfraction solaire (halos, parhélies) dont ils sont le siège prouvent qu’ils sont composés de particules glacées, de flocons de neige nageant à une grande hauteur dans l’atmosphère. En été, ils annoncent de la pluie; en hiver, de la gelée ou du dégel.</sense>
       </entry>
       <entry xml:id="cirsocèle">
         <form><orth>Cirsocèle</orth>. s. m. et f.</form>
+        (le féminin est préférable ; les noms composés avec <hi>cèle</hi> sont, en général, féminins)
         <dictScrap>
-          <etym>(le féminin est préférable ; les noms composés avec <hi>cèle</hi> sont, en général, féminins)</etym>
           <foreign xml:lang="lat">cirsocele</foreign>
           <etym xml:lang="grc">de κιρσός, varice, et κηλη, tumeur</etym>
           <foreign xml:lang="deu">Krampfaderbruch</foreign>
@@ -36790,7 +36785,7 @@
       <entry xml:id="cirsophthalmie">
         <form><orth>Cirsophthalmie</orth>. s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">cirsbphthalmia</foreign>
+          <foreign xml:lang="lat">cirsophthalmia</foreign>
           <etym xml:lang="grc">de κιρσός, varice, et οφθαλμός, œil</etym>
         </dictScrap>
         <sense n="1">Ophthalmie variqueuse.</sense>
@@ -36805,7 +36800,7 @@
       </entry>
       <entry xml:id="cisaille">
         <form><orth>Cisaille</orth>, s. f.</form>
-        <sense n="1">En chirurgie, sorte d’<ref>ostéotome</ref>. V. ce mot et <ref target="secateur">Secateur</ref>.</sense>
+        <sense n="1">En chirurgie, sorte d’<ref target="ostéotome">ostéotome</ref>. V. ce mot et <ref target="sécateur">Sécateur</ref>.</sense>
         <sense>— <term>Cisailles de Liston</term>. V. <ref target="pince">Pince</ref>.</sense>
       </entry>
       <entry xml:id="ciseau">
@@ -36814,7 +36809,7 @@
           <foreign xml:lang="deu">Meissel</foreign>
           <foreign xml:lang="eng">chisel</foreign>
           <foreign xml:lang="ita">scarpello</foreign>
-          <foreign xml:lang="spa">cinceï</foreign>
+          <foreign xml:lang="spa">cincel</foreign>
         </dictScrap>
         <sense n="1">En chirurgie, instrument qui ne diffère pas de l’outil dont se servent beaucoup d’artisans : il consiste en une tige d’acier aplatie, tranchante à l’une de ses extrémités. On s’en sert dans les préparations d’anatomie et pour certaines opérations chirurgicales dans lesquelles des parties osseuses doivent être retranchées.</sense>
       </entry>
@@ -36825,7 +36820,7 @@
           <foreign xml:lang="deu">Schere</foreign>
           <foreign xml:lang="eng">scissars</foreign>
           <foreign xml:lang="ita">cesoje</foreign>
-          <foreign xml:lang="spa">figeras</foreign>
+          <foreign xml:lang="spa">tigeras</foreign>
           <foreign resp="#FR" xml:lang="grc">ψαλὶς</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image5.jpeg"/>
@@ -36834,20 +36829,20 @@
       <entry xml:id="cissampéline">
         <form><orth>Cissampéline</orth>. s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">pélosine</foreign>
+          <ref type="syn">pélosine</ref>
         </dictScrap>
         <sense n="1">Alcaloïde extrait par Wiggers des racines de <hi>Cissampelos pareira</hi>.</sense>
       </entry>
       <entry xml:id="cistacées">
         <form><orth>Cistacées</orth>, <orth>Cistinées</orth> ou <orth>Cistées</orth>. s. f. pl.</form>
         <dictScrap>
-          <foreign xml:lang="lat">cisteœ</foreign>
+          <foreign xml:lang="lat">cisteæ</foreign>
         </dictScrap>
         <sense n="1">Famille de plantes de la classe des dicotylédones polypé- tales à étamines hypogynes, qui a pour caractères : Calice à 3 ou 5 divisions profondes. Une corolle pentapétale; étamines indéfinies. Un ovaire globuleux, rarement uniloculaire, plus souvent à 5 ou 10 loges; un style; un stigmate. Une capsule polysperme, multîvalve. Tiges ligneuses ou herbacées. Feuilles alternes ou opposées, avec ou sans stipules, souvent persistantes. Fleurs en grappes simples, roulées en volute avant leur épanouissement, ou disposées en corymbe. Un embryon courbé ou roulé en spirale, et entouré d’un endosperme charnu.</sense>
       </entry>
       <entry xml:id="ciste">
         <form><orth>Ciste</orth>, s. m.</form>
-        <sense n="1">Genre de plantes dont une espèce, originaire de l’ile de Candie, le <hi>ciste de Crète</hi>, fournit le <hi>ladanum</hi> ; le <hi>Cistus ladanifer</hi>, L., le <hi>Cistus ledum</hi>, Lamk, et le <hi>Cistus laurifolius</hi>, L., donnent une substance analogue. V. <ref target="ladanum">Ladanum</ref>.</sense>
+        <sense n="1">Genre de plantes dont une espèce, originaire de l’ile de Candie, le <term>ciste de Crète</term>, fournit le <hi>ladanum</hi> ; le <term xml:lang="lat">Cistus ladanifer</term>, L., le <term xml:lang="lat">Cistus ledum</term>, Lamk, et le <term xml:lang="lat">Cistus laurifolius</term>, L., donnent une substance analogue. V. <ref target="ladanum">Ladanum</ref>.</sense>
       </entry>
       <entry xml:id="citerne">
         <form><orth>Citerne</orth>, s. f.</form>
@@ -36859,12 +36854,12 @@
           <foreign xml:lang="ita">cisterna</foreign>
           <foreign xml:lang="spa">cisterna</foreign>
         </dictScrap>
-        <sense n="1">En anatomie, nom de certaines parties du corps servant de réservoir à quelques humeurs : telle est la <hi>citerne lombaire</hi> ou <hi>réservoir de Pecquet</hi>. V. <ref target="thoracique">Thoracique</ref>.</sense>
+        <sense n="1">En anatomie, nom de certaines parties du corps servant de réservoir à quelques humeurs : telle est la <term>citerne lombaire</term> ou <ref type="syn">réservoir de Pecquet</ref>. V. <ref target="thoracique">Thoracique</ref>.</sense>
       </entry>
       <entry xml:id="citraconique">
         <form><orth>Citraconique</orth> (<rs>Acide</rs>).</form>
         <dictScrap>
-          <etym><hi>acide citribique</hi> ou <hi>paraitaconique</hi></etym>
+          <ref type="syn">acide citribique</ref> ou <ref type="syn">para-itaconique</ref></etym>
         </dictScrap>
         <sense n="1">Corps obtenu par distillation de l’acide citri- cique ; liquide, tombant au fond de l’eau ; sans couleur ni odeur, de saveur acide très-aigre; bout à 212° (C⁵H²O³). Au contact de l’eau, il en prend 1 équivalent,, et forme un hydrate cristallisé, soluble dans l’eau, l’alcool et l’éther.</sense>
       </entry>
@@ -36873,7 +36868,7 @@
         <dictScrap>
           <foreign xml:lang="lat">citras</foreign>
           <etym>de <hi>citrus</hi>, citron </etym>
-          <foreign xml:lang="deu">citronsauresSalz</foreign>
+          <foreign xml:lang="deu">citronsaures Salz</foreign>
           <foreign xml:lang="eng">citrate</foreign>
           <foreign xml:lang="ita">citrato</foreign>
           <foreign xml:lang="spa">citrato</foreign>
@@ -36884,7 +36879,7 @@
       </entry>
       <entry xml:id="citrène">
         <form><orth>Citrène</orth>. s. m.</form>
-        <sense n="1">Nom actuel de <hi>l’essence de citron</hi> (C²⁰H¹⁶), qui est liquide, polarise à droite, et bout à 170° (Regnault); densité, 0,847; odeur vive et agréable.</sense>
+        <sense n="1">Nom actuel de l'<ref type="syn">essence de citron</ref> (C²⁰H¹⁶), qui est liquide, polarise à droite, et bout à 170° (Regnault); densité, 0,847; odeur vive et agréable.</sense>
       </entry>
       <entry xml:id="citribique">
         <form><orth>Citribique</orth>.</form>
@@ -36893,13 +36888,13 @@
       <entry xml:id="citricique">
         <form><orth>Citricique</orth> (<rs>Acide</rs>).</form>
         <dictScrap>
-          <etym xml:lang="grc">acide pyro-aconitique, itaconique, para-pyrocitronique ου para-citrique</etym>
+          <ref type="syn">acide pyro-aconitique</ref>, <ref type="syn"><ex>acide</ex> itaconique</ref>, <ref type="syn"><ex>acide</ex> para-pyrocitronique</ref> ου <ref type="syn"><ex>acide</ex> para-citrique</ref>
         </dictScrap>
         <sense n="1">Corps obtenu par distillation de l’acide citrique. liest isomère avec l’acide citraconique ; on ne peut l’avoir anhydre (C?H²O³) ; avec 1 équivalent d’eau il est cristallisable ; il est soluble dans l’eau et l’alcool, mais insoluble dans l’éther.</sense>
       </entry>
       <entry xml:id="citridique">
         <form><orth>Citridique</orth>. adj.</form>
-        <sense n="1">— <term>Acide cttridique</term>. L’acide équisé- tique.</sense>
+        <sense n="1">— <term>Acide citridique</term>. L’acide équisé- tique.</sense>
       </entry>
       <entry xml:id="citrilène">
         <form><orth>Citrilène</orth>. s. m.</form>
@@ -36912,7 +36907,7 @@
         </dictScrap>
         <sense n="1">De couleur de citron.</sense>
         <sense>— <term>Café citrin</term>. V. <ref target="café">Café</ref>.</sense>
-        <sense>— <term>Myrobalan citrin</term>, V. <ref>myrobalan</ref>.</sense>
+        <sense>— <term>Myrobalan citrin</term>, V. <ref target="myrobalan">Myrobalan</ref>.</sense>
         <sense>— <term>Onguent citrin</term>. V. <ref target="onguent">Onguent</ref>.</sense>
         <sense>— <term>Pommade citrine</term>. V. <xr><ref target="azotate">Azotate</ref> de mercure</xr>.</sense>
       </entry>
@@ -36922,26 +36917,26 @@
           <foreign xml:lang="eng">citric</foreign>
           <foreign xml:lang="ita">citrico</foreign>
         </dictScrap>
-        <sense n="1">— Acide cz- <hi>trique</hi> (Ο¹²Η⁵Ο?.3ΗΟ-]~2ΗΟ). On le trouve, libre ou combiné, dans un grand nombre de productions végétales, notamment les citrons, les groseilles, etc. Pour l’obtenir, on sature le suc de ces fruits par le carbonate de chaux; puis on décompose le citrate calcaire par une quantité d’acide sulfurique double en poids de la craie employée. Il cristallise en prismes à quatre pans, terminés par des sommets dièdres. Sa saveur est forte, presque caustique, et ne devient agréable que quand on le dissout dans une certaine quantité d’eau. Il forme avec l’oxyde de plomb un sel soluble dans l’ammoniaque, qui* peut servir à le caractériser. Il est rafraîchissant, antiseptique, diurétique. On en prépare un sirop, une limonade sèche.</sense>
-        <sense>— <term>Ether citrique</term>. V. <ref target="éther">Éther</ref>.</sense>
+        <sense n="1">— <term>Acide citrique</term> (Ο¹²Η⁵Ο?.3ΗΟ-]~2ΗΟ). On le trouve, libre ou combiné, dans un grand nombre de productions végétales, notamment les citrons, les groseilles, etc. Pour l’obtenir, on sature le suc de ces fruits par le carbonate de chaux; puis on décompose le citrate calcaire par une quantité d’acide sulfurique double en poids de la craie employée. Il cristallise en prismes à quatre pans, terminés par des sommets dièdres. Sa saveur est forte, presque caustique, et ne devient agréable que quand on le dissout dans une certaine quantité d’eau. Il forme avec l’oxyde de plomb un sel soluble dans l’ammoniaque, qui* peut servir à le caractériser. Il est rafraîchissant, antiseptique, diurétique. On en prépare un sirop, une limonade sèche.</sense>
+        <sense>— <term><choice><sic>Ether</sic><corr>Éther</corr></choice> citrique</term>. V. <ref target="éther">Éther</ref>.</sense>
         <sense>— <term>Limonade citrique</term>. V. <ref target="limonade">Limonade</ref>.</sense>
       </entry>
       <entry xml:id="citron">
         <form><orth>Citron</orth>, s. m.</form>
         <sense n="1">Le fruit du citronnier.</sense>
-        <sense>— <term>Jus<hi> ou suc </hi>de citron</term>, V. <ref>Suc</ref>.</sense>
-        <sense>— <term>Esprit <hi>ou</hi> alcoolat de citron</term>. On l’obtient par la distillation de 6 parties en poids d’alcool à 80° centésimaux sur I partie d’écorce fraîche de citron. On prépare de même les alcoolats d’écorces d’orange, de cédrat, de bergamote.</sense>
+        <sense>— <term>Jus <ex>de citron</ex></term> ou <term>suc de citron</term>, V. <ref target="suc">Suc</ref>.</sense>
+        <sense>— <term>Esprit <ex>de citron</ex></term> ou <term>alcoolat de citron</term>. On l’obtient par la distillation de 6 parties en poids d’alcool à 80° centésimaux sur I partie d’écorce fraîche de citron. On prépare de même les alcoolats d’écorces d’orange, de cédrat, de bergamote.</sense>
         <sense>— <term>Sirop d’écorce de citron</term>, <term>oléosucre de citron</term>. On obtient cet oléosucre en frottant, sur les écorces mêmes, des morceaux de sucre, que l’on triture après les avoir ainsi imbibés de l’huile essentielle que ces écorces contiennent.</sense>
         <sense>— <term>Sirop de suc de citron</term>. On le fait avec 4 parties en poids de suc de citron frais, clarifié et filtré, et 3 de sucre blanc, que l’on aromatise de même.</sense>
       </entry>
       <entry xml:id="citronné">
         <form><orth>Citronné</orth>, ÉE. adj.</form>
-        <sense n="1">Qui sent le citron, qui renferme du jus de citron ou de l’essence de citron : <hi>tisane citronnée</hi>.</sense>
+        <sense n="1">Qui sent le citron, qui renferme du jus de citron ou de l’essence de citron : <term>tisane citronnée</term>.</sense>
       </entry>
       <entry xml:id="citronnelle">
         <form><orth>Citronnelle</orth>, s. f.</form>
-        <sense n="1">Surnom de l’<ref>aurone</ref> (V. ce mot) et de la <hi>mélisse officinale</hi>.</sense>
-        <sense>== Synonyme de <hi>lemon-grass</hi>.</sense>
+        <sense n="1">Surnom de l’<ref target="aurone">aurone</ref> (V. ce mot) et de la <ref type="syn">mélisse officinale</ref>.</sense>
+        <sense>== Synonyme de <ref type="syn">lemon-grass</ref>.</sense>
       </entry>
       <entry xml:id="citronnier">
         <form><orth>Citronnier</orth>, s. m.</form>
