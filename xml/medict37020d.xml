@@ -37801,14 +37801,15 @@
       <entry xml:id="cobaye">
         <form><orth>Cobaye</orth>, s. in.</form>
         <dictScrap>
-          <etym><hi>Cavia cobaya</hi>, Desmarets; vulgairement, <hi>cochon d’Inde, cochon de mer, coui</hi> ou couzs</etym>
+          <foreign xml:lang="lat">Cavia cobaya</foreign>, Desmarets;
+          vulgairement, <ref type="syn">cochon d’Inde</ref>, <ref type="syn">cochon de mer</ref>, <ref type="syn">coui</ref> ou <ref type="syn">couis</ref>
         </dictScrap>
-        <sense n="1">Rongeur domestique dans l’Amérique méridionale et transporté en Europe. Il donne plus de petits qu’il n’a de mamelles et que les espèces sauvages du genre. Azara le regarde comme une simple' variété du <hi>Cavia</hi> ou <hi>Hy- drochærus aperea</hi>, Azara. Il reçoit parfois le nom de <hi>ca- biai</hi>, qui pourtant désigne plus spécialement le <hi>Cavia</hi> ou <hi>Hydrochœrus capybara</hi>, qui est le plus grand des rongeurs connus. L’<ref>agouti</ref> (V. ce mot) est le <hi>Cavia aguti</hi>, L.</sense>
+        <sense n="1">Rongeur domestique dans l’Amérique méridionale et transporté en Europe. Il donne plus de petits qu’il n’a de mamelles et que les espèces sauvages du genre. Azara le regarde comme une simple' variété du <hi>Cavia</hi> ou <hi>Hy- drochærus aperea</hi>, Azara. Il reçoit parfois le nom de <hi>ca- biai</hi>, qui pourtant désigne plus spécialement le <hi>Cavia</hi> ou <hi>Hydrochœrus capybara</hi>, qui est le plus grand des rongeurs connus. L’<ref target="agouti">agouti</ref> (V. ce mot) est le <hi>Cavia aguti</hi>, L.</sense>
       </entry>
       <entry xml:id="cobolt">
         <form><orth>Cobolt</orth> ou <orth>Kobolt</orth>. s. m.</form>
         <dictScrap>
-          <etym>mort <hi>aux mouches, poudre aux mouches</hi></etym>
+          <ref type="syn">mort aux mouches</ref>, <ref type="syn">poudre aux mouches</ref>
         </dictScrap>
         <sense n="1">Arsenic métallique réduit en poudre. V. <ref target="arsenic">Arsenic</ref>.</sense>
       </entry>
@@ -37830,7 +37831,7 @@
       </entry>
       <entry xml:id="coccine">
         <form><orth>Coccine</orth>, s. f.</form>
-        <sense n="1">Matière animale propre qui, avec la <ref>chitine</ref> (V. ce mot) et une huile diversement colorée suivant les espèces, compose le tégument externe des insectes. V. <ref target="carmine">Carmine</ref>.</sense>
+        <sense n="1">Matière animale propre qui, avec la <ref target="chitine">chitine</ref> (V. ce mot) et une huile diversement colorée suivant les espèces, compose le tégument externe des insectes. V. <ref target="carmine">Carmine</ref>.</sense>
       </entry>
       <entry xml:id="coccinelle">
         <form><orth>Coccinelle</orth>, s. f.</form>
@@ -37838,7 +37839,7 @@
           <foreign xml:lang="lat">coccinella</foreign>
           <etym xml:lang="grc">de κόκκος, graine d’écarlate</etym>
           <foreign xml:lang="deu">Blattlauskäfer</foreign>
-          <etym>vulgairement <hi>bête à Dieu</hi></etym>
+          vulgairement <ref type="syn">bête à Dieu</ref>
         </dictScrap>
         <sense n="1">, Genre d’insectes coléoptères, ainsi appelé probablement à cause de la couleur rouge des élytres de plusieurs de ses espèces. Quelques coccinelles ont été recommandées comme antiodontalgiques, particulièrement la coccinelle à sept points (<hi>Coccinella septempunctata</hi>, L.), et celle à deux points (<hi>Coccinella bipunctata</hi>, L.). Ces insectes replient leurs pieds contre leur corps lorsqu’on les saisit, et font sortir par les jointures de leurs cuisses avec leurs jambes une humeur jaunâtre d’odeur désagréable.</sense>
       </entry>
@@ -37860,27 +37861,27 @@
         </dictScrap>
         <sense n="1">Qui appartient au coccyx.</sense>
         <sense>— <term>Artère coccygienne</term>. C’est une branche de l’artère ischiatique.</sense>
-        <sense>— <term>Glande coccygienne</term>. V. <ref target="glande">Glande</ref> et <ref target="uropygial">Uropygien</ref>.</sense>
+        <sense>— <term>Glande coccygienne</term>. V. <ref target="glande">Glande</ref> et <ref target="uropygien">Uropygien</ref>.</sense>
         <sense>— <term>Ligaments coccygiens</term>. V. <ref target="pie-mère">Pie-mère</ref> et <ref target="sacro-coccygien">Sacro-coccygien</ref>.</sense>
         <sense>— <term>Muscle coccygien</term>. V. <ref target="ischio-coccygien">Ischio-coccygien</ref>.</sense>
       </entry>
       <entry xml:id="coccygio-anal">
         <form><orth>Coccygio-anal</orth>. adj.</form>
         <dictScrap>
-          <foreign xml:lang="lat">eoecygio-analis</foreign>
+          <foreign xml:lang="lat">coccygio-analis</foreign>
         </dictScrap>
         <sense n="1">Qui appartient au coccyx et à l’anus.</sense>
-        <sense>— <term>Muscle coecygio-anal</term>. V. <xr><ref target="sphincter">Sphincter</ref> de l’anus</xr>.</sense>
+        <sense>— <term>Muscle coccygio-anal</term>. V. <xr><ref target="sphincter">Sphincter</ref> de l’anus</xr>.</sense>
       </entry>
-      <entry xml:id="coccygobynie">
-        <form><orth>Coccygobynie</orth>. s. f.</form>
+      <entry xml:id="coccygodynie">
+        <form><orth>Coccygodynie</orth>. s. f.</form>
         <dictScrap>
           <etym xml:lang="grc">de κόκκυξ, coccyx, et όό'ύνη, douleur</etym>
         </dictScrap>
         <sense n="1">Douleur de l’articulation sacro-coccygienne; arthralgie sacro-coccygienne.</sense>
       </entry>
       <entry xml:id="coccy-pubien">
-        <form><orth>Coccy-pubien</orth> (pour <hi>coccygio-pubien</hi>). adj.</form>
+        <form><orth>Coccy-pubien</orth> (pour <ref type="syn">coccygio-pubien</ref>). adj.</form>
         <sense n="1">Se dit du diamètre du bassin mesuré du coccyx à la symphyse pubienne.</sense>
       </entry>
       <entry xml:id="coccyx">
@@ -37897,7 +37898,7 @@
       </entry>
       <entry xml:id="coche">
         <form><orth>Coche</orth>. s. f.</form>
-        <sense n="1">Femelle du cochon mâle. V. <ref>Yerrat</ref>.</sense>
+        <sense n="1">Femelle du cochon mâle. V. <ref target="verrat">Verrat</ref>.</sense>
       </entry>
       <entry xml:id="coché">
         <form><orth>Coché</orth>, ÉE. adj.</form>
@@ -37914,9 +37915,9 @@
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image7.jpeg"/>
         <sense n="1">Insecte hémi- ptèro, famille des gallinsectes, qui fournit le principe colorant avec lequel on fabrique les plus belles teintures écarlates. Ces insectes, dont la femeHe est aptère (Fig. 96), sont caractérisés par leurs tarses composés d’un seul article distinct, terminé par un crochet unique. Us sont si petits, qu’à l’état de larves on ne les voit bien qu’à l’aide d’une loupe, et qu’à l’état parfait, les femelles, beaucoup plus grosses que les mâles, qui seuls sont pourvus d’ailes (Fig. 95), égalent au plus un petit pois.</sense>
-        <sense>— <term>Cochenille du nopal</term> (<hi>Coccus cacti</hi>, L.). Celle dont on retire la matière colorante. A l’époque de la ponte, les femelles s’accrochent aux feuilles et aux jeunes branches, et c’est alors qu’on les récolte. La cochenille la plus estimée vient du Mexique, et se trouve dans le commerce sous forme de petits grains irréguliers, convexes d’un côté, concaves de l’autre, sur lesquels on distingue toujours les traces des anneaux.</sense>
-        <sense>— Autrefois on employait au même usage la <hi>cochenille de Pologne</hi> (<hi>Coccus polonicus</hi>, L.), dont la femelle, d’un brun rougeâtre, s’attache aux racines de là tormentille, du <hi>Scleranthus perennis</hi>, etc.</sense>
-        <sense>— La <hi>cochenille du chêne vert</hi> ou <hi>kermès</hi> (<hi>Coccus ilicis</hi>, L.), qui se trouve dans le midi de la France ou en Espagne, est beaucoup plus grosse. V. <xr><ref target="kermès">Kermès</ref> animal</xr> et <ref target="puceron">Puceron</ref>.</sense>
+        <sense>— <term>Cochenille du nopal</term> (<foreign xml:lang="lat">Coccus cacti</foreign>, L.). Celle dont on retire la matière colorante. A l’époque de la ponte, les femelles s’accrochent aux feuilles et aux jeunes branches, et c’est alors qu’on les récolte. La cochenille la plus estimée vient du Mexique, et se trouve dans le commerce sous forme de petits grains irréguliers, convexes d’un côté, concaves de l’autre, sur lesquels on distingue toujours les traces des anneaux.</sense>
+        <sense>— Autrefois on employait au même usage la <term>cochenille de Pologne</term> (<foreign xml:lang="lat">Coccus polonicus</foreign>, L.), dont la femelle, d’un brun rougeâtre, s’attache aux racines de là tormentille, du <hi>Scleranthus perennis</hi>, etc.</sense>
+        <sense>— La <term>cochenille du chêne vert</term> ou <ref type="syn">kermès</ref> (<foreign xml:lang="lat">Coccus ilicis</foreign>, L.), qui se trouve dans le midi de la France ou en Espagne, est beaucoup plus grosse. V. <xr><ref target="kermès">Kermès</ref> animal</xr> et <ref target="puceron">Puceron</ref>.</sense>
       </entry>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=333" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0333/full/full/0/default.jpg" n="0319"/>
       <entry xml:id="cochenilline">
@@ -37932,16 +37933,16 @@
         </dictScrap>
         <sense n="1">— <term>Ouverture cochléaire</term>. V. <xr><ref target="fenêtre">Fenêtre</ref> ronde</xr>.</sense>
       </entry>
-      <entry xml:id="cochlearia">
-        <form><orth>Cochlearia</orth>, s. m.</form>
+      <entry xml:id="cochléaria">
+        <form><orth>Cochléaria</orth>, s. m.</form>
         <dictScrap>
           <foreign xml:lang="deu">Löffelkraut</foreign>
           <foreign xml:lang="eng">scurvygrass</foreign>
           <foreign xml:lang="ita">coclearia</foreign>
         </dictScrap>
         <sense n="1">Genre de plantes (tétradynamie silicu- leuse, L., crucifères, J. ) qui ont une saveur âcre et piquante, analogue à celle du cresson de fontaine.</sense>
-        <sense>— Le <hi>Cochléaria officinal</hi> ( <hi>Cochlearia offtcinalis</hi>, L. ) est connu vulgairement sous le nom <hi>d’herbe aux cuillers</hi>, à cause de la forme de ses feuilles, dont les radicales sont pétiolées, arrondies, subré- niformes, un peu concaves, lisses et luisantes, et les cau- linaires sessiles et cor'diformes. C’est un antiscorbutique; on administre quelquefois le <hi>suc exprimé</hi> de ses feuilles. Le <hi>sirop de cochléaria</hi> est préparé avec 500 grammes de suc des feuilles fraîches de cochléaria et 1 kilogramme de sucre, que l’on fait dissoudre au bain-marie dans un vase clos. <hi>L’alcoolat de cochléaria</hi> est le produit de la distillation de 2 parties d’alcool à 80° centésimaux sur 2 parties de feuilles fraîches de cette plante.</sense>
-        <sense>— Le <hi>cochléaria de Bretagne</hi> {<hi>cran</hi> ou <hi>cranson de Bretagne, Cochléaria armoracia</hi>, L. ) a une racine pivotante, blanchâtre, de la grosseur du bras, que l’on emploie sous le nom de <hi>raifort Sauvage</hi>. Sa saveur est âcre et piquante, son odeur très- pénétrante. Appliquée sur la peau, elle agit comme rubéfiant. On obtient <hi>l’alcoolat antiscorbutique</hi>, ou <hi>alcoolat de cochléaria composé</hi>, appelé autrefois <hi>esprit ardent de cochléaria</hi>, par la distillation, au bain-marie, de 9 parties d’alcool sur 8 de feuilles fraîches de cochléaria (<hi>Cochlearia offtcinalis</hi>), et 1 partie de racine de raifort sauvage (<hi>Cochlearia armoracia</hi>) fraîche et coupée menu.</sense>
+        <sense>— Le <term>cochléaria officinal</term> ( <foreign xml:lang="lat">Cochlearia officinalis</foreign>, L. ) est connu vulgairement sous le nom d'<ref type="syn">herbe aux cuillers</ref>, à cause de la forme de ses feuilles, dont les radicales sont pétiolées, arrondies, subré- niformes, un peu concaves, lisses et luisantes, et les cau- linaires sessiles et cor'diformes. C’est un antiscorbutique; on administre quelquefois le <hi>suc exprimé</hi> de ses feuilles. Le <term>sirop de cochléaria</term> est préparé avec 500 grammes de suc des feuilles fraîches de cochléaria et 1 kilogramme de sucre, que l’on fait dissoudre au bain-marie dans un vase clos. L'<term>alcoolat de cochléaria</term> est le produit de la distillation de 2 parties d’alcool à 80° centésimaux sur 2 parties de feuilles fraîches de cette plante.</sense>
+        <sense>— Le <term>cochléaria de Bretagne</term> {<ref type="syn">cran <ex>de Bretagne</ex></ref> ou <ref type="syn">cranson de Bretagne</ref>, <foreign xml:lang="lat">Cochlearia armoracia</foreign>, L. ) a une racine pivotante, blanchâtre, de la grosseur du bras, que l’on emploie sous le nom de <hi>raifort Sauvage</hi>. Sa saveur est âcre et piquante, son odeur très- pénétrante. Appliquée sur la peau, elle agit comme rubéfiant. On obtient <hi>l’alcoolat antiscorbutique</hi>, ou <term>alcoolat de cochléaria composé</term>, appelé autrefois <hi>esprit ardent de cochléaria</hi>, par la distillation, au bain-marie, de 9 parties d’alcool sur 8 de feuilles fraîches de cochléaria (<hi>Cochlearia offtcinalis</hi>), et 1 partie de racine de raifort sauvage (<hi>Cochlearia armoracia</hi>) fraîche et coupée menu.</sense>
       </entry>
       <entry xml:id="cochleat">
         <form><orth>Cochleat</orth> et <orth>Cochleatim</orth>.</form>
@@ -37951,15 +37952,14 @@
         <form><orth>Cochlée</orth>. s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cochlea</foreign>
-          <foreign xml:lang="grc"/>
-          <etym>limaçon</etym>
           <foreign resp="#FR" xml:lang="grc">κόχλος</foreign>
+          limaçon
         </dictScrap>
         <sense n="1">Désigne quelquefois le limaçon de l’oreille interne.</sense>
       </entry>
       <entry xml:id="cochléen">
         <form><orth>Cochléen</orth>. adj.</form>
-        <sense n="1">Synonyme de <hi>cochléaire</hi>.</sense>
+        <sense n="1">Synonyme de <ref type="syn">cochléaire</ref>.</sense>
       </entry>
       <entry xml:id="cochon">
         <form><orth>Cochon</orth>, s. m.</form>
@@ -37972,8 +37972,8 @@
           <foreign xml:lang="spa">puerco</foreign>
           <foreign resp="#FR" xml:lang="grc">ὓς</foreign>
         </dictScrap>
-        <sense n="1">Genre de vertébrés mammifères, pachydermes, ongulogrades, de la famille des suidés; 4 doigts partout ; groin moyen, mâchelières moyennes ; corps couvert de poils longs; incisives, j-²; canines²-]-; molaires, f-²-; yeux petits, à pupille ronde; queue petite, mince. Les espèces sont : 1° Le <hi>Sanglier</hi> à l’état sauvage, <hi>porc, pourceau</hi> ou <hi>cochon</hi> à l’état domestique par toute la terre à peu près (<hi>Sus scrofa</hi>, L._) : le sanglier est l’origine de toutes les races domestiques (V. <ref target="porc">Porc</ref>) ; 2° le <hi>cochon de Siam</hi>, et 3° le <hi>cochon de la Chine</hi>, considérés à tort comme variétés du précédent, parce qu’ils donnent avec lui des métis féconds; 4° probablement le <hi>cochon des Célèbes</hi>, considéré comme variété pour la même raison; 5° le <hi>cochon des Papous</hi> {<hi>Sus papuensis</hi>, Lesson), sauvage, mais origine probable des races domestiques de la Polynésie; 6° <hi>Sus verrucosus</hi>, de l’Indo-Chine, très- grand, à callosités aux joues; 7° <hi>Sus vittatus</hi>, de Java, petit, marqué de bandes blanches; 8’ <hi>Sus larvatus</hi>, d’Afrique, garrot élevé, train de derrière bas comme chez l’hyène, tête grosse, tubercule saillant des gencives près de chaque défense supérieure (V. <ref target="babiroussa">Babiroussa</ref>). Partout les cochons servent à l’alimentation ; leur chair se conserve longtemps, est très-nourrissante, mais difficile à digérer. En Afrique et autres pays chauds toutefois elle se digère mal et donne la dysenterie.</sense>
-        <sense>— <term>Cochon d’Inde <hi>ou</hi> de mer</term>. Noms vulgaires du cobaye.</sense>
+        <sense n="1">Genre de vertébrés mammifères, pachydermes, ongulogrades, de la famille des suidés; 4 doigts partout ; groin moyen, mâchelières moyennes ; corps couvert de poils longs; incisives, j-²; canines²-]-; molaires, f-²-; yeux petits, à pupille ronde; queue petite, mince. Les espèces sont : 1° Le <term>Sanglier</term> à l’état sauvage, <hi>porc, pourceau</hi> ou <hi>cochon</hi> à l’état domestique par toute la terre à peu près (<foreign xml:lang="lat">Sus scrofa</foreign>, L._) : le sanglier est l’origine de toutes les races domestiques (V. <ref target="porc">Porc</ref>) ; 2° le <term>cochon de Siam</term>, et 3° le <term>cochon de la Chine</term>, considérés à tort comme variétés du précédent, parce qu’ils donnent avec lui des métis féconds; 4° probablement le <term>cochon des Célèbes</term>, considéré comme variété pour la même raison; 5° le <term>cochon des Papous</term> {<foreign xml:lang="lat">Sus papuensis</foreign>, Lesson), sauvage, mais origine probable des races domestiques de la Polynésie; 6° <term xml:lang="lat">Sus verrucosus</term>, de l’Indo-Chine, très- grand, à callosités aux joues; 7° <term xml:lang="lat">Sus vittatus</term>, de Java, petit, marqué de bandes blanches; 8’ <term xml:lang="lat">Sus larvatus</term>, d’Afrique, garrot élevé, train de derrière bas comme chez l’hyène, tête grosse, tubercule saillant des gencives près de chaque défense supérieure (V. <ref target="babiroussa">Babiroussa</ref>). Partout les cochons servent à l’alimentation ; leur chair se conserve longtemps, est très-nourrissante, mais difficile à digérer. En Afrique et autres pays chauds toutefois elle se digère mal et donne la dysenterie.</sense>
+        <sense>— <term>Cochon d’Inde</term> ou <term><ex>cochon</ex> de mer</term>. Noms vulgaires du <ref type="syn">cobaye</ref>.</sense>
         <sense>— <term>Cochon cerf</term>. V. <ref target="babiroussa">Babiroussa</ref>.</sense>
       </entry>
       <entry xml:id="cocinine">
@@ -37987,14 +37987,14 @@
       <entry xml:id="coco">
         <form><orth>Coco</orth>. s. m.</form>
         <sense n="1">V. <ref target="cocotier">Cocotier</ref>.</sense>
-        <sense>— <term>Coco des Maldives</term>. V. <ref>Lodoïcée</ref>.</sense>
+        <sense>— <term>Coco des Maldives</term>. V. <ref target="lodoïcée">Lodoïcée</ref>.</sense>
         <sense>— <term>Beurre de coco</term>. V. <ref target="beurre">Beurre</ref>.</sense>
         <sense>— <term>Bois de coco</term>. V. <xr><ref target="bois">Bois</ref> de fer</xr>.</sense>
         <sense>— <term>Huile de coco</term>. V. <xr><ref target="huile">Huile</ref> de palme</xr>.</sense>
       </entry>
       <entry xml:id="cocon">
         <form><orth>Cocon</orth>, s. m.</form>
-        <sense n="1">V. <ref target="bombyx">Bombyx</ref>, <ref>Lépidoptère</ref> et <ref target="soie">Soie</ref>.</sense>
+        <sense n="1">V. <ref target="bombyx">Bombyx</ref>, <ref target="lépidoptère">Lépidoptère</ref> et <ref target="soie">Soie</ref>.</sense>
       </entry>
       <entry xml:id="cocotier">
         <form><orth>Cocotier</orth>, s. m.</form>
@@ -38050,7 +38050,7 @@
         <form><orth>Coddam-pulli</orth>.</form>
         <sense n="1">Nom donné par Rheede au <hi>Carca- pulli</hi> de Lynschoten, arbre de la Chine, de la famille des guttifères (<hi>Hebradendron cambogioides</hi>, Graham, <hi>Stalag- miiis cambogioides</hi>, Murray, <hi>Gardnia morella</hi>, Desrousseau,
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=334" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0334/full/full/0/default.jpg" n="0320"/>
-          <hi>Mangostana morella</hi>, Gærtner), qui fournit Ja <ref>gomme-gutte</ref>. V. ce mot.</sense>
+          <hi>Mangostana morella</hi>, Gærtner), qui fournit Ja <ref target="gomme-gutte">gomme-gutte</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="code">
         <form><orth>Code</orth>. s. m.</form>
@@ -38060,7 +38060,7 @@
           <foreign xml:lang="ita">codice</foreign>
           <foreign xml:lang="spa">codex</foreign>
         </dictScrap>
-        <sense n="1">Le mot français <hi>code</hi> et le mot latin <hi>codex</hi>, qui signifient l’un et l’autre <hi>recueil des lois</hi>, sont employés pour désigner une collection de recettes ou de formules que l’on doit suivre pour la préparation des médicaments. <hi>Code</hi> ou <hi>codex</hi> est synonyme de <hi>dispensaire, A'antidotaire</hi>, de <hi>pharmacopée</hi>. V. <ref target="codex">Codex</ref> et <ref target="formule">Formule</ref>.</sense>
+        <sense n="1">Le mot français <hi>code</hi> et le mot latin <hi>codex</hi>, qui signifient l’un et l’autre <hi>recueil des lois</hi>, sont employés pour désigner une collection de recettes ou de formules que l’on doit suivre pour la préparation des médicaments. <hi>Code</hi> ou <hi>codex</hi> est synonyme de <ref type="syn">dispensaire</ref>, d'<ref type="syn">antidotaire</ref>, de <ref type="syn">pharmacopée</ref>. V. <ref target="codex">Codex</ref> et <ref target="formule">Formule</ref>.</sense>
       </entry>
       <entry xml:id="codéine">
         <form><orth>Codéine</orth>, s. f.</form>
@@ -38076,7 +38076,7 @@
       <entry xml:id="codex">
         <form><orth>Codex</orth>, s. m.</form>
         <sense n="1">V. <ref target="code">Code</ref>.</sense>
-        <sense>— <term>Codex medicamentarius</term>, <term>Pharmacopée française</term>. Formulaire officiel publié avec la sanction du gouvernement et d’après ses ordres, qui contient toutes les préparations médicales et pharmaceutiques qui doivent être tenues par les pharmaciens. Le nouveau <hi>Codex</hi>, édition de 1866, est et demeure obligatoire pour les pharmaciens à partir du 1ᵉʳ janvier 1867. (Décret du •5 décembre 1866.)</sense>
+        <sense>— <term xml:lang="lat">Codex medicamentarius</term>, <ref type="syn">Pharmacopée française</ref>. Formulaire officiel publié avec la sanction du gouvernement et d’après ses ordres, qui contient toutes les préparations médicales et pharmaceutiques qui doivent être tenues par les pharmaciens. Le nouveau <hi>Codex</hi>, édition de 1866, est et demeure obligatoire pour les pharmaciens à partir du 1ᵉʳ janvier 1867. (Décret du •5 décembre 1866.)</sense>
       </entry>
       <entry xml:id="cœcal">
         <form><orth>Cœcal</orth>. adj.</form>
@@ -38089,7 +38089,7 @@
       <entry xml:id="coefficient">
         <form><orth>Coefficient</orth>, s. m.</form>
         <sense n="1">En chimie comme en algèbre, chiffre placé devant un terme ou une formule chimique, et qui indique combien de fois on doit multiplier le terme ou lès lettres de la formulé pour connaître la valeur réelle de ce terme. Lorsqu’une lettre n’est précédée d’aucun nombre, elle est censée avoir 1 pour coefficient.</sense>
-        <sense>— <term>Coefficient de dilatation linéaire d’un solide</term>. Rapport qui existe entre sa longueur à 0° et son allongement, quand sa température s’élève de 0° à 1°. Cette dilatation est généralement uniforme de 0° à 100°. Au delà, elle cesse de l’être. Le <hi>coefficient de dilatation cubique</hi> est le triple du précédent. Le <hi>coefficient de dilatation des liquides</hi> est variable avec chaque degré, même entre 0° et 100°. Le <hi>coefficient de dilatation des gaz</hi> et des <hi>vapeurs</hi> pour chaque degré est à peu près le même, mais non absolument le même, quelle que soit leur densité. Il est représenté par 0,00367 pour l’air.</sense>
+        <sense>— <term>Coefficient de dilatation linéaire d’un solide</term>. Rapport qui existe entre sa longueur à 0° et son allongement, quand sa température s’élève de 0° à 1°. Cette dilatation est généralement uniforme de 0° à 100°. Au delà, elle cesse de l’être. Le <term>coefficient de dilatation cubique</term> est le triple du précédent. Le <term>coefficient de dilatation des liquides</term> est variable avec chaque degré, même entre 0° et 100°. Le <term>coefficient de dilatation des gaz</term> et <term><ex>coefficient de dilatation</ex> des vapeurs</term> pour chaque degré est à peu près le même, mais non absolument le même, quelle que soit leur densité. Il est représenté par 0,00367 pour l’air.</sense>
       </entry>
       <entry xml:id="cœliadelphe">
         <form><orth>Cœliadelphe</orth>. adj. et s.</form>
@@ -38100,7 +38100,7 @@
         <dictScrap>
           <foreign xml:lang="lat">cœliacus</foreign>
           <etym xml:lang="grc">de κοιλία, ventre, intestin</etym>
-          <foreign xml:lang="eng">caliac</foreign>
+          <foreign xml:lang="eng">cœliac</foreign>
         </dictScrap>
         <sense n="1">Qui a rapport aux intestins.</sense>
         <sense>— <term>Artère cœliaque</term> (opisthogastrique, Ch.). Tronc commun des artères coronaire stomachique, hépatique et splénique. Elle naît immédiatement de l’aorte abdominale, entre les piliers du diaphragme.</sense>
@@ -38148,12 +38148,12 @@
         <dictScrap>
           <foreign xml:lang="lat">cœnurus</foreign>
           <etym xml:lang="grc">de κοινός, commun, etoûfà, queue </etym>
-          <foreign xml:lang="deu">Himblasenwurm</foreign>
+          <foreign xml:lang="deu">Hirnblasenwurm</foreign>
           <foreign xml:lang="eng">cœnurus</foreign>
           <foreign xml:lang="ita">cenuro</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image8.jpeg"/>
-        <sense n="1">i Le <hi>cœnure</hi> est le <hi>scolex</hi> du <hi>Tœnia cœnurus</hi> qui se trouve complètement développé à l’état rubané ou strobilaire dans l’intestin du chien, du loup, etc., et non un genre d’helminthes cestoïdes. Il est caractérisé par une vésicule . (<hi>proscolex</hi>) large de 1 à plusieurs centimètres (Fig. 97, <hi>hh</hi>) commune à plusieurs corps (<hi>gg</hi>), terminés chacun par une tête (<hi>scolex</hi>) munie de quatre ventouses (<hi>d</hi>) au-dessus desquelles est une double couronne de crochets (c). La vésicule est blanche, demi-transparente, formée d’une substance homogène finement granuleuse. Sa présence dans le crâne des moutons détermine le <ref>tournis</ref> (V. ce mot). Chaque corps est long de 1 à 3 millim., épais de 1 (<hi>g</hi>) ; il est blanc, cylindrique, plissé circulairement (<hi>e</hi>), saillant, ou mieux pendant (<hi>g</hi>) à la face interne de la vésicule (<hi>hh</hi>), parce que l’animal le tient rentré en doigt de gant, renversé de ce côté (<hi>becd</hi>), au lieu de faire saillie à la surface externe de la vésicule commune. Au niveau (<hi>b</hi>) de l’adhérence de chaque corps à cette vésicule, celle-ci offre un petit orifice à deux lèvres (<hi>a</hi>) par lequel l’animal peut se déverser au dehors, ou, plus souvent, simplement faire saillir sa tête, qui, dans le cas contraire, est renversée jusqu’à l’extrémité libre ou pendante du corps (<hi>cd</hi>) dans une petite poche secondaire (<hi>abf</hi>), qui est une dépendance de la vésicule commune (Reynal et Ch. Robin), et qu’il remplit plus
+        <sense n="1">i Le <hi>cœnure</hi> est le <hi>scolex</hi> du <hi>Tœnia cœnurus</hi> qui se trouve complètement développé à l’état rubané ou strobilaire dans l’intestin du chien, du loup, etc., et non un genre d’helminthes cestoïdes. Il est caractérisé par une vésicule . (<hi>proscolex</hi>) large de 1 à plusieurs centimètres (Fig. 97, <hi>hh</hi>) commune à plusieurs corps (<hi>gg</hi>), terminés chacun par une tête (<hi>scolex</hi>) munie de quatre ventouses (<hi>d</hi>) au-dessus desquelles est une double couronne de crochets (c). La vésicule est blanche, demi-transparente, formée d’une substance homogène finement granuleuse. Sa présence dans le crâne des moutons détermine le <ref target="tournis">tournis</ref> (V. ce mot). Chaque corps est long de 1 à 3 millim., épais de 1 (<hi>g</hi>) ; il est blanc, cylindrique, plissé circulairement (<hi>e</hi>), saillant, ou mieux pendant (<hi>g</hi>) à la face interne de la vésicule (<hi>hh</hi>), parce que l’animal le tient rentré en doigt de gant, renversé de ce côté (<hi>becd</hi>), au lieu de faire saillie à la surface externe de la vésicule commune. Au niveau (<hi>b</hi>) de l’adhérence de chaque corps à cette vésicule, celle-ci offre un petit orifice à deux lèvres (<hi>a</hi>) par lequel l’animal peut se déverser au dehors, ou, plus souvent, simplement faire saillir sa tête, qui, dans le cas contraire, est renversée jusqu’à l’extrémité libre ou pendante du corps (<hi>cd</hi>) dans une petite poche secondaire (<hi>abf</hi>), qui est une dépendance de la vésicule commune (Reynal et Ch. Robin), et qu’il remplit plus
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=335" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0335/full/full/0/default.jpg" n="0321"/>
            exactement que ne le montre la figure. Au fur et à mesure du progrès de l’âge du cœnure (<hi>Cœnurus cerebralis</hi>, Rudolphi), les parois de chaque corps se remplissent de grains ovoïdes ou sphériques, de 2 à 3 centièmes de millimètre, offrant souvent des couches concentriques, et formés de carbonate de chaux, plus d’une trame organique.</sense>
       </entry>
@@ -38185,11 +38185,11 @@
           <foreign resp="#FR" xml:lang="grc">κῆρ </foreign>
           <foreign resp="#FR" xml:lang="grc">καρδία</foreign>
         </dictScrap>
-        <sense n="1">Organe conoïde, creux et musculaire, ayant à peu près le volume du poing, chez l’adulte. Renfermé dans la poitrine, vers sa partie moyenne et un peu à gauche, logé entre les deux plèvres, et enveloppé par le péricarde, il est le principal agent de la <ref>circulation</ref> (V. ce mot). Il est aplati sur deux faces, dont l’une, convexe, est à la fois supérieure antérieure et droite, et l’autre postérieure inférieure et gauche. Ces deux faces sont creusées chacune d’un sillon longitudinal, qui partage ainsi le cœur en deux moitiés. Il est aussi séparé intérieurement en deux moitiés à peu près semblables, adossées l’une à l’autre, et partagées chacune en deux cavités appelées l’une <hi>ventricule</hi>, l’autre <hi>oreillette</hi>. Le cœur présente donc deux <hi>ventricules</hi>, l’un <hi>droit ου pulmonaire</hi>, l’autre <hi>gauche</hi> ou <hi>aortique</hi>, et deux <hi>oreillettes</hi>, surmontant chacune un des ventricules et qui communiquent avec lui. Toutes ces cavités sont lisses, polies et tapissées par une membrane fine, l’<ref>endocarde</ref> (V. ce mot) ; mais, elles offrent des anfractuosités formées par des faisceaux plus ou moins saiRants de ce tissu. Les <hi>oreillettes</hi> présentent, à leur partie supérieure, un petit prolongement aplati et creux, plus grêle à gauche qu’à droite, nommé <hi>auricule</hi> ou <hi>appendice auriculaire</hi>, et une cavité principale, autrefois appelée <hi>sinus</hi>. Dans le sinus de l’oreillette droite s’abouchent, en haut, la veine cave supérieure ; au-dessous et plus en arrière, la veine cave inférieure, qui est pourvue d’une valvule appelée <hi>valvule d’Eustachi</hi>; au-dessous de cette valvule est l’orifice des deux veines coronaires et des cardiaques. Dans l’oreillette gauche s’abouchent postérieurement les veines pulmonaires droites, et sur le côté externe les veines pulmonaires gauches. La cloison qui sépare les oreillettes, et qui ne laisse entre eRes aucune communication, présente inférieurement, du côté de l’o- reifiette droite, une dépression superficielle appelée <hi>fosse ovale</hi>, et dans l’oreillette gauche un petit repli semi-lunaire. Dans chaque oreiRette, l’orifice auriculo-ventriculaire, c’est-à-dire l’ouverture qui établit la communication entre l’oreillette et le ventricule correspondant, est garni d’une valvule : ceRe de l’orifice auriculo-ventriculaire droit est appelée <hi>valvule triglochine</hi> ou <hi>tricuspide</hi> ; celle de l’orifice auriculo-ventriculaire gauche est la <hi>valvule mitrale</hi> (V. <ref target="valvule">Valvule</ref>). Dans la cavité des ventricules, un grand nombre de faisceaux musculaires (V. <xr><ref target="colonne">Colonne</ref> charnues</xr>) soulèvent la membrane interne, ou ne tiennent à la substance de l’organe que par leurs extrémités; quelques- uns donnent naissance à plusieurs petits tendons qui se fixent au bord de la valvule placée à l’orifice auriculo- ventriculaire correspondant. Près de cet orifice, on voi'., dans le ventricule droit, l’embouchure de l’artère pulmonaire, dans le gauche, celle de l’artère aorte. Chacune de ces artères est pourvue, à son origine, de trois valvules appelées, à cause de leur forme, <hi>valvules sigmoïdes ousemi- lunaires</hi>, dont le bord libre présente dans son milieu un petit tubercule de consistance semi-cartRagineuse, nommé <hi>tubercule Æ Aranzi</hi>; ces valvules ont pour usage de fermer complètement l’ouverture artérieRe, lorsqu’eRes sont abaissées. Chez le fœtus, les deux orefilettes sont confondues en une seule dans les premiers temps de l’évolution ; et, quand leur cloison se forme, il reste encore une ouverture de communication, à laquelle on a donné le nom de <hi>trou ovale</hi> ou <hi>trou de Botal</hi>, parce qu’on en a attribué la découverte à Léonard Botal (en 1562), quoique GaRen et vésale en eussent parlé avant lui. Ce trou occupe la place où sera plus tard la <hi>fosse ovale</hi>, et ne commence à se fermer que dans le troisième mois, par le développement <graphic url="BIUSante_37020d_301-400-img/image9.jpeg"/> d’une espèce de valvule qui, composée d’un double feuiRet membraneux, n’est complète qu’au sixième mois. Il ne reste alors qu’un court passage obfique, qui s’obhtère lui- même peu à peu. La cloison des ventricules présente aussi, pendant les six premières semaines, une ouverture d’autant plus grande, qu’on l’examine à une époque moins éloignée de la conception. V. <ref target="embryon">Embryon</ref>, <ref>Foetus</ref> et <xr><ref target="inversion">Inversion</ref> splanchnique</xr>. Les rapports du cœur et des gros vaisseaux avec la paroi antérieure du thorax (Fig. 98) sont indispensables à connaître avec précision. -1, 2, 3, h, les quatre premiers espaces intercostaux; a, pointe du cœur répondant au quatrième espaee intercostal ; b, origine (V. <ref target="pointe">Pointe</ref>) de l’aorte, derrière l’articulation du cartilage de la troisième côte; <hi>b</hi>¹, aorte ; c, sommet de la courbure aortique, à 2 ou 3 centimètres au-dessous delà fourchette sternale; d, ventricule droit ; e, artère pulmonaire.</sense>
+        <sense n="1">Organe conoïde, creux et musculaire, ayant à peu près le volume du poing, chez l’adulte. Renfermé dans la poitrine, vers sa partie moyenne et un peu à gauche, logé entre les deux plèvres, et enveloppé par le péricarde, il est le principal agent de la <ref target="circulation">circulation</ref> (V. ce mot). Il est aplati sur deux faces, dont l’une, convexe, est à la fois supérieure antérieure et droite, et l’autre postérieure inférieure et gauche. Ces deux faces sont creusées chacune d’un sillon longitudinal, qui partage ainsi le cœur en deux moitiés. Il est aussi séparé intérieurement en deux moitiés à peu près semblables, adossées l’une à l’autre, et partagées chacune en deux cavités appelées l’une <hi>ventricule</hi>, l’autre <hi>oreillette</hi>. Le cœur présente donc deux <hi>ventricules</hi>, l’un <hi>droit ου pulmonaire</hi>, l’autre <hi>gauche</hi> ou <hi>aortique</hi>, et deux <hi>oreillettes</hi>, surmontant chacune un des ventricules et qui communiquent avec lui. Toutes ces cavités sont lisses, polies et tapissées par une membrane fine, l’<ref target="endocarde">endocarde</ref> (V. ce mot) ; mais, elles offrent des anfractuosités formées par des faisceaux plus ou moins saiRants de ce tissu. Les <hi>oreillettes</hi> présentent, à leur partie supérieure, un petit prolongement aplati et creux, plus grêle à gauche qu’à droite, nommé <hi>auricule</hi> ou <hi>appendice auriculaire</hi>, et une cavité principale, autrefois appelée <hi>sinus</hi>. Dans le sinus de l’oreillette droite s’abouchent, en haut, la veine cave supérieure ; au-dessous et plus en arrière, la veine cave inférieure, qui est pourvue d’une valvule appelée <hi>valvule d’Eustachi</hi>; au-dessous de cette valvule est l’orifice des deux veines coronaires et des cardiaques. Dans l’oreillette gauche s’abouchent postérieurement les veines pulmonaires droites, et sur le côté externe les veines pulmonaires gauches. La cloison qui sépare les oreillettes, et qui ne laisse entre eRes aucune communication, présente inférieurement, du côté de l’o- reifiette droite, une dépression superficielle appelée <hi>fosse ovale</hi>, et dans l’oreillette gauche un petit repli semi-lunaire. Dans chaque oreiRette, l’orifice auriculo-ventriculaire, c’est-à-dire l’ouverture qui établit la communication entre l’oreillette et le ventricule correspondant, est garni d’une valvule : ceRe de l’orifice auriculo-ventriculaire droit est appelée <hi>valvule triglochine</hi> ou <hi>tricuspide</hi> ; celle de l’orifice auriculo-ventriculaire gauche est la <hi>valvule mitrale</hi> (V. <ref target="valvule">Valvule</ref>). Dans la cavité des ventricules, un grand nombre de faisceaux musculaires (V. <xr><ref target="colonne">Colonnes</ref> charnues</xr>) soulèvent la membrane interne, ou ne tiennent à la substance de l’organe que par leurs extrémités; quelques- uns donnent naissance à plusieurs petits tendons qui se fixent au bord de la valvule placée à l’orifice auriculo- ventriculaire correspondant. Près de cet orifice, on voi'., dans le ventricule droit, l’embouchure de l’artère pulmonaire, dans le gauche, celle de l’artère aorte. Chacune de ces artères est pourvue, à son origine, de trois valvules appelées, à cause de leur forme, <hi>valvules sigmoïdes ousemi- lunaires</hi>, dont le bord libre présente dans son milieu un petit tubercule de consistance semi-cartRagineuse, nommé <hi>tubercule Æ Aranzi</hi>; ces valvules ont pour usage de fermer complètement l’ouverture artérieRe, lorsqu’eRes sont abaissées. Chez le fœtus, les deux orefilettes sont confondues en une seule dans les premiers temps de l’évolution ; et, quand leur cloison se forme, il reste encore une ouverture de communication, à laquelle on a donné le nom de <hi>trou ovale</hi> ou <hi>trou de Botal</hi>, parce qu’on en a attribué la découverte à Léonard Botal (en 1562), quoique GaRen et vésale en eussent parlé avant lui. Ce trou occupe la place où sera plus tard la <hi>fosse ovale</hi>, et ne commence à se fermer que dans le troisième mois, par le développement <graphic url="BIUSante_37020d_301-400-img/image9.jpeg"/> d’une espèce de valvule qui, composée d’un double feuiRet membraneux, n’est complète qu’au sixième mois. Il ne reste alors qu’un court passage obfique, qui s’obhtère lui- même peu à peu. La cloison des ventricules présente aussi, pendant les six premières semaines, une ouverture d’autant plus grande, qu’on l’examine à une époque moins éloignée de la conception. V. <ref target="embryon">Embryon</ref>, <ref target="fœtus">Fœtus</ref> et <xr><ref target="inversion">Inversion</ref> splanchnique</xr>. Les rapports du cœur et des gros vaisseaux avec la paroi antérieure du thorax (Fig. 98) sont indispensables à connaître avec précision. -1, 2, 3, h, les quatre premiers espaces intercostaux; a, pointe du cœur répondant au quatrième espaee intercostal ; b, origine (V. <ref target="pointe">Pointe</ref>) de l’aorte, derrière l’articulation du cartilage de la troisième côte; <hi>b</hi>¹, aorte ; c, sommet de la courbure aortique, à 2 ou 3 centimètres au-dessous delà fourchette sternale; d, ventricule droit ; e, artère pulmonaire.</sense>
         <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=336" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0336/full/full/0/default.jpg" n="0322"/>
         <graphic url="BIUSante_37020d_301-400-img/image10.jpeg"/>
-        <sense>— Le cœur et ses principaux vaisseaux chez l’homme, vu par sa face droite. 1, le ventricule droit; 3, son <hi>infundibulum</hi>, le ventricule gauche; 4, auricule et oreillette droites ; 8, la veine cave antérieure ou supérieure; 5, auricule gauche; 6, l’artère pulmonaire ; 7, la crosse de l’aorte; 10, artère cardiaque ou coronaire droite avec sa branche verticale ou ventriculaire; 11, branche ventriculaire de la veine cardiaque; 9, artère coronaire gauche. Le volume du cœur présente des différences suivant les individus. En général, cet organe est plus petit chez les femmes que chez les hommes. On peut évaluer sa longueur, de la base au sommet, à environ 12 centimètres dans l’état de distension modérée des cavités; sa plus grande largeur, à 9 centimètres 1/2, et sa plus grande épaisseur à 68 millimètres. Son poids augmente non-seulement jusqu’à l’époque du complet développement, mais encore jusques après la soixantième année, âge auquel celui de tous les autres organes a coutume de diminuer : ainsi son poids moyen est de 255 grammes de quinze à trente ans, de 285 grammes de trente à cinquante, et de plus de 300 grammes jusqu’à soixante. Ce poids moyen est à celui du corps ;; 1 : 158 chez l’homme, :: 1 : 149 chez la femme (V. <xr><ref target="capacité">Capacité</ref> du cœur</xr>). La moyenne du poids du cœur chez vingt femmes mortes en couches est représentée par 291 grammes 85 centigrammes. Or, d’après Bouillaud, la moyenne chez l’homme serait de 230 à 240 grammes, et chez la femme, 220 à 230. Il y aurait donc, pendant la grossesse, une augmentation de plus du cinquième du poids total. Cette hypertrophie porte exclusivement sur le ventricule gauche;</sense>
-        <sense>— Le cœur apparaît dans l’embryon humain alors que celui-ci est long de 2 millimètres et demi (12° jour). Dans la <hi>fosse cardiaque</hi>, on voit paraître, dans l’épaisseur de la membrane intermédiaire, un cylindre oblong, plein, d’abord droit, composé de cellules. Il se creuse bientôt d’un canal simple, terminé en avant par une branche antérieure ou supérieure qui se perd plus tard dans les parois latérales de la portion céphalique de l’embryon : c’est <hi>l’arc aortique</hi>. Les deux branches inférieures ou postérieures se continuent peu à peu, de chaque côté, avec le plan de la membrane blastodermique, qui vient en cet endroit se joindre au corps de l’embryon entre la corde dorsale et la paroi future de l’intestin; ce sont les <hi>arcs omphalo-mésenté- riques</hi> (V. <xr><ref target="veine">Veine</ref> cardinales</xr>). Le cœur n’est pas creux d’abord ; les artères en partent, dès que sa cavité se montre. Bientôt le canal cardiaque prend la forme d’une S, se dilate et se contracte avec un rhythme lent. Par ces mouvements il chasse vers les crosses aortiques un liquide transparent. Il n’y a alors point de vaisseaux dans les tissus du corps de l’embryon. En même temps les premiers vaisseaux apparaissent hors de l’embryon, entre les deux feuillets du blastoderme. Un liquide, d’abord incolore, s’interpose entre ces deux feuillets, les décolle çà et là, et forme des lacs qui ont des anses s’anastomosant bientôt. Le cœur, courbé alors en fer à cheval, se tord sur lui-même, de manière que la courbure inférieure se place en arrière etàdroite, la supérieure en avant et à gauche. Il se dilate sur trois parties entre lesquelles il y a deux rétrécissements. Ces dilatations constituent: la première, les <hi>oreillettes</hi>; la seconde, les <hi>ventricules</hi> ; la troisième, le <hi>bulbe de l’aorte</hi>, renflement qui est permanent chez certains animaux. Entre les oreillettes et les ventricules il y a un rétrécissement qui s’appelle <hi>canal auriculaire</hi>; entre les ventricules et le bulbe de l’aorte existe le <hi>détroit de Haller</hi>. Bientôt arrivent les changements qui persisteront toute la vie. Sur la première dilatation on voit paraître les <hi>auricules</hi> ou <hi>appendices auriculaires</hi>. C’est seulement quand les ventricules sont séparés que la séparation s’établit entre les deux oreillettes.</sense>
+        <sense>— Le cœur et ses principaux vaisseaux chez l’homme, vu par sa face droite. 1, le ventricule droit; 3, son <hi>infundibulum</hi>, le ventricule gauche; 4, auricule et oreillette droites ; 8, la veine cave antérieure ou supérieure; 5, auricule gauche; 6, l’artère pulmonaire ; 7, la crosse de l’aorte; 10, artère cardiaque ou coronaire droite avec sa branche verticale ou ventriculaire; 11, branche ventriculaire de la veine cardiaque; 9, artère coronaire gauche. Le volume du cœur présente des différences suivant les individus. En général, cet organe est plus petit chez les femmes que chez les hommes. On peut évaluer sa longueur, de la base au sommet, à environ 12 centimètres dans l’état de distension modérée des cavités; sa plus grande largeur, à 9 centimètres 1/2, et sa plus grande épaisseur à 68 millimètres. Son poids augmente non-seulement jusqu’à l’époque du complet développement, mais encore jusques après la soixantième année, âge auquel celui de tous les autres organes a coutume de diminuer : ainsi son poids moyen est de 255 grammes de quinze à trente ans, de 285 grammes de trente à cinquante, et de plus de 300 grammes jusqu’à soixante. Ce poids moyen est à celui du corps ;; 1 : 158 chez l’homme, :: 1 : 149 chez la femme (V. <xr><ref target="capacité">Capacités</ref> du cœur</xr>). La moyenne du poids du cœur chez vingt femmes mortes en couches est représentée par 291 grammes 85 centigrammes. Or, d’après Bouillaud, la moyenne chez l’homme serait de 230 à 240 grammes, et chez la femme, 220 à 230. Il y aurait donc, pendant la grossesse, une augmentation de plus du cinquième du poids total. Cette hypertrophie porte exclusivement sur le ventricule gauche;</sense>
+        <sense>— Le cœur apparaît dans l’embryon humain alors que celui-ci est long de 2 millimètres et demi (12° jour). Dans la <hi>fosse cardiaque</hi>, on voit paraître, dans l’épaisseur de la membrane intermédiaire, un cylindre oblong, plein, d’abord droit, composé de cellules. Il se creuse bientôt d’un canal simple, terminé en avant par une branche antérieure ou supérieure qui se perd plus tard dans les parois latérales de la portion céphalique de l’embryon : c’est <hi>l’arc aortique</hi>. Les deux branches inférieures ou postérieures se continuent peu à peu, de chaque côté, avec le plan de la membrane blastodermique, qui vient en cet endroit se joindre au corps de l’embryon entre la corde dorsale et la paroi future de l’intestin; ce sont les <hi>arcs omphalo-mésenté- riques</hi> (V. <xr><ref target="veine">Veines</ref> cardinales</xr>). Le cœur n’est pas creux d’abord ; les artères en partent, dès que sa cavité se montre. Bientôt le canal cardiaque prend la forme d’une S, se dilate et se contracte avec un rhythme lent. Par ces mouvements il chasse vers les crosses aortiques un liquide transparent. Il n’y a alors point de vaisseaux dans les tissus du corps de l’embryon. En même temps les premiers vaisseaux apparaissent hors de l’embryon, entre les deux feuillets du blastoderme. Un liquide, d’abord incolore, s’interpose entre ces deux feuillets, les décolle çà et là, et forme des lacs qui ont des anses s’anastomosant bientôt. Le cœur, courbé alors en fer à cheval, se tord sur lui-même, de manière que la courbure inférieure se place en arrière etàdroite, la supérieure en avant et à gauche. Il se dilate sur trois parties entre lesquelles il y a deux rétrécissements. Ces dilatations constituent: la première, les <hi>oreillettes</hi>; la seconde, les <hi>ventricules</hi> ; la troisième, le <hi>bulbe de l’aorte</hi>, renflement qui est permanent chez certains animaux. Entre les oreillettes et les ventricules il y a un rétrécissement qui s’appelle <hi>canal auriculaire</hi>; entre les ventricules et le bulbe de l’aorte existe le <hi>détroit de Haller</hi>. Bientôt arrivent les changements qui persisteront toute la vie. Sur la première dilatation on voit paraître les <hi>auricules</hi> ou <hi>appendices auriculaires</hi>. C’est seulement quand les ventricules sont séparés que la séparation s’établit entre les deux oreillettes.</sense>
         <sense>— Le nombre des battements du cœur varie suivant l’âge : on en compte 100 chez l’embryon, 140 à 180 après la naissance, 115 à 130 durant la première année, 100 à 115 pendant la deuxième, 90 à 100 durant la troisième, 85 à 90 pendant la septième, 80 à 85 à quatorze ans, 70 à 75 chez l’adulte. Chez les vieillards, le pouls, loin de se ralentir, prend de la fréquence. Le nombre des battements est plus grand après les repas et surtout après les exercices corporels, plus grand chez les femmes que chez les hommes. Il croît avec l’élévation des lieux : Parrot l’a trouvé de 70 au niveau de la mer, 75 à 1000 mètres, 82 à 1500, 90 à 2000, 95 à 2500 mètres, 100 à 3000, 110 à 4000 mètres.</sense>
         <sense>— Les deux ventricules se contractent ensemble, et les deux oreillettes aussi. Le temps compris entre la contraction des oreillettes et celle des ventricules est moindre que celui qui s’écoule entre la contraction des ventricules et celle des oreillettes. Il n’y a pas non plus une simultanéité absolue, mais une différence de quelques tierces, entre chaque battement du cœur et le pouls correspondant des artères. Les deux cœurs, quoique fonctionnant ensemble, n’ont point un mode d’action identique,
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=337" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0337/full/full/0/default.jpg" n="0323"/>
@@ -38197,17 +38197,17 @@
         <sense>— <term>Anévrysmes du cœur</term>. V. <ref target="anévrysme">Anévrysme</ref>.</sense>
         <sense>— <term>Bruits du cœur</term>. V. <ref target="bruit">Bruit</ref>.</sense>
         <sense>— <term>Locomotion du cœur</term>. V. <ref target="locomotion">Locomotion</ref>.</sense>
-        <sense>— <term>Nerfs du cœur</term>. V. <ref target="cardiaque">Cardiaque</ref> (<hi>Nerfs</hi>).</sense>
+        <sense>— <term>Nerfs du cœur</term>. V. <ref target="cardiaque">Cardiaques</ref> (<rs>Nerfs</rs>).</sense>
         <sense>— <term>Pause du cœur</term>, V. <ref target="pause">Pause</ref>.</sense>
         <sense>— <term>Recul du cœur</term>. V. <ref target="recul">Recul</ref>.</sense>
-        <sense>— <term>Torsion <hi>ou</hi> redressement du cœur</term>. V. <ref target="torsion">Torsion</ref>.</sense>
+        <sense>— <term>Torsion <ex>du cœur</ex></term> ou <term>redressement du cœur</term>. V. <ref target="torsion">Torsion</ref>.</sense>
       </entry>
       <entry xml:id="cœur2">
         <form><orth>Cœur</orth> (<rs>Le</rs>), s. m.</form>
-        <sense n="1">Maniement pair ou double, Commun aux deux sexes. Il est placé au-dessous et à quelque distance du <ref>paleron</ref> (V. ce mot), en arrière du contrecœur, ou plus spécialement en arrière et vers le milieu de la masse musculaire olécrânienne. Il est presque sous-cutané. Il répond aussi à peu près à la place qu’occupe le cœur dans l’intérieur du thorax, d’où son nom. 11 ne renferme pas de ganglion lymphatique. (Goubaux.)</sense>
+        <sense n="1">Maniement pair ou double, Commun aux deux sexes. Il est placé au-dessous et à quelque distance du <ref target="paleron">paleron</ref> (V. ce mot), en arrière du contrecœur, ou plus spécialement en arrière et vers le milieu de la masse musculaire olécrânienne. Il est presque sous-cutané. Il répond aussi à peu près à la place qu’occupe le cœur dans l’intérieur du thorax, d’où son nom. 11 ne renferme pas de ganglion lymphatique. (Goubaux.)</sense>
       </entry>
       <entry xml:id="cognassier">
-        <form><orth>Cognassier</orth> ou <orth>Goignassier</orth>. s. m.</form>
+        <form><orth>Cognassier</orth> ou <orth>Coignassier</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">Pirus cydonia (L.)</foreign>
           <foreign xml:lang="deu">Quittenbaum</foreign>
@@ -38227,14 +38227,14 @@
           <foreign xml:lang="spa">cohabitacion</foreign>
         </dictScrap>
         <sense n="1">Action de demeurer, d’habiter ensemble.</sense>
-        <sense>— En médecine légale, acte par lequel le mariage est consommé, acte nommé aussi <hi>copulation</hi> ou <hi>coït</hi>.</sense>
+        <sense>— En médecine légale, acte par lequel le mariage est consommé, acte nommé aussi <ref type="syn">copulation</ref> ou <ref type="syn">coït</ref>.</sense>
       </entry>
       <entry xml:id="cohérence">
         <form><orth>Cohérence</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">cohœrentia</foreign>
+          <foreign xml:lang="lat">cohærentia</foreign>
           <etym>de cum, avec, et <hi>hœrere</hi>, adhérer</etym>
-          <foreign xml:lang="deu">Cohürenz</foreign>
+          <foreign xml:lang="deu">Cohärenz</foreign>
           <foreign xml:lang="eng">coherency</foreign>
           <foreign xml:lang="ita">coerenza</foreign>
           <foreign xml:lang="spa">coherencia</foreign>
@@ -38244,21 +38244,21 @@
       <entry xml:id="cohérent">
         <form><orth>Cohérent</orth>, ENTE. adj.</form>
         <dictScrap>
-          <foreign xml:lang="lat">cohœrens</foreign>
+          <foreign xml:lang="lat">cohærens</foreign>
         </dictScrap>
         <sense n="1">Sedit, en botanique , des étamines quand elles tiennent les unes aux autres, soit par des poils, Soit par une substance glutineuse.</sense>
       </entry>
       <entry xml:id="cohésion">
         <form><orth>Cohésion</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">cohœsio</foreign>
+          <foreign xml:lang="lat">cohæsio</foreign>
           <etym>de <hi>cum</hi>, avec, et <hi>hœrere</hi>, adhérer</etym>
-          <foreign xml:lang="deu">Cohœsion</foreign>
-          <foreign xml:lang="eng">cohésion</foreign>
+          <foreign xml:lang="deu">Cohæsion</foreign>
+          <foreign xml:lang="eng">cohesion</foreign>
           <foreign xml:lang="ita">coesion</foreign>
           <foreign xml:lang="spa">cohesion</foreign>
         </dictScrap>
-        <sense n="1">Union des parties composantes des corps durs; force avec laqueUe les particules adhèrent entre elles de manière à opposer plus ou moins de résistance à leur séparation ; force qui tend à <hi>réunir</hi> les atomes intégrants et de même nature d’un corps. Dans ce dernier sens, <hi>cohésion</hi> est synonyme <hi>A affinité</hi>. <hi>Cohésion</hi> diffère <hi>d’agrégation</hi> en ce que ce dernier mot n’exprime que l’état de réunion des molécules : la <hi>cohésion</hi>, ou <hi>force de cohésion</hi> des parties d’un corps, oppose plus ou moins de résistance à leur séparation, soit mécanique, soit chimique.</sense>
+        <sense n="1">Union des parties composantes des corps durs; force avec laqueUe les particules adhèrent entre elles de manière à opposer plus ou moins de résistance à leur séparation ; force qui tend à <hi>réunir</hi> les atomes intégrants et de même nature d’un corps. Dans ce dernier sens, <hi>cohésion</hi> est synonyme d'<ref type="syn">affinité</ref>. <hi>Cohésion</hi> diffère <hi>d’agrégation</hi> en ce que ce dernier mot n’exprime que l’état de réunion des molécules : la <hi>cohésion</hi>, ou <ref type="syn">force de cohésion</ref> des parties d’un corps, oppose plus ou moins de résistance à leur séparation, soit mécanique, soit chimique.</sense>
       </entry>
       <entry xml:id="cohibant">
         <form><orth>Cohibant</orth>. adj.</form>
@@ -38275,7 +38275,7 @@
       </entry>
       <entry xml:id="cohosh">
         <form><orth>Cohosh</orth>. s. m.</form>
-        <sense n="1">Nom indigène, dans l’Amérique du Nord, du <hi>Caulophyllum thalictroides</hi>, Michaux (<hi>Leontice thalictroides</hi>, L.), delafamiDedesberbéridées, dontonemploie le rhizome pour faciliter l’accouchement. Ce rhizome présente plusieurs centimètres de longueur ; il est très-ra- mifié, et ressemble à de la racine de serpentaire. On en extrait, en traitant par l’eau sa teinture alcoolique concentrée, une matière résineuse désignée sous le nom de <hi>caulophyllin</hi>.</sense>
+        <sense n="1">Nom indigène, dans l’Amérique du Nord, du <foreign xml:lang="lat">Caulophyllum thalictroides</foreign>, Michaux (<foreign xml:lang="lat">Leontice thalictroides</foreign>, L.), delafamiDedesberbéridées, dontonemploie le rhizome pour faciliter l’accouchement. Ce rhizome présente plusieurs centimètres de longueur ; il est très-ra- mifié, et ressemble à de la racine de serpentaire. On en extrait, en traitant par l’eau sa teinture alcoolique concentrée, une matière résineuse désignée sous le nom de <hi>caulophyllin</hi>.</sense>
       </entry>
       <entry xml:id="coiffe">
         <form><orth>Coiffe</orth>, s. f.</form>
@@ -38290,7 +38290,7 @@
         </dictScrap>
         <sense n="1">Portion des membranes fœtales que l’enfant pousse quelquefois devant lui, et qui se trouve alors sur sa tête dans l’accouchement ordinaire. Il peut en résulter des accidents graves et pour la mère et pour l’enfant ; mais un préjugé vulgaire regarde cette disposition comme d’un heureux augure. De là l’expression proverbiale : <hi>être né coiffé</hi>.</sense>
         <sense>— <term>Coiffe des pédoncules cérébraux</term>. V. <ref target="calotte">Calotte</ref>.</sense>
-        <sense>== En botanique, <hi>coiffe</hi> (<hi>calyptra</hi>), enveloppe membraneuse, sorte de bourse qui recouvre l’urne ou cupule des mousses, et qui se rompt circulaire- ment par son milieu : la portion inférieure de cette membrane , celle qui reste autour du pédicule de l’urne, se nomme aussi la <hi>vagipule</hi>; tandis que la supérieure, ceRe qui recouvre le sommet de l’urne, retient le nom de <hi>coiffe</hi>.</sense>
+        <sense>== En botanique, <term>coiffe</term> (<foreign xml:lang="lat">calyptra</foreign>), enveloppe membraneuse, sorte de bourse qui recouvre l’urne ou cupule des mousses, et qui se rompt circulaire- ment par son milieu : la portion inférieure de cette membrane , celle qui reste autour du pédicule de l’urne, se nomme aussi la <ref type="syn">vaginule</ref>; tandis que la supérieure, ceRe qui recouvre le sommet de l’urne, retient le nom de <hi>coiffe</hi>.</sense>
       </entry>
       <entry xml:id="coignassier">
         <form><orth>Coignassier</orth>. s. m.</form>
@@ -38324,7 +38324,7 @@
         <dictScrap>
           <foreign xml:lang="deu">Eckzahn</foreign>
         </dictScrap>
-        <sense n="1">En vétérinaire, dents incisiv es du cheval les plus voisines des crochets et les plus courtes. EHes sont au nombre de quatre, deux à chaque mâchoire. V. <ref target="âge">Âge</ref>.</sense>
+        <sense n="1">En vétérinaire, dents incisiv es du cheval les plus voisines des crochets et les plus courtes. EHes sont au nombre de quatre, deux à chaque mâchoire. V. <ref target="âge"><choice><sic>Age</sic><corr>Âge</corr></choice></ref>.</sense>
       </entry>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=338" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0338/full/full/0/default.jpg" n="0324"/>
       <entry xml:id="coït">
@@ -38338,12 +38338,12 @@
           <foreign xml:lang="spa">coito</foreign>
           <foreign resp="#FR" xml:lang="grc">συνουσία</foreign>
         </dictScrap>
-        <sense n="1">Union des sexes pour la génération. Cette union est appelée aussi <hi>acte vénérien; copulation</hi> chez les animaux; <hi>cohabitation</hi> chez l’homme; <hi>monte</hi> chez certains animaux, le cheval particulièrement. <hi>Accouplement</hi> est un terme général qui s’applique aux animaux pourvus de sexes. On dit d’un quadrupède mâle qu’il <hi>couvre</hi> sa femelle. Cependant il y a aussi des termes propres à certaines espèces, comme <hi>mâtiner</hi> pour le chien, <hi>Saillir</hi> pour le cheval et le taureau, <hi>côcher</hi> pour les oiseaux, le coq surtout.</sense>
+        <sense n="1">Union des sexes pour la génération. Cette union est appelée aussi <ref type="syn">acte vénérien</ref>; <ref type="syn">copulation</ref> chez les animaux; <ref type="syn">cohabitation</ref> chez l’homme; <ref type="syn">monte</ref> chez certains animaux, le cheval particulièrement. <hi>Accouplement</hi> est un terme général qui s’applique aux animaux pourvus de sexes. On dit d’un quadrupède mâle qu’il <hi>couvre</hi> sa femelle. Cependant il y a aussi des termes propres à certaines espèces, comme <hi>mâtiner</hi> pour le chien, <hi>Saillir</hi> pour le cheval et le taureau, <hi>côcher</hi> pour les oiseaux, le coq surtout.</sense>
         <sense>— <term>Mal de coït</term>. V. <ref target="mal">Mal</ref>.</sense>
       </entry>
       <entry xml:id="coïtal">
         <form><orth>Coïtal</orth>. adj.</form>
-        <sense n="1">— <term>Exanthème coïtai</term>. V. <xr><ref target="mal">Mal</ref> de coït</xr>.</sense>
+        <sense n="1">— <term>Exanthème coïtal</term>. V. <xr><ref target="mal">Mal</ref> de coït</xr>.</sense>
       </entry>
       <entry xml:id="coix">
         <form><orth>Coix</orth>. s. m.</form>
@@ -38367,21 +38367,21 @@
           <foreign resp="#FR" xml:lang="grc">αὐχὴν </foreign>
           <foreign resp="#FR" xml:lang="grc">τράχηλος</foreign>
         </dictScrap>
-        <sense n="1">Partie du corps située entre la tête et les épaules. En ce sens, le mot <hi>col</hi> a vieiHi, quoiqu’on s’en serve encore fréquemment en certains cas : <hi>cou</hi> est plus usité.</sense>
+        <sense n="1">Partie du corps située entre la tête et les épaules. En ce sens, le mot <hi>col</hi> a vieiHi, quoiqu’on s’en serve encore fréquemment en certains cas : <ref type="syn">cou</ref> est plus usité.</sense>
         <sense>— En anatomie, nom donné à des parties qui sont plus minces que le reste de l’organe dont elles dépendent.</sense>
         <sense>— <term>Col de l’astragale</term>. Enfoncement plus marqué inférieurement que supérieurement, et qui sépare le corps de cet os de son extrémité antérieure ou de sa tête.</sense>
         <sense>— <term>Col des côtes</term>. Partie étroite qui se remarque entre la <hi>tête</hi> ou extrémité supérieure des côtes et l’éminence qu’on nomme leur tubérosité.</sense>
-        <sense>— <term>Col <hi>ou</hi> collet des dents</term>. V. <ref target="dent">Dent</ref>.</sense>
+        <sense>— <term>Col <ex>des dents</ex></term> ou <term>collet des dents</term>. V. <ref target="dent">Dent</ref>.</sense>
         <sense>— <term>Col du fémur</term>. Partie rétrécie et allongée, unie à angle obtus au corps du fémur, et qui soutient la tête de cet os.</sense>
         <sense>— <term>Col du grand os</term>. Rainure circulaire que l’on remarque au-dessous de la tête de cet os du carpe.</sense>
-        <sense>— <term>Col de l’humérus</term>. Les anatomistes appeHent ainsi le rétrécissement, large de quelques millimètres au plus, qui circonscrit la tête de l’humérus et la sépare de ses deux tubérosités; mais les chirurgiens donnent ce nom à la portion de l’humérus qui est limitée en haut par les deux tubérosités, et en bas par l’insertion des muscles grand pectoral, grand dorsal et grand rond. Il ne faut pas confondre le <hi>col anatomique</hi> et le <hi>col chirurgical</hi>.</sense>
+        <sense>— <term>Col de l’humérus</term>. Les anatomistes appeHent ainsi le rétrécissement, large de quelques millimètres au plus, qui circonscrit la tête de l’humérus et la sépare de ses deux tubérosités; mais les chirurgiens donnent ce nom à la portion de l’humérus qui est limitée en haut par les deux tubérosités, et en bas par l’insertion des muscles grand pectoral, grand dorsal et grand rond. Il ne faut pas confondre le <term>col anatomique</term> et le <term>col chirurgical</term>.</sense>
         <sense>— <term>Col de l’omoplate</term>. Rétrécissement que présente l’angle antérieur et interne de l’omoplate, derrière la cavité glénoïde ; il donne attache à la capsule fibreuse de l’articulation scapulo-humérale.</sense>
         <sense>— <term>Col de l’os maxillaire inférieur</term>. Rétrécissement qu’on observe sur chaque branche de cet os, au-dessous du condyle; il donne attache en devant au muscle ptérygoïdien externe.</sense>
         <sense>— <term>Col du péroné</term>. Léger rétrécissement situé au- dessous de la tête ou de l’extrémité supérieure du péroné.</sense>
         <sense>— <term>Col du radius</term>. Partie grêle, de la longueur d’un travers de doigt au plus, qui supporte la région articulaire de l’extrémité supérieure de cet os.</sense>
-        <sense>— <term>Col de l’utérus <hi>ou</hi> de la matrice</term>. V. <ref target="utérus">Utérus</ref>.</sense>
+        <sense>— <term>Col de l’utérus</term> ou <term><ex>col</ex> de la matrice</term>. V. <ref target="utérus">Utérus</ref>.</sense>
         <sense>— <term>Col de la vessie</term>. Sorte de prolongement de la partie antérieure inférieure de la vessie, représentant un goulot très-court, en forme de cône tronqué, embrassé en avant par la prostate, et appuyé en arrière sur le rectum ; il se continue antérieurement avec l’urèthre.</sense>
-        <sense>— <term>Col d’un bandage</term>. V. <ref>Braver</ref>.</sense>
+        <sense>— <term>Col d’un bandage</term>. V. <ref target="brayer">Brayer</ref>.</sense>
         <sense>— <term>Col du sac herniaire</term>. V. <ref target="hernie">Hernie</ref>.</sense>
       </entry>
       <entry xml:id="cola">
@@ -38390,7 +38390,7 @@
       </entry>
       <entry xml:id="colat">
         <form><orth>Colat</orth>.</form>
-        <sense n="1">V. <ref target="abréviation">Abréviation</ref>.</sense>
+        <sense n="1">V. <ref target="abréviation">Abréviations</ref>.</sense>
       </entry>
       <entry xml:id="colatoire">
         <form><orth>Colatoire</orth>. adj.</form>
@@ -38408,18 +38408,18 @@
           <foreign xml:lang="ita">colatura</foreign>
           <foreign xml:lang="spa">coladura</foreign>
         </dictScrap>
-        <sense n="1">V. <ref target="filtrage">Filtration</ref>.</sense>
+        <sense n="1">V. <ref target="filtration">Filtration</ref>.</sense>
       </entry>
       <entry xml:id="colchicacées">
         <form><orth>Colchicacées</orth>. s. f. pl.</form>
         <dictScrap>
-          <foreign xml:lang="lat">colchicaceœ</foreign>
+          <foreign xml:lang="lat">colchicaceæ</foreign>
           <foreign xml:lang="deu">Zeitlosen</foreign>
           <foreign xml:lang="eng">colchicum</foreign>
           <foreign xml:lang="ita">colchico</foreign>
         </dictScrap>
         <sense n="1">Famille de plantes dicotylédones monopétales périgynes qui a pour caractères : Racine fibreuse ou bulbifère. Feuilles alternes et engainantes. Fleurs terminales, hermaphrodites ou unisexuées. Calice coloré, à 6 divisions très-profondes, 6 étamines opposées aux divisions du calice. 3 ovaires, tantôt libres, tan-. tôt soudés de manière à représenter un ovaire triloculaire, contenant un grand nombre d’ovules attachés à l’angle interne ; un style au sommet de chaque ovaire, et un stigmate glanduleux. Fruit composé de trois carpelles distincts qui se soudent quelquefois et forment une capsule triloculaire, mais qui se séparent de nouveau lors de la maturité, et s’ouvrent chacun par une suture placée à leur angle interne.</sense>
-        <sense>— Les colchicacées ont généralement sur l’économie animale une action délétère qu’elles doivent à <ref>la vératrine</ref> et à l’<ref>acide cévadique</ref>. V. ces mots.</sense>
+        <sense>— Les colchicacées ont généralement sur l’économie animale une action délétère qu’elles doivent à la <ref target="vératrine">vératrine</ref> et à l’<xr><ref target="acide">acide</ref> cévadique</xr>. V. ces mots.</sense>
       </entry>
       <entry xml:id="colchicéine">
         <form><orth>Colchicéine</orth>. s. f.</form>
@@ -38437,7 +38437,7 @@
       </entry>
       <entry xml:id="colchicique">
         <form><orth>Colchicique</orth> et non <orth>Colchitique</orth>. adj.</form>
-        <sense n="1">— <term>Vinaigre colchicique</term>. On le fait en faisant macérer pendant quinze jours : bulbes desséchées de colchique, 128 grammes, dans vinaigre rouge très-fort, l?,500. En faisant cuire en consistance de sirop 500 grammes de vinaigre colchicique et 1 kilogramme de miel blanc, on a <hi>l’oxymel colchicique</hi>.</sense>
+        <sense n="1">— <term>Vinaigre colchicique</term>. On le fait en faisant macérer pendant quinze jours : bulbes desséchées de colchique, 128 grammes, dans vinaigre rouge très-fort, l?,500. En faisant cuire en consistance de sirop 500 grammes de vinaigre colchicique et 1 kilogramme de miel blanc, on a l'<term>oxymel colchicique</term>.</sense>
       </entry>
       <entry xml:id="colchique">
         <form><orth>Colchique</orth>, s. m.</form>
@@ -38448,12 +38448,12 @@
           <foreign xml:lang="ita">colchico</foreign>
           <foreign xml:lang="spa">colchico</foreign>
         </dictScrap>
-        <sense n="1">Genre de plantes de l’hexandrie trigynie, L., qui a donné son nom à la famille des colchicacées. Le <hi>colchique d’automne</hi> (<hi>veillotte, tue-chien, safran des prés, Colchicum autumnale</hi>, L.), qui fleurit dans les prés pendant les mois de septembre et d’octobre, a de grandes fleurs roses, dont le tube, haut de 19 à 21 centimètres, sort immédiatement du bulbe charnu; elles s’épanouissent longtemps avant les feuilles, et ont à peu près la même forme que celles du safran : ce qui leur a fait donner le nom de <hi>safran bâtard</hi>. Les bulbes, irrégulièrement ovoïdes (Fig. 100), de la grosseur d’une noix, revêtus extérieurement de membranes minces et brunes, renfermant une substance compacte, charnue et blanche, d’une odeur désagréable, d’une saveur âcre et nauséabonde, sont formés d’amidon et de vératrine : c’est, avec la semence, la seule partie employée en médecine. Le colchique agit, à petites doses, comme diurétique et succédané de la scille; à dose plus forte, c’est un purgatif drastique : il peut déterminer tous les accidents dos poisons âcres. On ne doit l’administrer
+        <sense n="1">Genre de plantes de l’hexandrie trigynie, L., qui a donné son nom à la famille des colchicacées. Le <term>colchique d’automne</term> (<ref type="syn">veillotte</ref>, <ref type="syn">tue-chien</ref>, <ref type="syn">safran des prés</ref>, <foreign xml:lang="lat">Colchicum autumnale</foreign>, L.), qui fleurit dans les prés pendant les mois de septembre et d’octobre, a de grandes fleurs roses, dont le tube, haut de 19 à 21 centimètres, sort immédiatement du bulbe charnu; elles s’épanouissent longtemps avant les feuilles, et ont à peu près la même forme que celles du safran : ce qui leur a fait donner le nom de <hi>safran bâtard</hi>. Les bulbes, irrégulièrement ovoïdes (Fig. 100), de la grosseur d’une noix, revêtus extérieurement de membranes minces et brunes, renfermant une substance compacte, charnue et blanche, d’une odeur désagréable, d’une saveur âcre et nauséabonde, sont formés d’amidon et de vératrine : c’est, avec la semence, la seule partie employée en médecine. Le colchique agit, à petites doses, comme diurétique et succédané de la scille; à dose plus forte, c’est un purgatif drastique : il peut déterminer tous les accidents dos poisons âcres. On ne doit l’administrer
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=339" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0339/full/full/0/default.jpg" n="0325"/>
            qu’avec circonspection, en commençant par 10 à 15 centigrammes. On l’a surtout employé contre l’hydro- pisie; mais il paraît avoir une action spéciale dans la * goutte et dans le rhumatisme articulaire.</sense>
         <sense>— <term>Teinture de colchique</term>. On la prépare en faisant macérer pendant quinze jours 64 grammes de bulbes de colchique dans 260 grammes d’alcool à 56° centésimaux.</sense>
         <graphic url="BIUSante_37020d_301-400-img/image11.jpeg"/>
-        <sense>— Les semences du colchique n’ont encore été employées que sous forme de vin, que l’on prépare de la même manière et d’après les mêmes proportions qu’avec les bulbes. Leur action est en effet semblable à celle des bulbes. C’est ce vin surtout qui est employé dans la goutte à la dose d’une à six cuillerées à café. V. <ref>Hehmodacte</ref>.</sense>
+        <sense>— Les semences du colchique n’ont encore été employées que sous forme de vin, que l’on prépare de la même manière et d’après les mêmes proportions qu’avec les bulbes. Leur action est en effet semblable à celle des bulbes. C’est ce vin surtout qui est employé dans la goutte à la dose d’une à six cuillerées à café. V. <ref target="hermodacte">Hermodacte</ref>.</sense>
       </entry>
       <entry xml:id="colcotar">
         <form><orth>Colcotar</orth> ou <orth>Colcothar</orth>. s. m.</form>
@@ -38471,7 +38471,7 @@
         <dictScrap>
           <etym xml:lang="grc">de κολεός, enveloppe</etym>
         </dictScrap>
-        <sense n="1">La <ref>chitine</ref>. V. ce mot.</sense>
+        <sense n="1">La <ref target="chitine">chitine</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="coléocèle">
         <form><orth>Coléocèle</orth>. s. f.</form>
@@ -38484,19 +38484,21 @@
       <entry xml:id="coléoptères">
         <form><orth>Coléoptères</orth>, s. m. pl. et adj.</form>
         <dictScrap>
-          <foreign xml:lang="lat">coieopteri</foreign>
+          <foreign xml:lang="lat">coleopteri</foreign>
           <etym xml:lang="grc">de κολεός, enveloppe, étui, et πτερό·/, aile</etym>
           <foreign xml:lang="deu">Coleopteren</foreign>
           <foreign xml:lang="deu">coleopterous</foreign>
           <foreign xml:lang="ita">coleotteri</foreign>
         </dictScrap>
-        <sense n="1">Ordre d’insectes dont les deux ailes supérieures, dures, épaisses, courtes (élytres), servent d’enveloppe aux inférieures, qui sont membraneuses et se replient en travers sous elles, dans l’état de repos. L’ordre des coléoptères se divise en quatre see- tions, d’après le nombre d’articles de leurs tarses : les <hi>pentamères</hi> (de πέντε, cinq, et μέρος, partie), cinq articles à tous les tarses; les <hi>hétéromères</hi> (de έτερος, différent, et μέρος, partie), cinq articles aux tarses des quatre pattes antérieures, et quatre seulement aux pattes de derrière ; les <hi>tëtramères</hi> (de τέσσαρες, quatre, et μέρος, partie), quatre articles à tous les tarses ^et les <hi>trimères</hi> (de τρεις, trois, et μέρος, partie), trois articles au plus.</sense>
+        <sense n="1">Ordre d’insectes dont les deux ailes supérieures, dures, épaisses, courtes (élytres), servent d’enveloppe aux inférieures, qui sont membraneuses et se replient en travers sous elles, dans l’état de repos. L’ordre des coléoptères se divise en quatre see- tions, d’après le nombre d’articles de leurs tarses : les <term>pentamères</term> (de πέντε, cinq, et μέρος, partie), cinq articles à tous les tarses; les <term>hétéromères</term> (de έτερος, différent, et μέρος, partie), cinq articles aux tarses des quatre pattes antérieures, et quatre seulement aux pattes de derrière ; les <term>tétramères</term> (de τέσσαρες, quatre, et μέρος, partie), quatre articles à tous les tarses ^et les <term>trimères</term> (de τρεις, trois, et μέρος, partie), trois articles au plus.</sense>
       </entry>
       <entry xml:id="coléoptile">
         <form><orth>Coléoptile</orth>. s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">coleoptila</foreign>
-          <etym xml:lang="grc">de κολεός, étui, et πτίλου, plumule; <hi>coleoptilis, coleophyllum</hi></etym>
+          <etym xml:lang="grc">de κολεός, étui, et πτίλου, plumule;
+          <foreign xml:lang="lat">coleoptilis</foreign>
+          <foreign xml:lang="lat">coleophyllum</foreign>
           <foreign xml:lang="deu">Federshenscheide</foreign>
         </dictScrap>
         <sense n="1">Petit étui membraneux ou charnu, provenant des cotylédons, qui enveloppe quelquefois la base de la plumule (Mirbel).</sense>
@@ -38561,7 +38563,7 @@
           <foreign xml:lang="spa">colico</foreign>
         </dictScrap>
         <sense n="1">Qui appartient au côlon.</sense>
-        <sense>— <term>Artères coliques</term>. Elles sont au nombre de six, dont trois fournies par la mésentérique supérieure (<hi>coliques droites</hi>), et trois venant de l’inférieure (<hi>coliques gauches</hi>). Toutes se dirigent vers l’intestin côlon, en passant entre les deux feuillets du péritoine qui forment les mésocôlons, où elles se ramifient et s’anastomosent les unés avec les autres. La première colique droite est encore appelée <hi>colique droite Supérieure</hi> (mésocolique, Ch.); la seconde, <hi>colique droite moyenne</hi> (colique droite, Ch.), et la troisième, <hi>colique droite inférieure</hi> ou <hi>iléocolique</hi> (cæcale, Ch.). Des trois coliques gauches, la première, ou <hi>Supérieure</hi>, est nommée par Chaussier <hi>grande colique gauche</hi>; la seconde, ou <hi>moyenne</hi>, n’est pas distinguée de la précédente, parce qu’elle naît souvent d’un tronc qui lui est commun avec eUe, et la troisième est appelée par cet anatomiste <hi>petite colique gauche</hi>. A ces artères correspondent autant de <hi>veines</hi>, qui vont se décharger dans la grande et la petite mésaraïque.</sense>
+        <sense>— <term>Artères coliques</term>. Elles sont au nombre de six, dont trois fournies par la mésentérique supérieure (<term>coliques droites</term>), et trois venant de l’inférieure (<term>coliques gauches</term>). Toutes se dirigent vers l’intestin côlon, en passant entre les deux feuillets du péritoine qui forment les mésocôlons, où elles se ramifient et s’anastomosent les unés avec les autres. La première colique droite est encore appelée <term>colique droite supérieure</term> (mésocolique, Ch.); la seconde, <term>colique droite moyenne</term> (colique droite, Ch.), et la troisième, <term>colique droite inférieure</term> ou <ref type="syn">iléocolique</ref> (cæcale, Ch.). Des trois coliques gauches, la première, ou <term><ex>colique gauche</ex> supérieure</term>, est nommée par Chaussier <term>grande colique gauche</term>; la seconde, ou <term><ex>colique gauche</ex> moyenne</term>, n’est pas distinguée de la précédente, parce qu’elle naît souvent d’un tronc qui lui est commun avec eUe, et la troisième est appelée par cet anatomiste <term>petite colique gauche</term>. A ces artères correspondent autant de <hi>veines</hi>, qui vont se décharger dans la grande et la petite mésaraïque.</sense>
         <sense>— <term>Épiploon colique</term>. V. <ref target="épiploon">Épiploon</ref>.</sense>
         <sense>— <term>Lobe colique du foie</term>. C’est le-grand lobe de cet organe.</sense>
         <sense>— <term>Passion colique</term>. V. <ref target="iléus">Iléus</ref>.</sense>
@@ -38569,7 +38571,8 @@
       <entry xml:id="colique2">
         <form><orth>Colique</orth>, s.f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">colicapassio</foreign>
+          <foreign xml:lang="lat">colica passio</foreign>
+          <foreign xml:lang="deu">Kolik</foreign>
           <foreign xml:lang="deu">Darmgicht</foreign>
           <foreign xml:lang="eng">colic</foreign>
           <foreign xml:lang="ita">colica</foreign>
@@ -38583,7 +38586,7 @@
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=340" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0340/full/full/0/default.jpg" n="0326"/>
            il est certain que le cuivre est absorbé par les ouvriers; leur urine contient du eu ivre.</sense>
         <sense>— <term>Colique d’estomac</term>. Douleur qui a son siège dans l’estomac. V. <ref target="cardialgie">Cardialgie</ref>.</sense>
-        <sense>— <term>Colique flatulente <hi>ou</hi> flatueuse</term>. Colique occasionnée par l’accumulation des gaz intestinaux. V. <ref target="pneumatose">Pneumatose</ref>.</sense>
+        <sense>— <term>Colique flatulente</term> ou <term><ex>colique</ex> flatueuse</term>. Colique occasionnée par l’accumulation des gaz intestinaux. V. <ref target="pneumatose">Pneumatose</ref>.</sense>
         <sense>— <term>Colique hémorrhoïdale</term>. Espèce de colique métastatique déterminée par la suppression du flux hémorrhoï- dal.</sense>
         <sense>— <term>Colique hépatique</term>. Douleur qui a son siège à la région du foie, principalement vers la vésicule du fiel, et qui est souvent occasionnée par le passage de quelque calcul biliaire à travers les conduits hépatique, cystique et cholédoque.</sense>
         <sense>— <term>Coliques hystériques</term>. Celles qu’on observe fréquemment chez les personnes hystériques, au commencement, à la fin ou dans l’intervalle des attaques d’hystérie. Elles ont quelque analogie, quant à la nature, avec les contractions antipéristaltiques de l’œsophage qui causent la sensation de boule hystérique. Elles sont sans gravité.</sense>
@@ -38591,19 +38594,19 @@
         <sense>— <term>Colique de Madrid</term>. Maladie attribuée par les uns à l’usage immodéré des fruits ou des boissons glacées, ou à la mauvaise qualité des vins; par les autres, à des oxydes de plomb, de cuivre ou d’étain, provenant des conduits où passent les eaux ; par d’autres, à la fraîcheur des nuits, qui contraste avec la chaleur diurne. Les uns la regardent comme une affection du système nerveux ganglionnaire, les autres comme une phlegmasie de la tunique musculaire intestinale. L’opium associé aux purgatifs paraît avoir été employé avec succès.</sense>
         <sense>— <term>Colique menstruelle</term>. Colique qui précède ou accompagne l’évacuation menstruelle propre aux femmes, ou bien qui est due à la suppression de cette évacuation.</sense>
         <sense>— <term>Colique métallique</term>. V. <xr><ref target="intoxication">Intoxication</ref> saturnine</xr>.</sense>
-        <sense>— <term>Colique de miséréré</term>. Nom vulgaire de <hi>l’iléus</hi>, que l’on a ainsi appelé à cause des angoisses que le malade éprouve.</sense>
+        <sense>— <term>Colique de miséréré</term>. Nom vulgaire de l'<ref type="syn">iléus</ref>, que l’on a ainsi appelé à cause des angoisses que le malade éprouve.</sense>
         <sense>— <term>Colique néphrétique</term>. V. <ref target="néphralgie">Néphralgie</ref>.</sense>
         <sense>— <term>Colique nerveuse</term>. V. <ref target="entéralgie">Entéralgie</ref>.</sense>
-        <sense>— <hi>Colique des peintres, colique de plomb, colique Saturnine</hi>. V. <xr><ref target="intoxication">Intoxication</ref> saturnine</xr>.</sense>
+        <sense>— <term>Colique des peintres</term>, <term>colique de plomb</term>, <term>colique Saturnine</term>. V. <xr><ref target="intoxication">Intoxication</ref> saturnine</xr>.</sense>
         <sense>— <term>Colique de Poitou</term>. V. <xr><ref target="colique">Colique</ref> végétale</xr>.</sense>
-        <sense>— <term>Colique Sèche</term>. Il est prouvé, par les recherches des médecins de la marine, par celles de A. Lefèvre en particulier, que des causes nombreuses d’intoxication saturnine se rencontrent à bord des vaisseaux et à terre dans les régions torrides du globe, et que ce sont elles qui produisent cette prétendue endémie des pays chauds désignée sous le nom de <hi>colique Sèche</hi>, qui en définitive n’est qu’une des formes de l’empoisonnement par le plomb, dont on a méconnu jusqu’à ce jour la véritable nature, et dont on n’a pu préserver les marins précisément parce qu’on s’est refusé à admettre la possibilité de sa production. Depuis l’application des mesures hygiéniques ordonnées par le ministre de la marine, la colique sèche, autrefois très-commune dans plusieurs stations, au Sénégal par exemple, y est devenue très-rare, quoique les autres maladies infectieuses dont on a voulu la rapprocher aient conservé leur pernicieuse activité. L’éveil donné sur l’action délétère des composés plombiques apprend à rechercher la part qu’ils ont pu avoir dans la production des accidents qu’on est appelé à soigner, et, avec de la persévérance, on parvient souvent à préciser la cause réelle qui les a produits ; la constatation du liséré bleu des gencives dans la généralité des cas observés, qu’on avait mise en doute, vient confirmer chaque jour l’action du plomb, et les avantages qu’on doit retirer de l’application persévérante des mesures hygiéniques, qui seules peuvent affranchir les marins des accidents d’intoxication saturnine dont ils ont été si souvent victimes.</sense>
-        <sense>— <term>Colique spasmodique</term> où <hi>nerveuse</hi>. Colique sans aucun symptôme inflammatoire, et qui paraît due à une lésion particulière des nerfs des intestins.</sense>
-        <sense>— <term>Colique Stercorate</term>. Colique qu’on attribue à la rétention des matières fécales dans les intestins ; mais cette rétention elle-même est un effet qui peut dépendre de la même cause que les douleurs de colique.</sense>
+        <sense>— <term>Colique sèche</term>. Il est prouvé, par les recherches des médecins de la marine, par celles de A. Lefèvre en particulier, que des causes nombreuses d’intoxication saturnine se rencontrent à bord des vaisseaux et à terre dans les régions torrides du globe, et que ce sont elles qui produisent cette prétendue endémie des pays chauds désignée sous le nom de <hi>colique Sèche</hi>, qui en définitive n’est qu’une des formes de l’empoisonnement par le plomb, dont on a méconnu jusqu’à ce jour la véritable nature, et dont on n’a pu préserver les marins précisément parce qu’on s’est refusé à admettre la possibilité de sa production. Depuis l’application des mesures hygiéniques ordonnées par le ministre de la marine, la colique sèche, autrefois très-commune dans plusieurs stations, au Sénégal par exemple, y est devenue très-rare, quoique les autres maladies infectieuses dont on a voulu la rapprocher aient conservé leur pernicieuse activité. L’éveil donné sur l’action délétère des composés plombiques apprend à rechercher la part qu’ils ont pu avoir dans la production des accidents qu’on est appelé à soigner, et, avec de la persévérance, on parvient souvent à préciser la cause réelle qui les a produits ; la constatation du liséré bleu des gencives dans la généralité des cas observés, qu’on avait mise en doute, vient confirmer chaque jour l’action du plomb, et les avantages qu’on doit retirer de l’application persévérante des mesures hygiéniques, qui seules peuvent affranchir les marins des accidents d’intoxication saturnine dont ils ont été si souvent victimes.</sense>
+        <sense>— <term>Colique spasmodique</term> où <term><ex>colique</ex> nerveuse</term>. Colique sans aucun symptôme inflammatoire, et qui paraît due à une lésion particulière des nerfs des intestins.</sense>
+        <sense>— <term>Colique stercorale</term>. Colique qu’on attribue à la rétention des matières fécales dans les intestins ; mais cette rétention elle-même est un effet qui peut dépendre de la même cause que les douleurs de colique.</sense>
         <sense>— <term>Colique utérine</term>. Douleur qui a son siège dans la matrice.</sense>
-        <sense>— <term>Colique végétale</term> [nommée par ' Citois, médecin de Louis XIII et du cardinal de Richelieu, <hi>colique de Poitou</hi> (<hi>colica Pictonum</hi>) ;par Huxham, <hi>colique de Devonshire</hi>, parce qu’il l’avait observée dans le comté de Devon, en Angleterre]. Elle est due au plomb ou à des boissons de mauvaise qualité. On la traite comme la <hi>colique métallique</hi>.</sense>
+        <sense>— <term>Colique végétale</term> [nommée par ' Citois, médecin de Louis XIII et du cardinal de Richelieu, <term>colique de Poitou</term> (<foreign xml:lang="lat">colica Pictonum</foreign>) ;par Huxham, <term>colique de Devonshire</term>, parce qu’il l’avait observée dans le comté de Devon, en Angleterre]. Elle est due au plomb ou à des boissons de mauvaise qualité. On la traite comme la <hi>colique métallique</hi>.</sense>
         <sense>— <term>Colique venteuse</term>. V. <ref target="pneumatose">Pneumatose</ref>.</sense>
         <sense>— <term>Colique vermineuse</term>. Colique causée par la présence de vers dans les intestins.</sense>
-        <sense>— En vétérinaire, <hi>coliques</hi> ou <hi>tranchées</hi>, expression générique par laquelle on désigne les douleurs des organes du ventre. Une agitation constante atteste la vivacité de la douleur; l’animal gratte le sol avec les pieds de devant, se couche et se relève avec violence, se campe pour uriner, ou se secoue, etc.; quelquefois il se roule sur la litière, en prenant des positions diverses, suivant le siège du viscère affecté. Il expulse des gaz, des mucosités ou des matières fécales. Le diagnostic est difficile à établir ; le plus souvent on est réduit à faire la médecine des symptômes. On distinguera particulièrement : 1° Les <hi>coliques rouges</hi> (<hi>coliques Sanguines</hi>, ou <hi>en- térorrhagie</hi>). Elles procèdent d’une congestion active (quelquefois passive, par obstacle à la circulation) de la muqueuse intestinale. Les douleurs sont soudaines et atroces. Mort en quelques heures, lorsqu’on ne saigne pas promptement. Traitement : saignée à blanc, fût-ce même au sortir du repas, 6, 9, 11 Utres de sang et plus. 2° Les <hi>coliques Stercorales</hi>, par plénitude du cæcum, par bézoard ou par des calculs et des égagropiles : il y a obstacle au libre cours des matières. Traitement : briser ou détruire l’obstacle, expulser la pelote de la courbure pelvienne; purgatifs, fouille du rectum. V. <xr><ref target="occlusion">Occlusion</ref> intestinale</xr>.</sense>
+        <sense>— En vétérinaire, <term>coliques</term> ou <ref type="syn">tranchées</ref>, expression générique par laquelle on désigne les douleurs des organes du ventre. Une agitation constante atteste la vivacité de la douleur; l’animal gratte le sol avec les pieds de devant, se couche et se relève avec violence, se campe pour uriner, ou se secoue, etc.; quelquefois il se roule sur la litière, en prenant des positions diverses, suivant le siège du viscère affecté. Il expulse des gaz, des mucosités ou des matières fécales. Le diagnostic est difficile à établir ; le plus souvent on est réduit à faire la médecine des symptômes. On distinguera particulièrement : 1° Les <term>coliques rouges</term> (<term>coliques sanguines</term>, ou <ref type="syn">entérorrhagie</ref>). Elles procèdent d’une congestion active (quelquefois passive, par obstacle à la circulation) de la muqueuse intestinale. Les douleurs sont soudaines et atroces. Mort en quelques heures, lorsqu’on ne saigne pas promptement. Traitement : saignée à blanc, fût-ce même au sortir du repas, 6, 9, 11 Utres de sang et plus. 2° Les <term>coliques stercorales</term>, par plénitude du cæcum, par bézoard ou par des calculs et des égagropiles : il y a obstacle au libre cours des matières. Traitement : briser ou détruire l’obstacle, expulser la pelote de la courbure pelvienne; purgatifs, fouille du rectum. V. <xr><ref target="occlusion">Occlusion</ref> intestinale</xr>.</sense>
       </entry>
       <entry xml:id="colite">
         <form><orth>Colite</orth>, s. f.</form>
@@ -38635,22 +38638,24 @@
       <entry xml:id="collatéral">
         <form><orth>Collatéral</orth>, ALE, adj.</form>
         <dictScrap>
-          <etym><hi>collateralis, de cum</hi>, avec, et <hi>latus</hi>, côté;</etym>
+          <foreign xml:lang="lat">collateralis</foreign>
+          <etym>de <hi>cum</hi>, avec, et <hi>latus</hi>, côté;</etym>
           <foreign xml:lang="deu">seitlich</foreign>
           <foreign xml:lang="eng">collateral</foreign>
           <foreign xml:lang="ita">collaterale</foreign>
           <foreign xml:lang="spa">colateral</foreign>
         </dictScrap>
         <sense n="1">Qui accompagne, qui marche à côté.</sense>
-        <sense>— Artères <hi>collatérales du bras</hi>. Artères fournies par la brachiale (humérale, Ch.), et qui contribuent avec elle à porterie sang aux différentes parties du membre supérieur. On distingue :
+        <sense>— <term>Artères collatérales du bras</term>. Artères fournies par la brachiale (humérale, Ch.), et qui contribuent avec elle à porterie sang aux différentes parties du membre supérieur. On distingue :
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=341" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0341/full/full/0/default.jpg" n="0327"/>
-           1° la <hi>collatérale supérieure</hi> ou <hi>externe</hi> (grande musculaire du bras, Ch.), qui naît de la partie interne de la brachiale, s’engage entre les trois portions du biceps, et s’étend jusqu’à la partie inférieure externe du bras ; 2° les <hi>collatérales inférieures</hi> ou <hi>internes</hi> (collatérales du coude, Ch.), qui naissent de la brachiale, près de l’articulation huméro-cubitale, et descendent à la partie supérieure de l’avant-bras.</sense>
+           1° la <term>collatérale supérieure</term> ou <term><ex>collatérale</ex> externe</term> (grande musculaire du bras, Ch.), qui naît de la partie interne de la brachiale, s’engage entre les trois portions du biceps, et s’étend jusqu’à la partie inférieure externe du bras ; 2° les <term>collatérales inférieures</term> ou <term><ex>collatérales</ex> internes</term> (collatérales du coude, Ch.), qui naissent de la brachiale, près de l’articulation huméro-cubitale, et descendent à la partie supérieure de l’avant-bras.</sense>
         <sense>— <term>Branches collatérales</term>. En général, toutes les ramifications artérielles ou veineuses qui suivent à peu près la direction du tronc d’où elles proviennent.</sense>
-        <sense>— <term>Eminence collatérale</term>. V. <ref target="éminence">Éminence</ref>.</sense>
+        <sense>— <term><choice><sic>Eminence</sic><corr>Éminence</corr></choice> collatérale</term>. V. <ref target="éminence">Éminence</ref>.</sense>
       </entry>
       <entry xml:id="colle">
         <form><orth>Colle</orth>, s. f.</form>
         <dictScrap>
+          <foreign xml:lang="lat">glutinum</foreign>
           <foreign xml:lang="deu">Kleister</foreign>
           <foreign xml:lang="eng">paste</foreign>
           <foreign xml:lang="eng">glue</foreign>
@@ -38659,10 +38664,10 @@
           <foreign xml:lang="spa">cola</foreign>
           <foreign resp="#FR" xml:lang="grc">κόλλα</foreign>
         </dictScrap>
-        <sense n="1">Préparation molle et homogène dans toutes ses parties, qu’on obtient en délayant de la farine dans de l’eau, soumettant le tout à la chaleur et le remuant tant qu’il reste sur le feu. Les colles, qui diffèrent des <ref>fécules</ref> (V. ce mot) par la nature de la substance, et des <ref>bouillies</ref> (V. ce mot) par ceHe du véhicule, sont employées quelquefois comme topiques émollients. V. <ref>Unissante</ref> (<hi>Matière</hi>).</sense>
+        <sense n="1">Préparation molle et homogène dans toutes ses parties, qu’on obtient en délayant de la farine dans de l’eau, soumettant le tout à la chaleur et le remuant tant qu’il reste sur le feu. Les colles, qui diffèrent des <ref target="fécule">fécules</ref> (V. ce mot) par la nature de la substance, et des <ref target="bouillie">bouillies</ref> (V. ce mot) par ceHe du véhicule, sont employées quelquefois comme topiques émollients. V. <ref target="unissant">Unissante</ref> (<rs>Matière</rs>).</sense>
         <sense>— <term>Colle à bouche</term>. Colle forte la plus pure, qu’on a fait fondre avec parties égales de sucre, qu’on a coulée en plaques sur une table huilée, et qu’on a passée ensuite dans des finges chauds pour lui enlever cette huile (V. <ref target="gélatine">Gélatine</ref> et <ref target="ichthyocolle">Ichthyocolle</ref>) .</sense>
         <sense>— <term>Colle de Flandre</term>, Colle forte tirée des jeunes animaux et bien pure.</sense>
-        <sense>— <term>Colle forte</term> [all. <hi>Leim</hi>, angl. <hi>glue</hi>, it. <hi>colla</hi>). Gélatine extraite des rebuts de substances animales, tels que les oreilles, les pieds, les rognures de peau. On fait macérer ces substances dans l’eau, on les nettoie, on les traite par l’eau de chaux et l’acide sulfurique pour en séparer les matières grasses, et on les soumet ensuite à l’ébullition avec une certaine quantité d’eau. La colle est faite, lorsqu’une petite quantité, étendue sur une assiette, prend, en refroidissant, la consistance requise.</sense>
+        <sense>— <term>Colle forte</term> [all. <foreign xml:lang="deu">Leim</foreign>, angl. <foreign xml:lang="eng">glue</foreign>, it. <foreign xml:lang="ita">colla</foreign>). Gélatine extraite des rebuts de substances animales, tels que les oreilles, les pieds, les rognures de peau. On fait macérer ces substances dans l’eau, on les nettoie, on les traite par l’eau de chaux et l’acide sulfurique pour en séparer les matières grasses, et on les soumet ensuite à l’ébullition avec une certaine quantité d’eau. La colle est faite, lorsqu’une petite quantité, étendue sur une assiette, prend, en refroidissant, la consistance requise.</sense>
         <sense>— <term>Colle de poisson</term>. V. <ref target="ichthyocolle">Ichthyocolle</ref>.</sense>
         <sense>— <term>Colle végétale</term>. V. <ref target="gluten">Gluten</ref>.</sense>
       </entry>
@@ -38671,7 +38676,7 @@
         <dictScrap>
           <foreign xml:lang="lat">collector</foreign>
         </dictScrap>
-        <sense n="1">— <term>Poils collecteurs</term> (<term>pili collectores</term>). Poils courts et roides ou papilles qui hérissent le sommet ou divers points de la partie supérieures du style chez les synanthérées, et recueillent le pollen quand le style, en s’allongeant, traverse le canal formé par les anthères soudées.</sense>
+        <sense n="1">— <term>Poils collecteurs</term> (<foreign xml:lang="lat">pili collectores</foreign>). Poils courts et roides ou papilles qui hérissent le sommet ou divers points de la partie supérieures du style chez les synanthérées, et recueillent le pollen quand le style, en s’allongeant, traverse le canal formé par les anthères soudées.</sense>
       </entry>
       <entry xml:id="collection">
         <form><orth>Collection</orth>, s. f.</form>
@@ -38684,10 +38689,10 @@
           <foreign xml:lang="ita">collezione</foreign>
           <foreign xml:lang="spa">colleccion</foreign>
         </dictScrap>
-        <sense n="1">— <term>Collectionpurulente</term>. Amas de pus dans quelqu’une des cavités du corps ; dépôt.</sense>
-        <sense>— <term>Collection Sanguine</term>. V. <ref target="hématome">Hématome</ref>.</sense>
-        <sense>— <term>Collection Séreuse</term>. Accumulation de sérosité dans une cavité naturelle ou accidentelle (V. <ref target="empyème">Empyème</ref>).</sense>
-        <sense>== En pharmacie, <hi>collection des drogues</hi>, approvisionnement qu’on en doit faire. Pour les substances que la nature ou le commerce nous offrent dans un état tel qu’elles puissent se conserver (comme la plupart des plantes exotiques et des drogues minérales), la <hi>collection</hi> consiste seulement à les choisir de bonne qualité. Pour celles que nous ne trouvons pas dans cet état (comme les substances animales et végétales indigènes), la collection consiste non-seulement dans le <hi>choix</hi>, mais aussi dans les soins propres à les conserver, c’est-à-dire l’<hi>émondation</hi>, la <hi>dessiccation</hi>, etc.</sense>
+        <sense n="1">— <term>Collection purulente</term>. Amas de pus dans quelqu’une des cavités du corps ; dépôt.</sense>
+        <sense>— <term>Collection sanguine</term>. V. <ref target="hématome">Hématome</ref>.</sense>
+        <sense>— <term>Collection séreuse</term>. Accumulation de sérosité dans une cavité naturelle ou accidentelle (V. <ref target="empyème">Empyème</ref>).</sense>
+        <sense>== En pharmacie, <term>collection des drogues</term>, approvisionnement qu’on en doit faire. Pour les substances que la nature ou le commerce nous offrent dans un état tel qu’elles puissent se conserver (comme la plupart des plantes exotiques et des drogues minérales), la <hi>collection</hi> consiste seulement à les choisir de bonne qualité. Pour celles que nous ne trouvons pas dans cet état (comme les substances animales et végétales indigènes), la collection consiste non-seulement dans le <hi>choix</hi>, mais aussi dans les soins propres à les conserver, c’est-à-dire l’<hi>émondation</hi>, la <hi>dessiccation</hi>, etc.</sense>
       </entry>
       <entry xml:id="collenchyme">
         <form><orth>Collenchyme</orth>. s. m.</form>
@@ -38703,17 +38708,18 @@
       <entry xml:id="collet">
         <form><orth>Collet</orth>, s. m.</form>
         <dictScrap>
-          <etym>dimin. de <hi>col</hi>, en latin <hi>collum</hi></etym>
+          <etym>dimin. de <hi>col</hi></etym>, en latin
+          <foreign xml:lang="lat">collum</foreign>
           <foreign xml:lang="deu">Kragen</foreign>
-          <foreign xml:lang="deu">Hais</foreign>
+          <foreign xml:lang="deu">Hals</foreign>
           <foreign xml:lang="eng">collar</foreign>
           <foreign xml:lang="eng">neck</foreign>
-          <foreign xml:lang="ita">colleta</foreign>
+          <foreign xml:lang="ita">colleto</foreign>
         </dictScrap>
         <sense n="1">Rétrécissement qui a quelque analogie avec le cou.</sense>
         <sense>— <term>Collet des dents</term>. V. <ref target="dent">Dent</ref>.</sense>
         <sense>— <term>Collet du sac herniaire</term>. V. <ref target="hernie">Hernie</ref>.</sense>
-        <sense>== En botanique, <hi>collet</hi>, plan situé entre la tige et les racines, où les fibres commencent d’un côté à monter et de l’autre à descendre : c’est ce qu’on a nommé aussi le <hi>nœud vital</hi>.</sense>
+        <sense>== En botanique, <term>collet</term>, plan situé entre la tige et les racines, où les fibres commencent d’un côté à monter et de l’autre à descendre : c’est ce qu’on a nommé aussi le <hi>nœud vital</hi>.</sense>
       </entry>
       <entry xml:id="collétiine">
         <form><orth>Collétiine</orth>. s. f.</form>
@@ -38725,11 +38731,11 @@
           <foreign xml:lang="lat">colleticus</foreign>
           <etym xml:lang="grc">de κόλλα, colle</etym>
         </dictScrap>
-        <sense n="1">Synonyme <hi>A' agglutinati</hi>/,</sense>
+        <sense n="1">Synonyme d'<ref type="syn">agglutinatif</ref>.</sense>
       </entry>
       <entry xml:id="collidine">
         <form><orth>Collidine</orth>, s. f.</form>
-        <sense n="1">V. <ref>Xylmine</ref>.</sense>
+        <sense n="1">V. <ref target="xylidine">Xylidine</ref>.</sense>
       </entry>
       <entry xml:id="collier">
         <form><orth>Collier</orth>, s. m.</form>
@@ -38747,7 +38753,7 @@
       <entry xml:id="collier2">
         <form><orth>Collier</orth> (<rs>Le</rs>), s. m.</form>
         <sense n="1">Maniement pair ou double, commun aux deux sexes. La situation de ce maniement répond aux trois quarts supérieurs environ de la longueur du bord antérieur de l’épaule. Il est placé en avant de l’épaule, et est séparé de la face interne de la peau par le muscle trapèze cervical. En arrière, il est limité par le bord antérieur du muscle sus-épineux, et repose de haut en bas sur la terminaison et sur la face externe du releveur propre de l’épaule et de l’angulaire de l’omoplate.</sense>
-        <sense>— <term>Talon</term>. <hi>de collier</hi>. V. <ref target="talon">Talon</ref>.</sense>
+        <sense>— <term>Talon de collier</term>. V. <ref target="talon">Talon</ref>.</sense>
       </entry>
       <entry xml:id="collimateur">
         <form><orth>Collimateur</orth>, s. m.</form>
@@ -38756,23 +38762,25 @@
       <entry xml:id="colliquatif">
         <form><orth>Colliquatif</orth>, IVE. adj.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>colliquare</hi>, se fondre,· se résoudre en eau; συντακτικός</etym>
+          <etym xml:lang="grc">de <hi>colliquare</hi>, se fondre,· se résoudre en eau;</etym>
+          <foreign xml:lang="grc">συντακτικὸς</foreign>
           <foreign xml:lang="deu">fliessend</foreign>
           <foreign xml:lang="deu">profus</foreign>
           <foreign xml:lang="eng">colliquative</foreign>
           <foreign xml:lang="ita">colliquativo</foreign>
         </dictScrap>
-        <sense n="1">— Se dit, en pathologie, de divers flux qui épuisent promptement les malades, et qui semblent être le résultat de la liquéfaction des parties solides du corps. C’est ainsi qu’on dit : <hi>sueur colliquative, dévoiement colliquatif</hi>, etc.</sense>
+        <sense n="1">— Se dit, en pathologie, de divers flux qui épuisent promptement les malades, et qui semblent être le résultat de la liquéfaction des parties solides du corps. C’est ainsi qu’on dit : <term>sueur colliquative</term>, <term>dévoiement colliquatif</term>, etc.</sense>
         <sense>— <term>Fièvre colliquative</term>. V. <xr><ref target="fièvre">Fièvre</ref> hectique</xr>.</sense>
       </entry>
       <entry xml:id="colliquation">
         <form><orth>Colliquation</orth>. s. f.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>colliquare</hi>, se fondre, σύνταξις</etym>
+          <etym xml:lang="grc">de <hi>colliquare</hi>, se fondre</etym>,
+          <foreign xml:lang="grc">σύντηξις</foreign>
           <foreign xml:lang="deu">Zusammenschmelzen</foreign>
           <foreign xml:lang="eng">colliquation</foreign>
           <foreign xml:lang="eng">melting</foreign>
-          <foreign xml:lang="ita">cölliquazione</foreign>
+          <foreign xml:lang="ita">colliquazione</foreign>
           <foreign xml:lang="spa">colicuacion</foreign>
         </dictScrap>
         <sense n="1">Fonte, dissolution des parties solides, ou diminution de la consistance des humeurs du corps humain ; fonte des parties solides accompagnée d’excrétions abondantes. V. <ref target="fonte">Fonte</ref>.</sense>
@@ -38794,7 +38802,7 @@
         </dictScrap>
         <sense n="1">Solution éthérée de coton- poudre, dont l’emploi a été proposé, en chirurgie, comme agglutinatif (Maynard, de Boston). C’est un fluide incolore, plus ou moins sirupeux, préparé avec : coton-poudre, 16 gram.; éther pur, 715 gram. Étendu à plusieurs couches sur la peau, il forme, après l’évaporation de l’éther, une pellicule imperméable très-adhésive, résistant à l’eau et à l’alcool. Il est employé comme adhésif, <hi>et</hi> aussi comme topique contre diverses éruptions, mais surtout contre l’érysipèle, quelques formes de l’herpès et de l’eczéma. Le collodion a été employé sous forme d’une forte couche
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=342" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0342/full/full/0/default.jpg" n="0328"/>
-           étendue sur tout le pénis, même dans sa portion prostatique, contre les érections fatigantes dans la blennorrhagie (V. <ref>Pykoxyiæ</ref> et <ref target="photographie">Photographie</ref>).</sense>
+           étendue sur tout le pénis, même dans sa portion prostatique, contre les érections fatigantes dans la blennorrhagie (V. <ref target="pyroxyle">Pyroxyle</ref> et <ref target="photographie">Photographie</ref>).</sense>
         <sense>— <term>Collodion riciné élastique</term> (Robert’de Latour). Préparation composée de 30 grammes de collodion, ΐε?,50 de térébenthine de venise, et 50 centigrammes à 1 gramme d’huile de ricin. On l’étend, à la surface de la peau, avec un pinceau en couche assez épaisse pour qu’elle résiste à l’extension produite par les mouvements, dans les cas d’érysipèle, d’engelures, de brûlures, etc.</sense>
       </entry>
       <entry xml:id="colloïde">
@@ -38804,7 +38812,7 @@
           <etym xml:lang="grc">de ζολλα, colle, et είδος, forme</etym>
         </dictScrap>
         <sense n="1">Quia l’apparence de la colle.</sense>
-        <sense>— <term>Cancer colloïde, gélatiniforme, maréolaire</term> [all. <hi>Gallertkrebs</hi>, angl, <hi>colloid</hi>, it. <hi>cancro colloïde o gelatinoso</hi>). Productions morbides qui consistent en une trame aréolaire remplie d’une sorte de gelée peu vasculaire, sans trace de travail inflammatoire dans les parties voisines. Cette production, dont la symptomatologie est à refaire, se présente sous la forme de masses offrant partout le même degré de mollesse, et rarement susceptibles d’ulcération. L’aspect <hi>colloïde</hi> ou <hi>colloïdal</hi> s’observe dans des tumeurs de natures très-diverses, dont il est une disposition particulière limitée souvent à une petite portion de la tumeur : il est dû au dépôt d’une <hi>substance amorphe</hi>, homogène, très- transparente ou demi-transparente, tremblotante, parsemée ou non de granulations moléculaires entre les éléments anatomiques caractéristiques du tissu morbide que cette matière amorphe tient ainsi écartés. On trouve cet aspect colloïde : 1° Dans des tumeurs qui ont pour trame ou, comme on dit, pour base, des fibres du tissu lami- neux entrecroisées. 2° Dans des tumeurs embryoplasti- ques, surtout dans celles qui sont formées principalement de cellules granuleuses grisâtres, dont le noyau n’est souvent bien visible qu’après l’action de l’acide acétique, ou dans celles qui sont principalement composées de noyaux libres : souvent alors la portion colloïde a une teinte rosée. 3° Dans des tumeurs hypertrophiques glandulaires du gros intestin, de l’estomac, de la mamelle, du. pancréas, du foie, etc. En ces cas, les culs- de-sac glandulaires sont souvent atrophiés da ns une partie de-leur étendue, et forment des amas interrompus, cylindriques, ou de formes diverses, composés de cellules épithéliales glandulaires accumulées, cohérentes, granuleuses; le tissu cellulaire interposé à ces culs-de-sac est atrophié, au moins en grande partie, et remplacé par la substance amorphe gélatiniforme. Celle-ci renferme fréquemment des amas de granulations graisseuses très- fines, ou même des vésicules adipeuses. Certaines hypertrophies des glandes en grappes, formées surtout par les épithéliums, très-pâles, accompagnées d’un peu ou de beaucoup de matière amorphe, ont souvent l’aspect gélatiniforme : tel est le cas où des portions hypertrophiées font saillie dans des kystes du centre de la tumeur, portions dont quelques lobes sont quelquefois composés surtout de matière amorphe et d’éléments fibro-plastiques (<hi>tumeurs kysteuses hydatiformes de la mamelle</hi>, d’Astley Cooper). 4° Dans la thyréoïde hypertrophiée, dont chaque vésicule close est pleine de matière amorphe, visqueuse, parsemée d’épithélium, de corps granuleux et de corps sphé- roïdaux, albuminiformes. 5° Enfin, dans certaines tumeurs <ref>hétéradéniques</ref> (V. ce mot). Ainsi, l’expression <hi>colloïde</hi> désigne non pas une espèce particulière de produit morbide, mais seulement un aspect plus ou moins analogue à celui de la colle, pouvant se rencontrer dans diverses sortes de tumeurs, et dû à la présence de <hi>matière amorphe</hi> dans les interstices de leur trame caractéristique (V. <ref target="tumeur">Tumeur</ref>). =-.Substantivement : les <hi>colloïdes</hi>, les corps non cristallisables. V. <ref target="dialyse">Dialyse</ref> et <xr><ref target="substance">Substance</ref> organiques</xr>.</sense>
+        <sense>— <term>Cancer colloïde</term>, <ref type="syn"><ex>cancer</ex> gélatiniforme</ref>, <ref type="syn"><ex>cancer</ex> aréolaire</ref> [all. <foreign xml:lang="deu">Gallertkrebs</foreign>, angl, <foreign xml:lang="eng">colloid</foreign>, it. <foreign xml:lang="ita">cancro colloide</foreign> o <foreign xml:lang="ita"><ex>cancro</ex> gelatinoso</foreign>). Productions morbides qui consistent en une trame aréolaire remplie d’une sorte de gelée peu vasculaire, sans trace de travail inflammatoire dans les parties voisines. Cette production, dont la symptomatologie est à refaire, se présente sous la forme de masses offrant partout le même degré de mollesse, et rarement susceptibles d’ulcération. L’aspect <hi>colloïde</hi> ou <hi>colloïdal</hi> s’observe dans des tumeurs de natures très-diverses, dont il est une disposition particulière limitée souvent à une petite portion de la tumeur : il est dû au dépôt d’une <hi>substance amorphe</hi>, homogène, très- transparente ou demi-transparente, tremblotante, parsemée ou non de granulations moléculaires entre les éléments anatomiques caractéristiques du tissu morbide que cette matière amorphe tient ainsi écartés. On trouve cet aspect colloïde : 1° Dans des tumeurs qui ont pour trame ou, comme on dit, pour base, des fibres du tissu lami- neux entrecroisées. 2° Dans des tumeurs embryoplasti- ques, surtout dans celles qui sont formées principalement de cellules granuleuses grisâtres, dont le noyau n’est souvent bien visible qu’après l’action de l’acide acétique, ou dans celles qui sont principalement composées de noyaux libres : souvent alors la portion colloïde a une teinte rosée. 3° Dans des tumeurs hypertrophiques glandulaires du gros intestin, de l’estomac, de la mamelle, du. pancréas, du foie, etc. En ces cas, les culs- de-sac glandulaires sont souvent atrophiés da ns une partie de-leur étendue, et forment des amas interrompus, cylindriques, ou de formes diverses, composés de cellules épithéliales glandulaires accumulées, cohérentes, granuleuses; le tissu cellulaire interposé à ces culs-de-sac est atrophié, au moins en grande partie, et remplacé par la substance amorphe gélatiniforme. Celle-ci renferme fréquemment des amas de granulations graisseuses très- fines, ou même des vésicules adipeuses. Certaines hypertrophies des glandes en grappes, formées surtout par les épithéliums, très-pâles, accompagnées d’un peu ou de beaucoup de matière amorphe, ont souvent l’aspect gélatiniforme : tel est le cas où des portions hypertrophiées font saillie dans des kystes du centre de la tumeur, portions dont quelques lobes sont quelquefois composés surtout de matière amorphe et d’éléments fibro-plastiques (<hi>tumeurs kysteuses hydatiformes de la mamelle</hi>, d’Astley Cooper). 4° Dans la thyréoïde hypertrophiée, dont chaque vésicule close est pleine de matière amorphe, visqueuse, parsemée d’épithélium, de corps granuleux et de corps sphé- roïdaux, albuminiformes. 5° Enfin, dans certaines tumeurs <ref target="hétéradénique">hétéradéniques</ref> (V. ce mot). Ainsi, l’expression <hi>colloïde</hi> désigne non pas une espèce particulière de produit morbide, mais seulement un aspect plus ou moins analogue à celui de la colle, pouvant se rencontrer dans diverses sortes de tumeurs, et dû à la présence de <hi>matière amorphe</hi> dans les interstices de leur trame caractéristique (V. <ref target="tumeur">Tumeur</ref>). =-.Substantivement : les <hi>colloïdes</hi>, les corps non cristallisables. V. <ref target="dialyse">Dialyse</ref> et <xr><ref target="substance">Substances</ref> organiques</xr>.</sense>
       </entry>
       <entry xml:id="collonème">
         <form><orth>Collonème</orth>. s. m.</form>
@@ -38818,6 +38826,7 @@
         <form><orth>Collutoire</orth>, s. m.</form>
         <dictScrap>
           <etym>de <hi>colluere</hi>, de <hi>cum</hi>, avec, et <hi>luere</hi>, laver; aR. et</etym>
+          <foreign xml:lang="deu">Collutorium</foreign>
           <foreign xml:lang="eng">collutorium</foreign>
           <foreign xml:lang="spa">colutorio</foreign>
         </dictScrap>
@@ -38827,14 +38836,14 @@
         <form><orth>Collyre</orth>, s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">collyrium</foreign>
-          <foreign xml:lang="deu">collyrium</foreign>
+          <foreign xml:lang="deu">Collyrium</foreign>
           <foreign xml:lang="eng">collyrium</foreign>
-          <foreign xml:lang="ita">collïrio</foreign>
+          <foreign xml:lang="ita">collirio</foreign>
           <foreign xml:lang="spa">colirio</foreign>
           <foreign resp="#FR" xml:lang="grc">κολλύριον</foreign>
         </dictScrap>
         <sense n="1">Médicament solide, de forme allongée et cylindrique, qui était destiné à être introduit dans le vagin, l’anus, les oreilles, les narines, comme un espèce de trochisque (Hippocrate et Galien).</sense>
-        <sense>== Toute espèce de médicament topique appliqué sur l’œil ou plutôt sur la conjonctive. On distingue les <hi>collyres secs</hi>, qui consistent en des poudres que l’on insuffle dans l’œil au moyen d’un tuyau de plume; les <hi>collyres mous</hi>, qui sont des onguents ou pommades ; et les <hi>collyres liquides</hi>, que l’on prépare avec des eaux distillées, dés infusions ou décoctions de plantes, auxquelles on ajoute diverses substances médicamenteuses.</sense>
+        <sense>== Toute espèce de médicament topique appliqué sur l’œil ou plutôt sur la conjonctive. On distingue les <term>collyres secs</term>, qui consistent en des poudres que l’on insuffle dans l’œil au moyen d’un tuyau de plume; les <term>collyres mous</term>, qui sont des onguents ou pommades ; et les <term>collyres liquides</term>, que l’on prépare avec des eaux distillées, dés infusions ou décoctions de plantes, auxquelles on ajoute diverses substances médicamenteuses.</sense>
         <sense>— <term>Collyre d’Ammon</term>. Préparé avec le cyanure de zinc, la gomme arabique, l’eau distillée de mélisse et le laudanum.</sense>
         <sense>— <term>Collyre de Beer</term>. Mélange d’extrait de Saturne, d’eau de rose et d’esprit de romarin.</sense>
         <sense>— <term>Collyre de Bénédict</term>. Dissolution d’extrait d’opium dans une infusion de pensée sauvage.</sense>
@@ -38856,9 +38865,9 @@
         <sense>— <term>Collyre de Richter</term>. Mélange de blanc d’œuf et d’eau de rose bat-· tus en écume.</sense>
         <sense>— <term>Collyre de Rust</term>. Mélange d’extrait de Saturne, d’eau de sureau et de teinture d’opium.</sense>
         <sense>— <term>Collyre de Stark</term>. Dissolution d’acétate de plomb dans l’eau derose.</sense>
-        <sense>— <term>Collyre de Stjerncrona de la pharmacopée suédoise</term>, decoctum rutœ zincatum seu collyrium Stjerncro- nense [<hi>Stjerncrona</hi>, nom de famille suédois dont on a fait saint Jerneron dans les précédentes éditions du dictionnaire
+        <sense>— <term>Collyre de Stjerncrona de la pharmacopée suédoise</term>, <foreign xml:lang="lat">decoctum rutæ zincatum</foreign> seu <foreign xml:lang="lat">collyrium Stjerncronense</foreign> [<hi>Stjerncrona</hi>, nom de famille suédois dont on a fait saint Jerneron dans les précédentes éditions du dictionnaire
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=343" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0343/full/full/0/default.jpg" n="0329"/>
-           de Nysten] <hi>vel aqua ophthalmica Odhelii</hi> [Odhelius est le nom d’un médecin suédois très-connu]. Dissolution de sulfates de cuivre et de zinc dans une décoction de rue, avec addition d’eau-de-vie camphrée.</sense>
+           de Nysten] vel <foreign xml:lang="lat">aqua ophthalmica Odhelii</foreign> [Odhelius est le nom d’un médecin suédois très-connu]. Dissolution de sulfates de cuivre et de zinc dans une décoction de rue, avec addition d’eau-de-vie camphrée.</sense>
         <sense>— <term>Collyre de Tenque</term>. Dissolution d’acétate de plomb et de sel ammoniac dans l’eau de rose.</sense>
         <sense>— <term>Collyre de Tunnermann</term>. Dissolution de h grammes d’acétate de plomb dans 62 grammes d’eau, à laquelle on ajoute 2sʳ,60 de potasse caustique liquide.</sense>
       </entry>
