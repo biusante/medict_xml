@@ -40792,7 +40792,7 @@
           <foreign xml:lang="lat">consolidans</foreign>
           <etym>de <hi>consolidare</hi>, affermir </etym>
           <foreign xml:lang="deu">verheilend</foreign>
-          <foreign xml:lang="eng">consolidatmg</foreign>
+          <foreign xml:lang="eng">consolidating</foreign>
           <foreign xml:lang="ita">consolidante</foreign>
         </dictScrap>
         <sense n="1">Se disait autrefois des substances médicamenteuses ou des topiques que l’on employait dans la vue de consolider la réunion des parties divisées, les cicatrices, etc. V. <ref target="cicatrisation">Cicatrisation</ref>.</sense>
@@ -40800,7 +40800,8 @@
       <entry xml:id="consommé">
         <form><orth>Consommé</orth>, s. m.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>consummare</hi>, de <hi>cum</hi>, avec, et <hi>summa</hi>, somme; ζωμός</etym>
+          <etym xml:lang="grc">de <hi>consummare</hi>, de <hi>cum</hi>, avec, et <hi>summa</hi>, somme;</etym>
+          <foreign xml:lang="grc">ζωμὸς</foreign>
           <foreign xml:lang="deu">Kraftbrühe</foreign>
           <foreign xml:lang="eng">jellybroth</foreign>
           <foreign xml:lang="ita">consumato</foreign>
@@ -40815,8 +40816,8 @@
           <etym>de <hi>consumere</hi></etym>
           <foreign xml:lang="deu">zehrend</foreign>
           <foreign xml:lang="eng">consumptive</foreign>
-          <foreign xml:lang="ita">consuntwo</foreign>
-          <foreign xml:lang="spa">consuntwo</foreign>
+          <foreign xml:lang="ita">consuntivo</foreign>
+          <foreign xml:lang="spa">consuntivo</foreign>
         </dictScrap>
         <sense n="1">Se disait autrefois des substances caustiques que l’on employait pour consumer et détruire des chairs baveuses exubérantes, fongueuses, etc. : telles étaient la pierre à cautère, l’eau phagédénique, etc. V. <ref target="cathérétique">Cathérétique</ref>.</sense>
       </entry>
@@ -40849,8 +40850,8 @@
           <foreign xml:lang="spa">consuelda mayor</foreign>
         </dictScrap>
         <sense n="1">Plante indigène (pentandrie monogynie, L., borraginées, J.) dont la racine est cylindrique allongée, noire en dehors, blanche en dedans, d’une saveur douce et mucilagineuse. On lui attribuait une action astringente ; mais elle ne jouit de cette propriété qu’à un très-faible degré ; elle est essentiellement émolliente. On y a trouvé de l’asparagine. Son nom de <hi>consoude</hi> lui vient de ce qu’on lui supposait la vertu de réunir et de <hi>consolider</hi> les vaisseaux rompus.</sense>
-        <sense>— <term>Consoude royale</term> ou <term>Consolida regalis</term> des officines, nom du <hi>pied-d’alouette des champs</hi> (<hi>Delphinium consolida</hi>, L.), plante renonculacée dont les semences, très-âcres, ont été employées comme celles de staphisaigre.</sense>
-        <sense>— <term>Sirop de consolide</term>. V. <ref>Sinop</ref>.</sense>
+        <sense>— <term>Consoude royale</term> ou <foreign xml:lang="lat">Consolida regalis</foreign> des officines, nom du <ref type="syn">pied-d’alouette des champs</ref> (<foreign xml:lang="lat">Delphinium consolida</foreign>, L.), plante renonculacée dont les semences, très-âcres, ont été employées comme celles de staphisaigre.</sense>
+        <sense>— <term>Sirop de consoude</term>. V. <ref target="sirop">Sirop</ref>.</sense>
       </entry>
       <entry xml:id="constatation">
         <form><orth>Constatation</orth>, s. f.</form>
@@ -40876,9 +40877,9 @@
           <foreign xml:lang="eng">constituent</foreign>
           <foreign xml:lang="ita">constituente</foreign>
         </dictScrap>
-        <sense n="1">Dans les divers ordres de parties qui composent l’organisme, les unes, fondamentales, le constituent essentiellement : on les appelle substantivement des <hi>constituants</hi>; les autres, émanant des premières, ne sont qu’accessoires quant à la masse, bien qu’indispensables à l’accomplissement de leurs actes : ce sont les <ref>produits</ref> (V. ce mot). Les <hi>éléments anatomiques</hi>, les <hi>tissus</hi> et <hi>humeurs</hi>, et les <hi>systèmes</hi> se divisent en <hi>constituants</hi> et en <hi>produits</hi>. Les <hi>éléments constituants</hi> naissent chez l’embryon par <hi>substitution</hi> aux cellules embryonnaires (V. <ref target="substitution">Substitution</ref>), et ne se métamorphosent pas. Les <hi>éléments produits</hi> naissent par <hi>métamorphose</hi> des cellules embryonnaires ; et, chez l’adulte, nés aux dépens du blastème que fournissent les tissus constituants, ils se métamorphosent en se développant. Les <hi>tissus constituants</hi> sont généralement sensibles ou contractiles, vasculaires au moins à un .certain âge, ou dans quelques-unes des parties similaires en lesquelles ils se subdivisent : ils fournissent les matériaux nécessaires à la formation des <hi>produits</hi> (V. Tissus). Les <hi>tissus produits</hi> ne sont ni sensibles ni vasculaires. Les <hi>constituants</hi>, éléments ou tissus, sont directement actifs; les autres, indirectement, ne faisant que favoriser les actes et en rendre plus parfaits les résultats dans l’accomplissement des fonctions. Les bases de la distinction capitale entre les <hi>constituants</hi> ou <hi>produisants</hi> et les
+        <sense n="1">Dans les divers ordres de parties qui composent l’organisme, les unes, fondamentales, le constituent essentiellement : on les appelle substantivement des <hi>constituants</hi>; les autres, émanant des premières, ne sont qu’accessoires quant à la masse, bien qu’indispensables à l’accomplissement de leurs actes : ce sont les <ref target="produit">produits</ref> (V. ce mot). Les <hi>éléments anatomiques</hi>, les <hi>tissus</hi> et <hi>humeurs</hi>, et les <hi>systèmes</hi> se divisent en <hi>constituants</hi> et en <hi>produits</hi>. Les <hi>éléments constituants</hi> naissent chez l’embryon par <hi>substitution</hi> aux cellules embryonnaires (V. <ref target="substitution">Substitution</ref>), et ne se métamorphosent pas. Les <hi>éléments produits</hi> naissent par <hi>métamorphose</hi> des cellules embryonnaires ; et, chez l’adulte, nés aux dépens du blastème que fournissent les tissus constituants, ils se métamorphosent en se développant. Les <hi>tissus constituants</hi> sont généralement sensibles ou contractiles, vasculaires au moins à un .certain âge, ou dans quelques-unes des parties similaires en lesquelles ils se subdivisent : ils fournissent les matériaux nécessaires à la formation des <hi>produits</hi> (V. <ref target="tissu">Tissus</ref>). Les <hi>tissus produits</hi> ne sont ni sensibles ni vasculaires. Les <hi>constituants</hi>, éléments ou tissus, sont directement actifs; les autres, indirectement, ne faisant que favoriser les actes et en rendre plus parfaits les résultats dans l’accomplissement des fonctions. Les bases de la distinction capitale entre les <hi>constituants</hi> ou <hi>produisants</hi> et les
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=361" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0361/full/full/0/default.jpg" n="0347"/>
-          <hi>produits</hi> sont établies à ce dernier mot (V. <ref target="produit">Produit</ref>). On voit que les tissus constituants sont : le <hi>musculaire</hi>, le <hi>nerveux</hi>, le <hi>lamineux, Y élastique, Y adipeux, Yosseux</hi>, le <hi>cartilagineux</hi>, le <hi>tissu du derme, des muqueuses</hi>, des <hi>séreuses</hi>, etc. Les <ref>parenchymes</ref> (V. ce mot) sont des tissus constituants, et les épithéliums qui tapissent leurs tubes (épithéliums qui sont des <hi>produits</hi>) leur sont simplement annexés et appliqués de manière à pouvoir se détacher comme l’épiderme cutané, sans être normalement enchevêtrés avec les fibres et les vaisseaux, ou les tubes qui forment la partie essentielle du tissu.</sense>
+          <hi>produits</hi> sont établies à ce dernier mot (V. <ref target="produit">Produit</ref>). On voit que les tissus constituants sont : le <hi>musculaire</hi>, le <hi>nerveux</hi>, le <hi>lamineux, Y élastique, Y adipeux, Yosseux</hi>, le <hi>cartilagineux</hi>, le <hi>tissu du derme, des muqueuses</hi>, des <hi>séreuses</hi>, etc. Les <ref target="parenchyme">parenchymes</ref> (V. ce mot) sont des tissus constituants, et les épithéliums qui tapissent leurs tubes (épithéliums qui sont des <hi>produits</hi>) leur sont simplement annexés et appliqués de manière à pouvoir se détacher comme l’épiderme cutané, sans être normalement enchevêtrés avec les fibres et les vaisseaux, ou les tubes qui forment la partie essentielle du tissu.</sense>
         <sense>— <term>Molécule constituante</term>. V. <ref target="molécule">Molécule</ref>.</sense>
       </entry>
       <entry xml:id="constitutif">
@@ -40897,7 +40898,7 @@
           <foreign resp="#FR" xml:lang="grc">κατάστασις</foreign>
         </dictScrap>
         <sense n="1">Assemblage de plusieurs parties qui forment un tout. V. <ref target="organique">Organique</ref> (<hi>Caractères d’ordre</hi>).</sense>
-        <sense>== État général de l’organisation particulière de chaque individu et de sa nutrition, d’où résultent son degré de force physique, la régularité plus ou moins parfaite avec laquelle ses fonctions s’exécutent, la somme de résistance qu’il oppose aux causes de maladie, la dose de vitalité dont il est doué, et les chances de vie qu’il possède. Une <hi>bonne constitution</hi> est celle où tous les viscères, tous les systèmes, tous les appareils, également développés et doués d’une égale énergie, remplissent leurs fonctions avec aisance et activité. Le défaut d’équilibre dans leur développement et dans leur force établit la différence des <hi>constitutions</hi>; de même que le défaut d’équilibre dans les humeurs établissait la diversité des <hi>tempéraments</hi>, et les faisait distinguer en <hi>bilieux, sanguins</hi>, etc.</sense>
+        <sense>== État général de l’organisation particulière de chaque individu et de sa nutrition, d’où résultent son degré de force physique, la régularité plus ou moins parfaite avec laquelle ses fonctions s’exécutent, la somme de résistance qu’il oppose aux causes de maladie, la dose de vitalité dont il est doué, et les chances de vie qu’il possède. Une <term>bonne constitution</term> est celle où tous les viscères, tous les systèmes, tous les appareils, également développés et doués d’une égale énergie, remplissent leurs fonctions avec aisance et activité. Le défaut d’équilibre dans leur développement et dans leur force établit la différence des <hi>constitutions</hi>; de même que le défaut d’équilibre dans les humeurs établissait la diversité des <hi>tempéraments</hi>, et les faisait distinguer en <hi>bilieux, sanguins</hi>, etc.</sense>
         <sense>— <term>Constitution apoplectique</term>. V. <ref target="apoplectique">Apoplectique</ref>.</sense>
         <sense>— <term>Constitution atmosphérique</term>. L’état de l’atmosphère considérée relativement à son influence sur l’économie animale.</sense>
         <sense>— <term>Constitution climatérique</term>. V. <ref target="climatérique">Climatérique</ref>.</sense>
@@ -40913,7 +40914,7 @@
           <foreign xml:lang="ita">costituzionale</foreign>
           <foreign xml:lang="spa">constitucionaï</foreign>
         </dictScrap>
-        <sense n="1">Qui tient à la constitution, soit individuelle, soit atmosphérique. Cette diversité de signification rend équivoque l’expression de <hi>maladie constitutionnelle</hi> : c’est, en effet, tantôt une maladie qui dépend de la constitution de l’individu, ou de l’état de l’atmosphère, tantôt une maladie qui semble inhérente à la constitution; celle qui, après avoir attaqué un organe, a fini par affecter tous les systèmes organiques, la constitution tout entière : <ref>syphilis constitutionnelle</ref>. V. ce mot.</sense>
+        <sense n="1">Qui tient à la constitution, soit individuelle, soit atmosphérique. Cette diversité de signification rend équivoque l’expression de <term>maladie constitutionnelle</term> : c’est, en effet, tantôt une maladie qui dépend de la constitution de l’individu, ou de l’état de l’atmosphère, tantôt une maladie qui semble inhérente à la constitution; celle qui, après avoir attaqué un organe, a fini par affecter tous les systèmes organiques, la constitution tout entière : <xr><ref target="syphilis">syphilis</ref> constitutionnelle</xr>. V. ce mot.</sense>
       </entry>
       <entry xml:id="constricteur">
         <form><orth>Constricteur</orth>, adj. et s. m.</form>
@@ -40927,20 +40928,21 @@
         </dictScrap>
         <sense n="1">Qui resserre en agissant circulairement.</sense>
         <sense>— <term>Constricteur de l’anus</term>. V. <ref target="sphincter">Sphincter</ref>.</sense>
-        <sense>— <term>Constricteurs du pharynx</term>. Plans musculeux qui concourent à former les parois du pharynx; ils sont au nombre de trois, et se recouvrent partiellement de bas en haut, ce qui les a fait distinguer en <hi>inférieur, moyen</hi> et <hi>supérieur</hi>. Le <hi>constricteur inférieur</hi> s’étend des cartilages cri- coïde et thyréoïde à la partie moyenne et postérieure du pharynx, où il s’unit avec celui du côté opposé. Il répond aux crico- et thyréo-pharyngiens de Winslow. Le <hi>constricteur moyen</hi> ( hyo-pharyngien et syndesmo-pharyngien, Winsl.) naît des deux cornes de l’os hyoïde et du ligament stylo-hyoïdien, et se termine à la partie moyenne et postérieure du pharynx, comme le précédent. Le <hi>constricteur supérieur</hi> (ptérygo-pharyngien, Winsl.), terminé de la même manière postérieurement, a ses attaches antérieurement à l’apophyse ptérygoïde, au ligament intermaxillaire, à la ligne myloïdienne de la mâchoire inférieure et sur les côtés de la base de la langue.</sense>
-        <sense>— <term>Constricteur de l’urèthre</term>. V. <ref>Transverso-uréthral</ref>.</sense>
-        <sense>— <term>Constricteurs de la vulve <hi>ou</hi> du vagin</term> (<hi>constrictares cunni</hi>) ou <hi>bulbo- caverneux de la femme</hi>. Petits faisceaux musculaires qui, nés un peu au-dessous du clitoris, descendent sur les parties latérales du vagin, et se terminent en se confondant avec le transverse du périnée et le sphincter externe de 1 anus. V. <ref target="sphincter">Sphincter</ref>.</sense>
-        <sense>— <term>Constricteur d’Herbineaux</term>. V. <ref>Serre-noeud</ref>.</sense>
+        <sense>— <term>Constricteurs du pharynx</term>. Plans musculeux qui concourent à former les parois du pharynx; ils sont au nombre de trois, et se recouvrent partiellement de bas en haut, ce qui les a fait distinguer en <term><ex>constructeur</ex> inférieur <ex>du pharynx</ex></term>, <term><ex>constructeur</ex> moyen <ex>du pharynx</ex></term> et <term><ex>constructeur</ex> supérieur <ex>du pharynx</ex></term>. Le <hi>constricteur inférieur</hi> s’étend des cartilages cri- coïde et thyréoïde à la partie moyenne et postérieure du pharynx, où il s’unit avec celui du côté opposé. Il répond aux crico- et thyréo-pharyngiens de Winslow. Le <hi>constricteur moyen</hi> ( hyo-pharyngien et syndesmo-pharyngien, Winsl.) naît des deux cornes de l’os hyoïde et du ligament stylo-hyoïdien, et se termine à la partie moyenne et postérieure du pharynx, comme le précédent. Le <hi>constricteur supérieur</hi> (ptérygo-pharyngien, Winsl.), terminé de la même manière postérieurement, a ses attaches antérieurement à l’apophyse ptérygoïde, au ligament intermaxillaire, à la ligne myloïdienne de la mâchoire inférieure et sur les côtés de la base de la langue.</sense>
+        <sense>— <term>Constricteur de l’urèthre</term>. V. <ref target="transverso-uréthral">Transverso-uréthral</ref>.</sense>
+        <sense>— <term>Constricteurs de la vulve</term> <hi>ou</hi> <term><ex>constructeurs</ex> du vagin</term> (<foreign xml:lang="lat">constrictores cunni</foreign>) ou <term><ex>constricteurs</ex> bulbo-caverneux de la femme</term>. Petits faisceaux musculaires qui, nés un peu au-dessous du clitoris, descendent sur les parties latérales du vagin, et se terminent en se confondant avec le transverse du périnée et le sphincter externe de 1 anus. V. <ref target="sphincter">Sphincter</ref>.</sense>
+        <sense>— <term>Constricteur d’Herbineaux</term>. V. <ref target="serre-nœud">Serre-nœud</ref>.</sense>
       </entry>
       <entry xml:id="constriction">
         <form><orth>Constriction</orth>. s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">constrictio</foreign>
-          <foreign xml:lang="deu">Zusammenschnürung constriction</foreign>
+          <foreign xml:lang="deu">Zusammenschnürung</foreign>
+          <foreign xml:lang="eng">constriction</foreign>
           <foreign xml:lang="ita">costrizione</foreign>
           <foreign xml:lang="spa">constriccion</foreign>
         </dictScrap>
-        <sense n="1">Synonyme de <hi>resserrement</hi>, qui est plus usité.</sense>
+        <sense n="1">Synonyme de <ref type="syn">resserrement</ref>, qui est plus usité.</sense>
       </entry>
       <entry xml:id="constructivité">
         <form><orth>Constructivité</orth>. s. f. (Gall 'et Spurzheim).</form>
@@ -40993,9 +40995,8 @@
           <foreign xml:lang="spa">contacto</foreign>
           <foreign resp="#FR" xml:lang="grc">ψαῦσις</foreign>
         </dictScrap>
-        <sense n="1">Attouchement, état de deux corps qui se touchent. Dans la théorie des maladies contagieuses, on distingue le <hi>contact immédiat</hi>, qui est l’attouchement d’un malade atteint d’une de ces maladies ; et le <hi>contact médiat</hi>, qui est l’attouchement, non du malade lui-même, mais des objets qui l’ont touché.</sense>
-        <sense>— '</sense>
-        <sense>— <term>Action de contact</term>, <term>effets de contact</term>, <term>phénomènes de contact</term>. V. <ref>Catalvtique</ref> et <ref target="isomérique">Isomérique</ref>.</sense>
+        <sense n="1">Attouchement, état de deux corps qui se touchent. Dans la théorie des maladies contagieuses, on distingue le <term>contact immédiat</term>, qui est l’attouchement d’un malade atteint d’une de ces maladies ; et le <term>contact médiat</term>, qui est l’attouchement, non du malade lui-même, mais des objets qui l’ont touché.</sense>
+        <sense>— <term>Action de contact</term>, <term>effets de contact</term>, <term>phénomènes de contact</term>. V. <ref target="catalytique">Catalytique</ref> et <ref target="isomérique">Isomérique</ref>.</sense>
         <sense>— <term>Sens du contact</term>. V. <ref target="sensation">Sensation</ref> et <ref target="toucher">Toucher</ref>.</sense>
       </entry>
       <entry xml:id="contage">
@@ -41011,11 +41012,11 @@
           <foreign xml:lang="lat">contagiosus</foreign>
           <foreign xml:lang="deu">ansteckend</foreign>
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=362" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0362/full/full/0/default.jpg" n="0348"/>
-          <foreign xml:lang="eng">contagions</foreign>
+          <foreign xml:lang="eng">contagious</foreign>
           <foreign xml:lang="ita">contagioso</foreign>
           <foreign xml:lang="spa">contagioso</foreign>
         </dictScrap>
-        <sense n="1">Qui se communique par le toucher : <hi>maladie contagieuse</hi> ; ou qui transmet la contagion : <hi>air contagieux, miasmes contagieux</hi>.</sense>
+        <sense n="1">Qui se communique par le toucher : <term>maladie contagieuse</term> ; ou qui transmet la contagion : <term>air contagieux</term>, <term>miasmes contagieux</term>.</sense>
         <sense>— <term>Maladies contagieuses</term>. Celles qui sont susceptibles de se transmettre d’un individu malade à un individu sain, soit par le contact immédiat de la personne malade, soit par le contact de vêtements ou d’effets provenant de cette personne. Les maladies contagieuses présentent, dans leur mode de transmission, des différences essentielles, suivant que les principes morbifiques sont des <hi>virus</hi> (variole, rage, etc.), ou qu’au contraire ce sont des <hi>miasmes</hi> répandus dans l’atmosphère. Les premiers n’ont d’action qu’autant qu’ils sont mis, pour ainsi dire, en contact intime avec nos organes; les seconds n’ont besoin que d’être en contact avec la membrane muqueuse de l’appareil respiratoire ou le système cutané. Une maladie <hi>contagieuse miasmatique</hi>, une fois produite par une cause locale quelconque, n’a plus besoin, pour se propager, de l’intervention des causes qui lui ont donné naissance; elle se reproduit en quelque sorte d’elle-même ; elle se transmet d’individu à individu, indépendamment, jusqu’à un certain point, des conditions atmosphériques. C’est sur cette dernière circonstance qu’est fondée la distinction de la <hi>contagion</hi> et de <hi>l’infection</hi>. Une maladie transmissible par <hi>infection</hi> suppose, pendant son cours comme lors de son début, l’altération de l’atmosphère; les lieux d’où se dégagent les principes pathogéniques sont des foyers qui n’ont d’action que sur les individus placés dans leur sphère d’activité, et chez lesquels existe une prédisposition particulière à recevoir l’influence miasmatique,. une sorte d’affinité ; mais ces individus, une fois atteints de la maladie, peuvent devenir eux-mêmes autant de foyers d’infection, et verser, dans l’atmosphère, des miasmes susceptibles de transmettre la maladie à d’autres individus également prédisposés. Il y a bien alors une sorte de <hi>contagion</hi>, puisque le mal est communiqué par un individu qui en est atteint à un individu sain ; mais ce n’est pas par contact d’individu à individu, c’est en altérant l’air ambiant que le premier agit sur le second. = vulgairement, les maladies vénériennes.</sense>
       </entry>
       <entry xml:id="contagion">
@@ -41030,8 +41031,8 @@
           <foreign xml:lang="spa">contagio</foreign>
         </dictScrap>
         <sense n="1">Transmission de la maladie d’un individu à un autre par l’effet d’un contact médiat ou immédiat (V. <ref target="contact">Contact</ref>, <ref target="infection">Infection</ref> et <ref target="inoculation">Inoculation</ref>).</sense>
-        <sense>== <term>Contagion vive</term>. La transmission par contact d’individu à individu : c’est la <hi>contagion immédiate</hi>.</sense>
-        <sense>— <term>Contagion morte</term>. La transmission par le contact d’effets provenant d’un malade : c’est la <hi>contagion médiale</hi>. V. <ref target="effluve">Effluve</ref>.</sense>
+        <sense>== <term>Contagion vive</term>. La transmission par contact d’individu à individu : c’est la <term>contagion immédiate</term>.</sense>
+        <sense>— <term>Contagion morte</term>. La transmission par le contact d’effets provenant d’un malade : c’est la <term>contagion médiate</term>. V. <ref target="effluve">Effluve</ref>.</sense>
         <sense>— <term>Contagion nerveuse</term>. V. <ref target="simulé">Simulé</ref>.</sense>
       </entry>
       <entry xml:id="contagionniste">
@@ -41039,8 +41040,8 @@
         <dictScrap>
           <foreign xml:lang="deu">contagionist</foreign>
           <foreign xml:lang="eng">contagionist</foreign>
-          <foreign xml:lang="ita">contagionisto</foreign>
-          <foreign xml:lang="spa">contagionisto</foreign>
+          <foreign xml:lang="ita">contagionista</foreign>
+          <foreign xml:lang="spa">contagionista</foreign>
         </dictScrap>
         <sense n="1">Médecin qui soutient la contagion de la fièvre jaune et de la peste. Il se dit, surtout en vue des mesures de quarantaine, de ceux qui admettent que diverses maladies, étant susceptibles d’être importées par les navires et les marchandises, pourraient être arrêtées par les barrières et les précautions sanitaires.</sense>
       </entry>
@@ -41067,16 +41068,16 @@
           <foreign xml:lang="ita">contentivo</foreign>
           <foreign xml:lang="spa">contentivo</foreign>
         </dictScrap>
-        <sense n="1">— <term>Appareil contentif</term> [all. <hi>Contentic- apparaf</hi>]. Appareil qui sert à maintenir rapprochées les lèvres d’une plaie, les fragments d’un os fracturé.</sense>
+        <sense n="1">— <term>Appareil contentif</term> [all. <foreign xml:lang="deu"><choice><sic>Contentic</sic><corr>Contentiv</corr></choice>-apparat</hi>]. Appareil qui sert à maintenir rapprochées les lèvres d’une plaie, les fragments d’un os fracturé.</sense>
         <sense>— <term>Bandage contentif</term>. V. <ref target="bandage">Bandage</ref>.</sense>
       </entry>
       <entry xml:id="contention">
         <form><orth>Contention</orth>, s. f.</form>
-        <sense n="1">— <term>Contention des hermes</term>. V. <ref>Braver</ref> et <ref target="hernie">Hernie</ref>.</sense>
+        <sense n="1">— <term>Contention des hernies</term>. V. <ref target="brayer">Brayer</ref> et <ref target="hernie">Hernie</ref>.</sense>
       </entry>
       <entry xml:id="contenu">
         <form><orth>Contenu</orth>, s. m.</form>
-        <sense n="1">— <term>Contenu médullaire</term>. V. <ref target="nerveux">Nerveux</ref> (<hi>Tube</hi>).</sense>
+        <sense n="1">— <term>Contenu médullaire</term>. V. <ref target="nerveux">Nerveux</ref> (<rs>Tube</rs>).</sense>
       </entry>
       <entry xml:id="contexture">
         <form><orth>Contexture</orth>, s. f.</form>
@@ -41087,7 +41088,7 @@
         <dictScrap>
           <etym>de <hi>contiguus</hi>, de <hi>cum</hi>, avec, et <hi>tangere</hi>, toucher</etym>
         </dictScrap>
-        <sense n="1">V. <ref target="analogue">Analogue</ref>.</sense>
+        <sense n="1">V. <ref target="analogue">Analogues</ref>.</sense>
         <sense>— <term>Amputation dans la contiguïté</term>. Celle où l’on fait passer le couteau entre les os qui forment une articulation. V. <ref target="désarticulation">Désarticulation</ref>.</sense>
         <sense>— <term>Diarthrose de contiguïté</term>. V. <ref target="articulation">Articulation</ref>.</sense>
         <sense>— <term>Synthèse de contiguïté</term>. V. <ref target="synthèse">Synthèse</ref>.</sense>
@@ -41109,12 +41110,12 @@
           <foreign xml:lang="lat">continens</foreign>
           <foreign xml:lang="deu">anhaltend</foreign>
           <foreign xml:lang="eng">continent</foreign>
-          <foreign xml:lang="eng">continuons</foreign>
+          <foreign xml:lang="eng">continuous</foreign>
           <foreign xml:lang="ita">continuo</foreign>
         </dictScrap>
-        <sense n="1">En pathologie, est à peu près synonyme de <hi>continu</hi>.</sense>
+        <sense n="1">En pathologie, est à peu près synonyme de <ref type="syn">continu</ref>.</sense>
         <sense>— <term>Cause continente</term>. V. <ref target="cause">Cause</ref>.</sense>
-        <sense>— <term>Fièvre continente</term>. V. <ref target="fièvre">Fièvre</ref> et <ref>Synoque</ref>.</sense>
+        <sense>— <term>Fièvre continente</term>. V. <ref target="fièvre">Fièvre</ref> et <ref target="synoque">Synoque</ref>.</sense>
       </entry>
       <entry xml:id="continu">
         <form><orth>Continu</orth>, UE. adj.</form>
@@ -41133,12 +41134,12 @@
           <foreign xml:lang="deu">Dauer</foreign>
           <foreign xml:lang="deu">Fortdauer</foreign>
           <foreign xml:lang="eng">continuity</foreign>
-          <foreign xml:lang="ita">continuit a</foreign>
+          <foreign xml:lang="ita">continuità</foreign>
         </dictScrap>
-        <sense n="1">V. <ref target="analogue">Analogue</ref>.</sense>
+        <sense n="1">V. <ref target="analogue">Analogues</ref>.</sense>
         <sense>— <term>Continuité des organes</term>. V. <ref target="organique">Organique</ref> (<hi>Caractères d’ordre</hi>, 6°).</sense>
         <sense>— <term>Amputation dans la continuité</term>. V. <ref target="amputation">Amputation</ref>.</sense>
-        <sense>— <term>Diarthrose de continuité</term>. V. <ref>Abticulation</ref>.</sense>
+        <sense>— <term>Diarthrose de continuité</term>. V. <ref target="articulation">Articulation</ref>.</sense>
         <sense>— <term>Solution de continuité</term>. V. <ref target="solution">Solution</ref>.</sense>
         <sense>— <term>Synthèse de continuité</term>. V. <ref target="synthèse">Synthèse</ref>.</sense>
       </entry>
@@ -41158,7 +41159,7 @@
       </entry>
       <entry xml:id="contour">
         <form><orth>Contour</orth>, s. m.</form>
-        <sense n="1">— <term>Tube a double contour</term>. V. <ref target="nerveux">Nerveux</ref> (<hi>Tube</hi>).</sense>
+        <sense n="1">— <term>Tube à double contour</term>. V. <ref target="nerveux">Nerveux</ref> (<rs>Tube</rs>).</sense>
       </entry>
       <entry xml:id="contractile">
         <form><orth>Contractile</orth>, adj.</form>
@@ -41176,14 +41177,14 @@
         <dictScrap>
           <foreign xml:lang="deu">Zusammenziehbarkeit</foreign>
           <foreign xml:lang="eng">contractility</foreign>
-          <foreign xml:lang="ita">contrattilita</foreign>
+          <foreign xml:lang="ita">contrattilità</foreign>
           <foreign xml:lang="spa">contractilidad</foreign>
         </dictScrap>
-        <sense n="1">Propriété vitale élémentaire, caractérisée par ce fait que, alternativement, l’élément ou la substance organisée qui en jouit se raccourcit dans un sens, et augmente de diamètre dans l’autre. Toute propriété d’ordre organique <hi>animale</hi> a non-seulement pour condition les propriétés <hi>végétatives</hi> telles que la nutrition, etc., mais encore une ou plusieurs propriétés d’ordre physique. La contractilité en particulier a pour condition d’existence <hi>l’élasticité</hi> ; elle la suppose, car la <hi>fibre raccourcie</hi> par la contraction <hi>resterait telle</hi>, si l’élasticité, propriété physique, ne la ramenait à son état primitif; <hi>élasticité</hi> caractérisée par ce fait, que la matière qui en est douée manifeste aussi bien <hi>l’extensibilité</hi> quand elle a été raccourcie ou comprimée, que la <hi>rétractilité</hi> quand elle est allongée, distendue. <hi>Contractilité</hi> n’est pas synonyme d’<ref>irritabilité</ref> (V. ce mot). <hi>Myotilité</hi> désigne plus spécialement la contractilité des éléments musculaires. Toute <hi>contractilité</hi> n’est pas <hi>myotilité</hi> ; en d’autres termes, les éléments musculaires ne sont pas les seuls qui soient doués de la contractilité : exemple, les spermatozoïdes, les cils vibratiles des épithéliums. La contractilité est une propriété de la vie <hi>animale</hi>; elle appartient toujours à des éléments anatomiques des animaux, sauf pour les spermatozoïdes des algues, etc. L’expression <hi>contractilité de tissu</hi>, employée
+        <sense n="1">Propriété vitale élémentaire, caractérisée par ce fait que, alternativement, l’élément ou la substance organisée qui en jouit se raccourcit dans un sens, et augmente de diamètre dans l’autre. Toute propriété d’ordre organique <hi>animale</hi> a non-seulement pour condition les propriétés <hi>végétatives</hi> telles que la nutrition, etc., mais encore une ou plusieurs propriétés d’ordre physique. La contractilité en particulier a pour condition d’existence <hi>l’élasticité</hi> ; elle la suppose, car la <hi>fibre raccourcie</hi> par la contraction <hi>resterait telle</hi>, si l’élasticité, propriété physique, ne la ramenait à son état primitif; <hi>élasticité</hi> caractérisée par ce fait, que la matière qui en est douée manifeste aussi bien <hi>l’extensibilité</hi> quand elle a été raccourcie ou comprimée, que la <hi>rétractilité</hi> quand elle est allongée, distendue. <hi>Contractilité</hi> n’est pas synonyme d’<ref target="irritabilité">irritabilité</ref> (V. ce mot). <hi>Myotilité</hi> désigne plus spécialement la contractilité des éléments musculaires. Toute <hi>contractilité</hi> n’est pas <hi>myotilité</hi> ; en d’autres termes, les éléments musculaires ne sont pas les seuls qui soient doués de la contractilité : exemple, les spermatozoïdes, les cils vibratiles des épithéliums. La contractilité est une propriété de la vie <hi>animale</hi>; elle appartient toujours à des éléments anatomiques des animaux, sauf pour les spermatozoïdes des algues, etc. L’expression <hi>contractilité de tissu</hi>, employée
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=363" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0363/full/full/0/default.jpg" n="0349"/>
            à l’effet de distinguer une propriété physique, a été remplacée par l’expression <hi>rétractilité</hi>, tirée des sciences physiques. La propriété physique opposée à la rétractilité est l’<hi>extensibilité</hi> ; les deux, réunies sur un même corps, constituent l’<hi>élasticité</hi>. Le <hi>racornissement</hi> est le résultat physico-chimique de l’enlèvement ou expulsion d’un ou de plusieurs des principes constituants d’un corps organisé. Le <hi>dessèchement</hi> est le simple effet physique de la suppression de l’eau qui concourt à constituer la matière organisée ; il peut s’accompagner de racornissement : exemple, les cartilages. V. <ref target="motilité">Motilité</ref>.</sense>
         <sense>— <term>Contractilité animale</term>. Ce que Bichat désigne ainsi comprend la contractilité des muscles soumis à la volonté. V. <ref target="motricité">Motricité</ref> et <ref target="rigidité">Rigidité</ref>.</sense>
-        <sense>— <term>Contractilité organique sensible</term> (Bichat). Celle des faisceaux striés du cœur et celle des fibres- cellules. Ce que Bichat nomme <hi>contractilité organique insensible</hi>, pour se rendre compte de <hi>tous les phénomènes de la circulation capillaire</hi>, des sécrétions, etc., n’est autre chose que la contractilité des fibres-cellules dans les parties où elles sont disposées en faisceaux invisibles à l’œil nu ; c’est ce qu’on observe sur les capillaires, les artères, divers conduits excréteurs, la face profonde de la peau et les bulbes pileux, etc. V. <ref target="innervation">Innervation</ref>.</sense>
+        <sense>— <term>Contractilité organique sensible</term> (Bichat). Celle des faisceaux striés du cœur et celle des fibres- cellules. Ce que Bichat nomme <term>contractilité organique insensible</term>, pour se rendre compte de <hi>tous les phénomènes de la circulation capillaire</hi>, des sécrétions, etc., n’est autre chose que la contractilité des fibres-cellules dans les parties où elles sont disposées en faisceaux invisibles à l’œil nu ; c’est ce qu’on observe sur les capillaires, les artères, divers conduits excréteurs, la face profonde de la peau et les bulbes pileux, etc. V. <ref target="innervation">Innervation</ref>.</sense>
       </entry>
       <entry xml:id="contraction">
         <form><orth>Contraction</orth>, s. f.</form>
@@ -41197,8 +41198,8 @@
           <foreign resp="#FR" xml:lang="grc">συστολὴ</foreign>
         </dictScrap>
         <sense n="1">Resserrement, rapprochement des molécules d’un corps, qui a pour résultat de diminuer le volume en augmentant la densité.</sense>
-        <sense>— En physiologie, synonyme d’action musculaire. La <hi>contraction musculaire</hi>, qui a pour type les mouvements volontaires, est un phénomène complexe. 11 résulte de la fusion ou interférence d’une série de secousses très-fréquentes, qui, partant d’un point d’un faisceau strié, se propage sur toute sa longueur. C’est ainsi qu’un son, engendré par des vibrations successives, fournit néanmoins une sensation qui paraît continue. Si l’on applique à un muscle volontaire des décharges électriques égales, mais de fréquence croissante, on voit d’abord se produire dans le muscle des secousses distinctes; plus tard, chaque secousse n’a pas le temps de s’effectuer avant que la suivante arrive, et alors l’interférence commence. Chaque secousse s’ajoute partiellement à la précédente, et l’on n’aperçoit plus que son sommet. Ces sommets s’accusent eux-mêmes de moins en moins et finissent par disparaître complètement ; la contraction est établie. Si la fréquence des excitations électriques augmente encore, il en résulte une augmentation de l’intensité de la contraction (V. <ref>Mvographe</ref>). Marey a démontré que cette interférence des secousses existe dans toute espèce de contraction, non-seulement lorsqu’on emploie l’électricité, mais aussi dans les contractions volontaires, dans celle que provoque l’action de certains agents chimiques sur les nerfs moteurs, dans celles du tétanos produit par la strychnine, etc. Certains muscles, le cœur par exemple, ne peuvent produire que des <hi>secousses</hi>, tandis que d’autres, comme les muscles volontaires, peuvent produire, selon les cas, la secousse ou la contraction. La secousse musculaire est un raccourcissement brusque du muscle, suivi aussitôt d’un relâchement. Le type de ce mouvement est celui que provoque une décharge électrique ou bien l’excitation d’un nerf moteur. Le caractère de la secousse d’un muscle vivant est d’être toujours identique avec elle- même, d’avoir fatalement toujours la même amplitude et la même durée. Mais la secousse peut varier d’un muscle à un autre ; elle diffère surtout si l’on compare les muscles volontaires dans les différentes espèces animales. Chez l’oiseau et le poisson, la secousse ne dure guère que trois centièmes de seconde. Sur l’homme, la durée est de sept à huit centièmes de seconde. Elle dure quatre à cinq fois plus dans les crustacés; enfin, chez la tortue, la secousse dure plus d’une seconde.</sense>
-        <sense>— <term>Contraction concentrique, excentrique</term>. V. <xr><ref>Gymnastique</ref> suédoise</xr>.</sense>
+        <sense>— En physiologie, synonyme d’action musculaire. La <term>contraction musculaire</term>, qui a pour type les mouvements volontaires, est un phénomène complexe. 11 résulte de la fusion ou interférence d’une série de secousses très-fréquentes, qui, partant d’un point d’un faisceau strié, se propage sur toute sa longueur. C’est ainsi qu’un son, engendré par des vibrations successives, fournit néanmoins une sensation qui paraît continue. Si l’on applique à un muscle volontaire des décharges électriques égales, mais de fréquence croissante, on voit d’abord se produire dans le muscle des secousses distinctes; plus tard, chaque secousse n’a pas le temps de s’effectuer avant que la suivante arrive, et alors l’interférence commence. Chaque secousse s’ajoute partiellement à la précédente, et l’on n’aperçoit plus que son sommet. Ces sommets s’accusent eux-mêmes de moins en moins et finissent par disparaître complètement ; la contraction est établie. Si la fréquence des excitations électriques augmente encore, il en résulte une augmentation de l’intensité de la contraction (V. <ref target="myographe">Myographe</ref>). Marey a démontré que cette interférence des secousses existe dans toute espèce de contraction, non-seulement lorsqu’on emploie l’électricité, mais aussi dans les contractions volontaires, dans celle que provoque l’action de certains agents chimiques sur les nerfs moteurs, dans celles du tétanos produit par la strychnine, etc. Certains muscles, le cœur par exemple, ne peuvent produire que des <hi>secousses</hi>, tandis que d’autres, comme les muscles volontaires, peuvent produire, selon les cas, la secousse ou la contraction. La secousse musculaire est un raccourcissement brusque du muscle, suivi aussitôt d’un relâchement. Le type de ce mouvement est celui que provoque une décharge électrique ou bien l’excitation d’un nerf moteur. Le caractère de la secousse d’un muscle vivant est d’être toujours identique avec elle- même, d’avoir fatalement toujours la même amplitude et la même durée. Mais la secousse peut varier d’un muscle à un autre ; elle diffère surtout si l’on compare les muscles volontaires dans les différentes espèces animales. Chez l’oiseau et le poisson, la secousse ne dure guère que trois centièmes de seconde. Sur l’homme, la durée est de sept à huit centièmes de seconde. Elle dure quatre à cinq fois plus dans les crustacés; enfin, chez la tortue, la secousse dure plus d’une seconde.</sense>
+        <sense>— <term>Contraction concentrique</term>, <term><ex>contraction</ex> excentrique</term>. V. <xr><ref target="gymnastique">Gymnastique</ref> suédoise</xr>.</sense>
         <sense>— <term>Contraction expultrice</term>. V. <ref target="expulsif">Expulsif</ref>.</sense>
         <sense>— <term>Contraction idio-musculaire</term>. V. <ref target="idio-musculaire">Idio-musculaire</ref>.</sense>
         <sense>— <term>Contraction involontaire</term>. V. <ref target="involontaire">Involontaire</ref>.</sense>
@@ -41210,11 +41211,11 @@
           <etym>de <hi>contrahere</hi>, resserrer </etym>
           <foreign xml:lang="deu">Contractur</foreign>
           <foreign xml:lang="eng">contracture</foreign>
-          <foreign xml:lang="ita">contraitura</foreign>
+          <foreign xml:lang="ita">contrattura</foreign>
           <foreign xml:lang="spa">contractura</foreign>
         </dictScrap>
-        <sense n="1">État de rigidité auquel les muscles n’arrivent ordinairement que d’une manière lente et progressive," à la suite de rhumatismes, de névralgies, de convulsions. Suivant que tel ou tel ordre de muscles prédomine, le membre contracturé est maintenu dans une extension ou une flexion plus ou moins forte. Dans cet état maladif, le tissu musculaire forme des espèces de cordes dures qui se dessinent sous lapeau(V. <ref>rétraction</ref>).</sense>
-        <sense>— <term>Contracture des extrémités</term>. Trouble de la contraction qui est un symptôme d’états divers du système nerveux, symptôme jadis confondu avec d’autres fort différents par leurs causes et leurs conséquences, ou considéré comme une espèce de maladie à part. Ces contractures ont été appelées <hi>convulsions toniques</hi> des membres ; elles peuvent, en effet, précéder, suivre ou accompagner les convulsions <hi>cloniques</hi>, mais le plus souvent elles existent seules ; car ce sont des effets de causes différentes, bien qu’analogues, par leur siège cérébro-spinal. Ce sont les <hi>spasmes toniques</hi> de Sauvages; <hi>ionismes</hi>, de Baumes ; <hi>convulsions internes, sourdes, imminentes</hi>, de Brachet; <hi>convulsions toniques des femmes grosses</hi> et <hi>en couches</hi>, de Levret"; <hi>trismus, spasme des membres</hi> ou <hi>des mâchoires</hi>, de la fièvre intermittente tétanique ou convulsive, de divers; <hi>rétraction des extrémités</hi>, de Mason Good; <hi>contracture idiopathique</hi>, de Tessier; contracture, spasmes toniques du typhus, du scorbut; contractures épidémiques ou essentielles .des prisons, des fièvres typhoïdes, des fièvres éruptives, des fièvres épidémiques, des méningites, etc. ; contractures rhumatismale, hystérique, épileptique, éclamptique, choréique, des nourrices, des enfants ; contracture ou convulsion du froid, etc. La contracture n’est pas une maladie, mais un symptôme, un trouble de la <hi>contraction</hi>, consécutif à celui de la <ref>motricité</ref> (V. ce mot), fié à certains états de la moelle épinière. Toutes les contractures ne diffèrent entre elles que par le siège des muscles dont les nerfs sont atteints (ce sont surtout ceux des extrémités, plus rarement ceux des yeux et de la mâchoire, jamais ou presque jamais ceux du tronc), ou par l’intensité, la durée, qui sont subordonnées à celles de la cause. Les causes sont directes ou indirectes. Lespremièressontl’actiondirecte, surlamoelle ou ses enveloppes, du sang dans les congestions ou les inflammations de ces organes, dans les congestions et apoplexies méningées, des œdèmes simples ou albuminuriques généralisés et s’étendant jusqu’aux centres nerveux, de diverses tumeurs de ces organes ou des parties voisines qui les compriment ; ce sont encore la production exagérée de sérosité dans les ventricules, et l’anémie à un haut degré. D’autres fois la moelle est influencée directement par le sang portant les sels toxiques de plomb, de strychnine, etc. ; par le sang modifié dans la fièvre typhoïde, le choléra, les fièvres intermittentes, les fièvres éruptives, la grippe, etc. Les causes indirectes sont de l’ordre des actions réflexes. Telles sont : les douleurs de la dentition ; les actions réflexes non douloureuses, telles que celles qui sont dues aune action sur les tissus qui ne jouissent pas de la sensibilité générale tactile, comme l’intestin (vers intestinaux, tumeurs), l’utérus (menstruation, grossesse, etc.), divers parenchymes (lactation, calculs rénaux, vésicaux, biliaires, ictère, etc.). Les contractures sont parfois seulement fatigantes, mais le plus souvent elles sont douloureuses, douleurs analogues à celles des crampes. La con-
+        <sense n="1">État de rigidité auquel les muscles n’arrivent ordinairement que d’une manière lente et progressive," à la suite de rhumatismes, de névralgies, de convulsions. Suivant que tel ou tel ordre de muscles prédomine, le membre contracturé est maintenu dans une extension ou une flexion plus ou moins forte. Dans cet état maladif, le tissu musculaire forme des espèces de cordes dures qui se dessinent sous lapeau(V. <ref target="rétraction">Rétraction</ref>).</sense>
+        <sense>— <term>Contracture des extrémités</term>. Trouble de la contraction qui est un symptôme d’états divers du système nerveux, symptôme jadis confondu avec d’autres fort différents par leurs causes et leurs conséquences, ou considéré comme une espèce de maladie à part. Ces contractures ont été appelées <hi>convulsions toniques</hi> des membres ; elles peuvent, en effet, précéder, suivre ou accompagner les convulsions <hi>cloniques</hi>, mais le plus souvent elles existent seules ; car ce sont des effets de causes différentes, bien qu’analogues, par leur siège cérébro-spinal. Ce sont les <hi>spasmes toniques</hi> de Sauvages; <hi>ionismes</hi>, de Baumes ; <hi>convulsions internes, sourdes, imminentes</hi>, de Brachet; <hi>convulsions toniques des femmes grosses</hi> et <hi>en couches</hi>, de Levret"; <hi>trismus, spasme des membres</hi> ou <hi>des mâchoires</hi>, de la fièvre intermittente tétanique ou convulsive, de divers; <hi>rétraction des extrémités</hi>, de Mason Good; <term>contracture idiopathique</term>, de Tessier; contracture, spasmes toniques du typhus, du scorbut; contractures épidémiques ou essentielles .des prisons, des fièvres typhoïdes, des fièvres éruptives, des fièvres épidémiques, des méningites, etc. ; contractures rhumatismale, hystérique, épileptique, éclamptique, choréique, des nourrices, des enfants ; contracture ou convulsion du froid, etc. La contracture n’est pas une maladie, mais un symptôme, un trouble de la <hi>contraction</hi>, consécutif à celui de la <ref target="motricité">motricité</ref> (V. ce mot), fié à certains états de la moelle épinière. Toutes les contractures ne diffèrent entre elles que par le siège des muscles dont les nerfs sont atteints (ce sont surtout ceux des extrémités, plus rarement ceux des yeux et de la mâchoire, jamais ou presque jamais ceux du tronc), ou par l’intensité, la durée, qui sont subordonnées à celles de la cause. Les causes sont directes ou indirectes. Lespremièressontl’actiondirecte, surlamoelle ou ses enveloppes, du sang dans les congestions ou les inflammations de ces organes, dans les congestions et apoplexies méningées, des œdèmes simples ou albuminuriques généralisés et s’étendant jusqu’aux centres nerveux, de diverses tumeurs de ces organes ou des parties voisines qui les compriment ; ce sont encore la production exagérée de sérosité dans les ventricules, et l’anémie à un haut degré. D’autres fois la moelle est influencée directement par le sang portant les sels toxiques de plomb, de strychnine, etc. ; par le sang modifié dans la fièvre typhoïde, le choléra, les fièvres intermittentes, les fièvres éruptives, la grippe, etc. Les causes indirectes sont de l’ordre des actions réflexes. Telles sont : les douleurs de la dentition ; les actions réflexes non douloureuses, telles que celles qui sont dues aune action sur les tissus qui ne jouissent pas de la sensibilité générale tactile, comme l’intestin (vers intestinaux, tumeurs), l’utérus (menstruation, grossesse, etc.), divers parenchymes (lactation, calculs rénaux, vésicaux, biliaires, ictère, etc.). Les contractures sont parfois seulement fatigantes, mais le plus souvent elles sont douloureuses, douleurs analogues à celles des crampes. La con-
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=364" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0364/full/full/0/default.jpg" n="0350"/>
            tracture atteint les extenseurs comme les fléchisseurs ; mais ceux-ci l’emportent sur les autres en énergie. Souvent, après la cessation de la contracture, le membre garde encore quelque temps la position qu’elle lui avait donnée (Rabaud.). V. <xr><ref target="contusion">Contusion</ref> cérébrale</xr>.</sense>
       </entry>
@@ -41228,21 +41229,21 @@
           <foreign xml:lang="deu">Kontrast</foreign>
           <foreign xml:lang="deu">Gengensatz</foreign>
           <foreign xml:lang="eng">contrast</foreign>
-          <foreign xml:lang="ita">contraste</foreign>
+          <foreign xml:lang="ita">contrasto</foreign>
         </dictScrap>
-        <sense n="1">— <term>Contraste des couleurs</term>. Différents états simultanés ou successifs de la rétine produisant des sensations spéciales correspondantes, de telle sorte que la perception de ces états en est modifiée en plus ou en moins, et par là engendre des notions diverses selon la nature de ces impressions. C’est un fait remarquable que cette communication, cette influence par entraînement, si l’on peut ainsi dire, dans laquelle on voit une partie de la rétine impressionnée faire entrer en action la partie voisine qui était en repos, ou deux portions contiguës agissant influer l’une et l’autre sur leur propre activité, et ainsi être réciproquement solidaires. Il y a, dans le contraste envisagé d’une manière générale, à distinguer : 1° Celui qui est subjectif, ou successif à une première impression, l’objet ayant cessé d’impressionner la rétine. C’est celui que Chevreul a nommé <hi>contraste successif des couleurs</hi>. Il comprend l’étude de tous les phénomènes qu’on observe lorsque les yeux, ayant regardé pendant un certain temps un ou plusieurs objets colorés, aperçoivent, après avoir cessé de les regarder, des images de ces objets offrant la couleur complémentaire de celle qui est propre à chacun d’eux. La partie de la rétine qui, dans le premier temps de l’expérience, est frappée d’une couleur donnée, voit dans le second temps la complémentaire de cette couleur, et cette nouvelle vision est indépendante de l’étendue de l’objet coloré relativement à celle du fond sur lequel il est placé, ou, plus généralement, des objets qui peuvent entourer le premier.. Chevreul le premier, en 1828, a distingué le <hi>contraste successif</hi> du <hi>contraste simultané</hi>. D’après Scherfer, qui, le premier, donna une explication du contraste en 1754, la rétine, fatiguée par la première impression, ne sent point une impression plus faible de même espèce qui lui succède, et revient graduellement au repos, tandis que les parties non fatiguées la perçoivent ; ou encore la rétine, fatiguée d’une couleur, a besoin de recevoir une impression plus forte pour être impressionnée ; fatiguée du bleu, elle est disposée à recevoir l’orangé, qui est complémentaire. 2° Dans le cas où l’œil voit en même temps deux couleurs contiguës, il les voit les plus dissemblables possible, <hi>quant à leur composition optique et quant à la hauteur de ton</hi>. Telle est la formule qui représente la <hi>loi du contraste simultané des couleurs</hi>, découverte et développée par Chevreul. D’après cette loi, deux objets différents, placés l’un à côté de l’autre, paraissent, par la comparaison, plus dissemblables qu’ils ne le sont réellement, ainsi que le montre ensuite l’examen de chacun d’eux fait isolément, de manière que leurs deux images ne tombent pas simultanément sur la rétine. Cela tient physiologiquement à ce que, en vertu de la solidarité existant anatomiquement entre toutes les parties de la rétine, lorsque deux portions voisines et continues agissent simultanément, elles influent l’une et l’autre sur leur propre activité; et cela de telle sorte que, toutes les fois que la rétine est impressionnée simultanément par deux objets différemment colorés, ce qu’il y a d’analogue dans la sensation causée par les deux couleurs éprouve une telle modification, que ce qu’il y a de différent devient plus sensible dans la perception simultanée de ces deux impressions. Chevreul a montré que cette action n’est point due à une fatigue de la rétine. C’est là une action toute spéciale et dont la découverte est le résultat de l’expérience. 3° La distinction du <hi>contraste Simultané</hi> et du <hi>contraste successif</hi> rend facile à comprendre le <hi>contraste mixte</hi>. Celui-ci résulte de ce que la rétine, ayant vu pendant un temps une certaine couleur, a une aptitude à voir dans un second temps la complémentaire de cette couleur · or, si une couleur nouvelle qu’un objet extérieur vient lui offrir l’impressionne en cet instant, la sensation perçue est alors la résultante de cette nouvelle couleur et de la complémentaire de la première (Chevreul). Il y a ici, comme on le voit, une image objective ou impression de la rétine s’ajoutant à un état subjectif ou consécutif à l’impression causée par un premier objet coloré. Chevreul appelle <hi>contraste de ton</hi>, la modification qui porte sur l’intensité de la couleur et <hi>contraste de couleur</hi> celle qui porte sur la composition optique ou physique de chaque couleur juxtaposée. Lorsqu’on prend deux surfaces colorées juxtaposées, l’œil qui les voit simultanément perçoit deux modifications, <hi>l’une relative à la hauteur des tons, et l’autre relative à la composition physique</hi> de ces mêmes couleurs .Lerougeàcôtéduj aune tire sur le violet, et le j aune sur le vert; le rouge à côté du bleu tire sur le jaune, et le second sur le vert, etc. En outre, lorsque ces couleurs ne sont pas à la même hauteur, c’est-à-dire de même ton, celle qui est foncée paraît plus foncée, et celle qui est claire paraît plus claire ; ce qui revient à dire que la première semble perdre de la lumière blanche, tandis que la seconde semble en réfléchir davantage. Dans tous les cas, du reste, la modification des couleurs, comme celle du ton, va en s’affaiblissant à partir de la ligne de juxtaposition, et l’on peut l’observer aussi entre deux surfaces colorées sans qu’elles soient contiguës. V. <ref target="vue">Vue</ref>.</sense>
+        <sense n="1">— <term>Contraste des couleurs</term>. Différents états simultanés ou successifs de la rétine produisant des sensations spéciales correspondantes, de telle sorte que la perception de ces états en est modifiée en plus ou en moins, et par là engendre des notions diverses selon la nature de ces impressions. C’est un fait remarquable que cette communication, cette influence par entraînement, si l’on peut ainsi dire, dans laquelle on voit une partie de la rétine impressionnée faire entrer en action la partie voisine qui était en repos, ou deux portions contiguës agissant influer l’une et l’autre sur leur propre activité, et ainsi être réciproquement solidaires. Il y a, dans le contraste envisagé d’une manière générale, à distinguer : 1° Celui qui est subjectif, ou successif à une première impression, l’objet ayant cessé d’impressionner la rétine. C’est celui que Chevreul a nommé <term>contraste successif des couleurs</term>. Il comprend l’étude de tous les phénomènes qu’on observe lorsque les yeux, ayant regardé pendant un certain temps un ou plusieurs objets colorés, aperçoivent, après avoir cessé de les regarder, des images de ces objets offrant la couleur complémentaire de celle qui est propre à chacun d’eux. La partie de la rétine qui, dans le premier temps de l’expérience, est frappée d’une couleur donnée, voit dans le second temps la complémentaire de cette couleur, et cette nouvelle vision est indépendante de l’étendue de l’objet coloré relativement à celle du fond sur lequel il est placé, ou, plus généralement, des objets qui peuvent entourer le premier.. Chevreul le premier, en 1828, a distingué le <term>contraste successif</term> du <term>contraste simultané</term>. D’après Scherfer, qui, le premier, donna une explication du contraste en 1754, la rétine, fatiguée par la première impression, ne sent point une impression plus faible de même espèce qui lui succède, et revient graduellement au repos, tandis que les parties non fatiguées la perçoivent ; ou encore la rétine, fatiguée d’une couleur, a besoin de recevoir une impression plus forte pour être impressionnée ; fatiguée du bleu, elle est disposée à recevoir l’orangé, qui est complémentaire. 2° Dans le cas où l’œil voit en même temps deux couleurs contiguës, il les voit les plus dissemblables possible, <hi>quant à leur composition optique et quant à la hauteur de ton</hi>. Telle est la formule qui représente la <hi>loi du contraste simultané des couleurs</hi>, découverte et développée par Chevreul. D’après cette loi, deux objets différents, placés l’un à côté de l’autre, paraissent, par la comparaison, plus dissemblables qu’ils ne le sont réellement, ainsi que le montre ensuite l’examen de chacun d’eux fait isolément, de manière que leurs deux images ne tombent pas simultanément sur la rétine. Cela tient physiologiquement à ce que, en vertu de la solidarité existant anatomiquement entre toutes les parties de la rétine, lorsque deux portions voisines et continues agissent simultanément, elles influent l’une et l’autre sur leur propre activité; et cela de telle sorte que, toutes les fois que la rétine est impressionnée simultanément par deux objets différemment colorés, ce qu’il y a d’analogue dans la sensation causée par les deux couleurs éprouve une telle modification, que ce qu’il y a de différent devient plus sensible dans la perception simultanée de ces deux impressions. Chevreul a montré que cette action n’est point due à une fatigue de la rétine. C’est là une action toute spéciale et dont la découverte est le résultat de l’expérience. 3° La distinction du <hi>contraste Simultané</hi> et du <hi>contraste successif</hi> rend facile à comprendre le <term>contraste mixte</term>. Celui-ci résulte de ce que la rétine, ayant vu pendant un temps une certaine couleur, a une aptitude à voir dans un second temps la complémentaire de cette couleur · or, si une couleur nouvelle qu’un objet extérieur vient lui offrir l’impressionne en cet instant, la sensation perçue est alors la résultante de cette nouvelle couleur et de la complémentaire de la première (Chevreul). Il y a ici, comme on le voit, une image objective ou impression de la rétine s’ajoutant à un état subjectif ou consécutif à l’impression causée par un premier objet coloré. Chevreul appelle <term>contraste de ton</term>, la modification qui porte sur l’intensité de la couleur et <term>contraste de couleur</term> celle qui porte sur la composition optique ou physique de chaque couleur juxtaposée. Lorsqu’on prend deux surfaces colorées juxtaposées, l’œil qui les voit simultanément perçoit deux modifications, <hi>l’une relative à la hauteur des tons, et l’autre relative à la composition physique</hi> de ces mêmes couleurs .Lerougeàcôtéduj aune tire sur le violet, et le j aune sur le vert; le rouge à côté du bleu tire sur le jaune, et le second sur le vert, etc. En outre, lorsque ces couleurs ne sont pas à la même hauteur, c’est-à-dire de même ton, celle qui est foncée paraît plus foncée, et celle qui est claire paraît plus claire ; ce qui revient à dire que la première semble perdre de la lumière blanche, tandis que la seconde semble en réfléchir davantage. Dans tous les cas, du reste, la modification des couleurs, comme celle du ton, va en s’affaiblissant à partir de la ligne de juxtaposition, et l’on peut l’observer aussi entre deux surfaces colorées sans qu’elles soient contiguës. V. <ref target="vue">Vue</ref>.</sense>
       </entry>
       <entry xml:id="contrayerva">
         <form><orth>Contrayerva</orth>. s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">radix contrayervœ</foreign>
+          <foreign xml:lang="lat">radix contrayervæ</foreign>
           <foreign xml:lang="eng">contra-yerva</foreign>
           <foreign xml:lang="ita">contraierba</foreign>
         </dictScrap>
         <graphic url="BIUSante_37020d_301-400-img/image19.jpeg"/>
         <sense n="1">Racine courbée, d’un brun rougeâtre en dehors, blanche en dedans, composée d’un tubercule noueux, oblong, de 3 à 6 centimètres de longueur, des côtes duquel partent des radicules très-minces. Son odeur est aromatique; sa saveur, d’abord faiblement amère, paraît ensuite âcre ; elle contient beaucoup de mucilage. Elle provient de plusieurs espèces de <hi>Dorstenia</hi>, et particulièrement du <hi>Dorstenia brasiliensis</hi> Lamk, ou <hi>Coaapia</hi> de Marcgraff et Pison, plante de la famille des mûriers, voisine des urticées (Fig. 106), Son nom (<hi>con- trayerva</hi>), qui signifie <hi>herbe contre</hi> (sous-entendu <hi>poison</hi>), lui vient de la propriété qu’on lui attribuait de neutraliser les venins. Elle est excitante et diaphonique; on
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=365" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0365/full/full/0/default.jpg" n="0351"/>
-           l’administre en poudre (à la dose de 2 à 4 grammes ou 8 grammes), en infusion (racine, 4 grammes, dans eau, 500 gram.). On en prépare aussi un sirop. V. <ref>Dbake</ref>.</sense>
+           l’administre en poudre (à la dose de 2 à 4 grammes ou 8 grammes), en infusion (racine, 4 grammes, dans eau, 500 gram.). On en prépare aussi un sirop. V. <ref target="drake">Drake</ref>.</sense>
       </entry>
       <entry xml:id="contre-cœur">
         <form><orth>Contre-cœur</orth>, s. m.</form>
@@ -41252,7 +41253,7 @@
         <form><orth>Contre-coup</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="deu">Gegenstoss</foreign>
-          <foreign xml:lang="eng">counter blow</foreign>
+          <foreign xml:lang="eng">counter-blow</foreign>
           <foreign xml:lang="eng">repercussion</foreign>
           <foreign xml:lang="ita">contraccolpo</foreign>
           <foreign xml:lang="spa">contragolpo</foreign>
@@ -41268,7 +41269,7 @@
           <foreign xml:lang="deu">Gegenstreckung</foreign>
           <foreign xml:lang="eng">counter-extension</foreign>
           <foreign xml:lang="ita">contr’estensione</foreign>
-          <foreign xml:lang="spa">contra-estenciori</foreign>
+          <foreign xml:lang="spa">contra-estencion</foreign>
         </dictScrap>
         <sense n="1">Action opposée à l’extension, et qui consiste à retenir fixe et immobile la partie supérieure d’un membre, lorsqu’on opère la réduction d’une fracture ou d’une luxation.</sense>
       </entry>
@@ -41286,7 +41287,7 @@
           <foreign xml:lang="deu">Gegenanzeige</foreign>
           <foreign xml:lang="eng">counter-indication</foreign>
           <foreign xml:lang="ita">contra-indicazione</foreign>
-          <foreign xml:lang="spa">contraindicacion</foreign>
+          <foreign xml:lang="spa">contra-indicacion</foreign>
         </dictScrap>
         <sense n="1">Circonstance qui empêche de faire ce que semblerait d’abord exiger la nature de la maladie.</sense>
       </entry>
@@ -41300,11 +41301,11 @@
           <foreign xml:lang="lat">incisio priori opposita</foreign>
           <foreign xml:lang="deu">Gegenöffnung</foreign>
           <foreign xml:lang="eng">counter-opening</foreign>
-          <foreign xml:lang="ita">contraapertura</foreign>
-          <foreign xml:lang="spa">contro-aberiura</foreign>
+          <foreign xml:lang="ita">contra-apertura</foreign>
+          <foreign xml:lang="spa">contro-abertura</foreign>
         </dictScrap>
         <sense n="1">Incision pratiquée dans un point plus ou moins éloigné de l’ouverture d’une plaie, lorsque celle-ci n’est pas située d’une manière favorable à l’écoulement du pus ou à l’extraction d’un corps étranger.</sense>
-        <sense>— <term>Aiguille a contre-ouverture</term>. V. <ref target="aiguille">Aiguille</ref>.</sense>
+        <sense>— <term>Aiguille à contre-ouverture</term>. V. <ref target="aiguille">Aiguille</ref>.</sense>
       </entry>
       <entry xml:id="contre-poison">
         <form><orth>Contre-poison</orth>, s. m.</form>
@@ -41321,18 +41322,18 @@
       </entry>
       <entry xml:id="contre-stimulant">
         <form><orth>Contre-stimulant</orth>, adj. et s. m.</form>
-        <sense n="1">V. <ref>Gontre-stimulus</ref>.</sense>
+        <sense n="1">V. <ref target="contre-stimulus">Contre-stimulus</ref>.</sense>
       </entry>
       <entry xml:id="contre-stimulation">
         <form><orth>Contre-stimulation</orth>. s. f.</form>
-        <sense n="1">V. <ref>Contre-stimulus</ref>.</sense>
+        <sense n="1">V. <ref target="contre-stimulus">Contre-stimulus</ref>.</sense>
       </entry>
-      <entry xml:id="contre-stimulismè">
-        <form><orth>Contre-stimulismè</orth>. s. m.</form>
+      <entry xml:id="contre-stimulismé">
+        <form><orth>Contre-stimulismé</orth>. s. m.</form>
         <dictScrap>
           <foreign xml:lang="ita">contro-stimolismo</foreign>
         </dictScrap>
-        <sense n="1">Doctrine du <ref>contre-stimulus</ref>. V. ce mot.</sense>
+        <sense n="1">Doctrine du <ref target="contre-stimulus">contre-stimulus</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="contre-stimuliste">
         <form><orth>Contre-stimuliste</orth>. s. m.</form>
@@ -41344,16 +41345,17 @@
           <etym>de <hi>contra</hi>, contre, à l’opposé, et <hi>Stimulus</hi>, aiguillon ;</etym>
           <foreign xml:lang="deu">Gegenreitz</foreign>
           <foreign xml:lang="eng">contra-stimulus</foreign>
-          <foreign xml:lang="ita">contra-stimuto</foreign>
+          <foreign xml:lang="ita">contra-stimulo</foreign>
           <foreign xml:lang="spa">contro-stimulo</foreign>
-          <etym>Quelques-uns écrivent <hi>contro-Stimudus, contro-stimulant, contro-stimulisme</hi></etym>
+          Quelques-uns écrivent <ref type="syn">contro-stimulus</ref>, <ref type="syn">contro-stimulant</ref>, <ref type="syn">contro-stimulisme</ref>
         </dictScrap>
-        <sense n="1">Doctrine du <hi>contre-stimulus</hi>, appelée aussi <hi>rasorisme</hi>, du nom de Rasori, son auteur, ou <hi>con- tre-stimulisme</hi>, a de l’analogie avec celle de Brown. Les médecins de l’école de Rasori admettent que la santé est le résultat de deux forces opposées, également actives, qui se contre-balancent et s’équilibrent parfaitement; ils donnent à ces deux forces le nom de. <hi>stimulus</hi> et de <hi>contre-stimulus</hi>. La <hi>Stimulation</hi> et la <hi>contre-stimulation</hi> en sont le produit. Dans toute maladie, il y a excès de l’une ou de l’autre ; de là deux classes seulement d’agents thérapeutiques : les <hi>stimulants</hi>, pour combattre l’excès du <hi>contre-stimulus</hi>, et les <hi>contre-stimulants</hi>, pour détruire l’excès du <hi>stimulus</hi>. Les médecins contre-sti- mulistes rangent au nombre des <hi>stimulants</hi> : les aliments, l’opium, les liqueurs alcooliques, les substances aromatiques. Ils admettent des <hi>contre-stimulants indirects</hi> (abstinence, saignée, action du froid); et des <hi>contre-stimulants directs</hi>, parmi lesquels ils placent une foule de substances dont l’action diffère essentiellement : les préparations antimoniales, mercurielles, ferrugineuses, les sels purgatifs alcalins, l’ipécacuanha, la scille, le colchique, la gomme-gutte, le séné, la strychnine, la belladone, etc. Ces diverses substances, que les médecins contre-stimulistes administrent en général à haute dose, paraissent produire des effets différents de ceux qu’elles déterminent à doses plus faibles. Cette recherche empirique des médicaments, de leurs doses et de leur emploi, a déjà enrichi la thérapeutique de ressources précieuses, et elle forme le seul caractère utile de la doctrine raso- rienne, de même que le caractère utile de la doctrine de Broussais fut la réforme des idées concernant le rapport de la pathologie à la physiologie.</sense>
+        <sense n="1">Doctrine du <hi>contre-stimulus</hi>, appelée aussi <ref type="syn">rasorisme</ref>, du nom de Rasori, son auteur, ou <ref type="syn">contre-stimulisme</ref>, a de l’analogie avec celle de Brown. Les médecins de l’école de Rasori admettent que la santé est le résultat de deux forces opposées, également actives, qui se contre-balancent et s’équilibrent parfaitement; ils donnent à ces deux forces le nom de. <hi>stimulus</hi> et de <hi>contre-stimulus</hi>. La <hi>Stimulation</hi> et la <hi>contre-stimulation</hi> en sont le produit. Dans toute maladie, il y a excès de l’une ou de l’autre ; de là deux classes seulement d’agents thérapeutiques : les <hi>stimulants</hi>, pour combattre l’excès du <hi>contre-stimulus</hi>, et les <hi>contre-stimulants</hi>, pour détruire l’excès du <hi>stimulus</hi>. Les médecins contre-sti- mulistes rangent au nombre des <hi>stimulants</hi> : les aliments, l’opium, les liqueurs alcooliques, les substances aromatiques. Ils admettent des <hi>contre-stimulants indirects</hi> (abstinence, saignée, action du froid); et des <hi>contre-stimulants directs</hi>, parmi lesquels ils placent une foule de substances dont l’action diffère essentiellement : les préparations antimoniales, mercurielles, ferrugineuses, les sels purgatifs alcalins, l’ipécacuanha, la scille, le colchique, la gomme-gutte, le séné, la strychnine, la belladone, etc. Ces diverses substances, que les médecins contre-stimulistes administrent en général à haute dose, paraissent produire des effets différents de ceux qu’elles déterminent à doses plus faibles. Cette recherche empirique des médicaments, de leurs doses et de leur emploi, a déjà enrichi la thérapeutique de ressources précieuses, et elle forme le seul caractère utile de la doctrine raso- rienne, de même que le caractère utile de la doctrine de Broussais fut la réforme des idées concernant le rapport de la pathologie à la physiologie.</sense>
       </entry>
       <entry xml:id="contus">
         <form><orth>Contus</orth>, USE. adj.</form>
         <dictScrap>
-          <etym xml:lang="grc">de <hi>contundere</hi>, écraser, meurtrir, de <hi>cum</hi>, avec, et <hi>tundere</hi>, frapper; θλασθείς</etym>
+          <etym xml:lang="grc">de <hi>contundere</hi>, écraser, meurtrir, de <hi>cum</hi>, avec, et <hi>tundere</hi>, frapper;</etym>
+          <foreign xml:lang="grc">θλασθεὶς</foreign>
           <foreign xml:lang="deu">gequetscht</foreign>
           <foreign xml:lang="eng">contused</foreign>
           <foreign xml:lang="ita">contuso</foreign>
@@ -41386,10 +41388,10 @@
           <foreign xml:lang="deu">Genesung</foreign>
           <foreign xml:lang="eng">convalescency</foreign>
           <foreign xml:lang="ita">convalescenza</foreign>
-          <foreign xml:lang="spa">convalescentia</foreign>
+          <foreign xml:lang="spa">convalescencia</foreign>
           <foreign resp="#FR" xml:lang="grc">ἀνάληψις</foreign>
         </dictScrap>
-        <sense n="1">Période de transition entre la maladie qui n’existe plus et le retour parfait de la santé et des forces au degré que comporte la constitution individuelle. Le convalescent est guéri, mais encore faible; ses fonctions n’ont pas encore recouvré l’entière énergie de leur exercice régulier. En général, on n’entend par <hi>convalescence</hi> que l’état de langueur générale qui subsiste dans diverses fonctions plus ou moins longtemps après une maladie de quelque gravité. Il faut bien se garder de la confondre avec la période de déclin, ou avec l’amendement des symptômes qui se lie à la transformation d’une maladie, ou à son passage de la forme aiguë à la forme chronique. V. <ref target="maladif">Maladif</ref>.</sense>
+        <sense n="1">Période de transition entre la maladie qui n’existe plus et le retour parfait de la santé et des forces au degré que comporte la constitution individuelle. Le convalescent est guéri, mais encore faible; ses fonctions n’ont pas encore recouvré l’entière énergie de leur exercice régulier. En général, on n’entend par <hi>convalescence</hi> que l’état de langueur générale qui subsiste dans diverses fonctions plus ou moins longtemps après une maladie de quelque gravité. Il faut bien se garder de la confondre avec la période de déclin, ou avec l’amendement des symptômes qui se lie à la transformation d’une maladie, ou à son passage de la forme aiguë à la forme chronique. V. <ref target="maladie">Maladie</ref>.</sense>
       </entry>
       <entry xml:id="convalescent">
         <form><orth>Convalescent</orth>, ENTE. adj. et s.</form>
@@ -41400,7 +41402,7 @@
       </entry>
       <entry xml:id="convallaire">
         <form><orth>Convallaire</orth>. s. f.</form>
-        <sense n="1">Nom de la plante vulgairement appelée <hi>muguet</hi>.</sense>
+        <sense n="1">Nom de la plante vulgairement appelée <ref type="syn">muguet</ref>.</sense>
       </entry>
       <entry xml:id="convergent">
         <form><orth>Convergent</orth>, adj.</form>
@@ -41420,19 +41422,19 @@
         <dictScrap>
           <foreign xml:lang="lat">convolutus</foreign>
         </dictScrap>
-        <sense n="1">Se dit, en botanique, des parties qui sont roulées sur elles-mêmes ou autour d’un autre corps, de manière à former un cornet: <hi>feuilles convolutées</hi>.</sense>
+        <sense n="1">Se dit, en botanique, des parties qui sont roulées sur elles-mêmes ou autour d’un autre corps, de manière à former un cornet: <term>feuilles convolutées</term>.</sense>
       </entry>
       <entry xml:id="convolutif">
         <form><orth>Convolutif</orth>, IVE. adj.</form>
         <sense n="1">— <term>Feuille convolutive</term>. Celle qui est roulée sur elle meme de sorte que l’un de ses bords représente un axe autour duquel le reste du limbe décrit une spirale.</sense>
-        <sense>— <term>Préfloraison convolutive</term>. Synonyme de <hi>préfloraison imbriquée</hi>.</sense>
+        <sense>— <term>Préfloraison convolutive</term>. Synonyme de <ref type="syn">préfloraison imbriquée</ref>.</sense>
       </entry>
       <entry xml:id="convolvulacées">
         <form><orth>Convolvulacées</orth>, s. f. pl.</form>
         <dictScrap>
-          <foreign xml:lang="lat">convolvulaceœ</foreign>
+          <foreign xml:lang="lat">convolvulaceæ</foreign>
         </dictScrap>
-        <sense n="1">Famille de plantes dicotylédones monopétales à étamines hypo- gynes, à laquelle le <hi>liseron</hi> (<hi>Convolvulus</hi>) a donné son nom. Les convolvulacées sont des plantes herbacées ou suffrutescentes, souvent volubiles et grimpantes, à feuilles alternes simples ou plus ou moins profondément lobées. Les fleurs sont axillaires ou terminales. Le calice est mo- nosépalc, persistant, à 5 divisions. Corolle monopétale, régulière, à 5 lobes plissés; 5 étamines insérées au tube de la corolle. Ovaire simple et libre, porté sur un disque hypogyne et présentant 2 à 4 loges; style simple ou double. Le fruit est une capsule dont les sutures correspondent aux cloisons. Embryon à cotylédons plans et chiffonnés, roulé sur lui-même et placé au centre d’un endosperme mou et comme mucilagincux. V. <ref>jalap</ref> et <ref target="scammonée">Scammonée</ref>.</sense>
+        <sense n="1">Famille de plantes dicotylédones monopétales à étamines hypo- gynes, à laquelle le <hi>liseron</hi> (<hi>Convolvulus</hi>) a donné son nom. Les convolvulacées sont des plantes herbacées ou suffrutescentes, souvent volubiles et grimpantes, à feuilles alternes simples ou plus ou moins profondément lobées. Les fleurs sont axillaires ou terminales. Le calice est mo- nosépalc, persistant, à 5 divisions. Corolle monopétale, régulière, à 5 lobes plissés; 5 étamines insérées au tube de la corolle. Ovaire simple et libre, porté sur un disque hypogyne et présentant 2 à 4 loges; style simple ou double. Le fruit est une capsule dont les sutures correspondent aux cloisons. Embryon à cotylédons plans et chiffonnés, roulé sur lui-même et placé au centre d’un endosperme mou et comme mucilagincux. V. <ref target="jalap">Jalap</ref> et <ref target="scammonée">Scammonée</ref>.</sense>
       </entry>
       <entry xml:id="convolvuline">
         <form><orth>Convolvuline</orth>. s. f.</form>
@@ -41460,11 +41462,11 @@
           <foreign xml:lang="lat">spasticus</foreign>
           <foreign xml:lang="deu">krampfhaft</foreign>
           <foreign xml:lang="eng">convulsive</foreign>
-          <foreign xml:lang="ita">convulswo</foreign>
-          <foreign xml:lang="spa">convulswo</foreign>
+          <foreign xml:lang="ita">convulsivo</foreign>
+          <foreign xml:lang="spa">convulsivo</foreign>
           <foreign resp="#FR" xml:lang="grc">σπασμώδης</foreign>
         </dictScrap>
-        <sense n="1">Qui est accompagné de convulsions, ou analogue aux convulsions : <hi>colique convulsive, syncope convulsive, tic convulsif, toux convulsive, voix convulsive</hi>.</sense>
+        <sense n="1">Qui est accompagné de convulsions, ou analogue aux convulsions : <term>colique convulsive</term>, <term>syncope convulsive</term>, <term>tic convulsif</term>, <term>toux convulsive</term>, <term>voix convulsive</term>.</sense>
         <sense>— <term>Asthme convulsif</term>. V. <ref target="spasme">Spasme</ref>.</sense>
         <sense>— <term>Maladie convulsive</term>. V. <ref target="maladie">Maladie</ref>. =. Quelquefois, ce qui peut donner des convulsions.</sense>
       </entry>
@@ -41480,15 +41482,15 @@
           <foreign xml:lang="spa">convulsion</foreign>
           <foreign resp="#FR" xml:lang="grc">σπασμὸς</foreign>
         </dictScrap>
-        <sense n="1">Contraction involontaire et instantanée des muscles, assez énergique pour produire un mouvement irrégulier du tronc et des membres, avec secousses plus ou moins violentes et brusques, phénomènes qui se reproduisent à plusieurs reprises, après des intervalles plus ou moins longs de relâchement et de calme. Autrefois on distinguait les convulsions en <hi>toniques</hi>, celles dans lesquelles la contraction des muscles est permanente, et en <hi>cloniques</hi>, celles qui sont caractérisées par des mouvements alternatifs de contraction et de relâchement. Les muscles sont évidemment les organes mis en exercice dans l’acte convulsif; mais cet acte se lie nécessairement à un désordre quelconque de l’innervation. 11 ne peut être que le symptôme ou la conséquence d’une lésion du système nerveux, soit directe, soit sympathique, bien que les convulsions se manifestent souvent d’une manière spontanée et indépendante de toute inflammation et de toute altération organique appréciable des solides, mais dépendante du cours ou de i’accumulation plus ou moins irrégulière du sang et de la sérosité cérébrale, ou de l’état du sang. Le traitement est nécessairement aussi variable que les causes.</sense>
-        <sense>— <term>Convulsions des enfants</term> (<hi>éclampsie des enfants, insultus epilepticus puerilis, epilepsia puerilis</hi> ; all. <hi>Kinderkrämpfe</hi>,
+        <sense n="1">Contraction involontaire et instantanée des muscles, assez énergique pour produire un mouvement irrégulier du tronc et des membres, avec secousses plus ou moins violentes et brusques, phénomènes qui se reproduisent à plusieurs reprises, après des intervalles plus ou moins longs de relâchement et de calme. Autrefois on distinguait les convulsions en <term><ex>convulsions</ex> toniques</term>, celles dans lesquelles la contraction des muscles est permanente, et en <term>cloniques</term>, celles qui sont caractérisées par des mouvements alternatifs de contraction et de relâchement. Les muscles sont évidemment les organes mis en exercice dans l’acte convulsif; mais cet acte se lie nécessairement à un désordre quelconque de l’innervation. 11 ne peut être que le symptôme ou la conséquence d’une lésion du système nerveux, soit directe, soit sympathique, bien que les convulsions se manifestent souvent d’une manière spontanée et indépendante de toute inflammation et de toute altération organique appréciable des solides, mais dépendante du cours ou de i’accumulation plus ou moins irrégulière du sang et de la sérosité cérébrale, ou de l’état du sang. Le traitement est nécessairement aussi variable que les causes.</sense>
+        <sense>— <term>Convulsions des enfants</term> (<ref type="syn">éclampsie des enfants</ref>, <foreign xml:lang="lat">insultus epilepticus puerilis</foreign>, <foreign xml:lang="lat">epilepsia puerilis</foreign> ; all. <foreign xml:lang="deu">Kinderkrämpfe</foreign>,
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=367" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0367/full/full/0/default.jpg" n="0353"/>
-           angl, <hi>infantile convulsions</hi>, it. <hi>convulsioni dei bambini</hi>). Convulsions sympathiques ou idiopathiques des enfants autres que l’épilepsie, qui, du reste, est rare à cet âge, et ne se liant à aucune altération matérielle saisissable des centres nerveux. Les convulsions les plus fréquentes sont bornées à une partie du corps, une moitié latérale, ou supérieure, ou inférieure, à la face seule, à la face et au cou, avec ou sans contracture des bras, des doigts et des poignets repliés en dedans. Sensibilité conservée, mais abolition momentanée des facultés intellectuelles ; fonctions organiques intactes; respiration accélérée, elle devient nulle ou à peine perceptible pendant l’accès, lequel est quelquefois précédé par quelques inspirations irrégulières, avec pâleur de la face, coloration violacée des lèvres, fixité des yeux. Tous ces phénomènes, après avoir duré quelques secondes, se dissipent, puis les fonctions reviennent à l’état normal. Ce sont surtout ces formes qui sont dites vulgairement <hi>convulsions internes, sourdes</hi> ou <hi>imminentes</hi> (V. <ref target="contracture">Contracture</ref>). Il peut n’y avoir qu’une attaque ; d’autres fois, plusieurs se succèdent à de courtes distances pendant un ou plusieurs jours; elles ont lieu le jour plutôt que la nuit. D’autres fois, les convulsions sont générales, se montrent brusquement et sans cause, ou sont précédées d’agitation, morosité, fixité dans le regard, face colorée, insomnie ou somnolence. Les convulsions entraînent souvent la mort à la suite de crises fréquemment répétées, tantôt avec des symptômes de congestion cérébrale, tantôt par asphyxie. Elles atteignent souvent les enfants précoces ou vigoureux; elles semblent être dues à quelque inégalité dans le développement du système nerveux et des autres systèmes, ce qui fait cesser l’harmonie qui doit exister entre leurs actes, pour qu’ils puissent être continus. La frayeur, la colère, le chatouillement, l’airtrop chaud ou trop froid, des digestions difficiles, les douleurs de la dentition, la présence des entozoaires, sont des causes déterminantes de l’apparition des accès. Les bains, les purgatifs anthel- minthiques, les antispasmodiques, les révulsifs légers aux membres inférieurs, et surtout le changement de régime, l’exercice, les promenades au grand air, sont les moyens à employer contre cet état, qui est toujours grave. V. <ref>Hydrencéphalie</ref>.</sense>
-        <sense>— <term>Convulsions Spasmodiques</term>. V. <ref target="névrose">Névrose</ref>.</sense>
+           angl, <foreign xml:lang="eng">infantile convulsions</foreign>, it. <foreign xml:lang="ita">convulsioni dei bambini</foreign>). Convulsions sympathiques ou idiopathiques des enfants autres que l’épilepsie, qui, du reste, est rare à cet âge, et ne se liant à aucune altération matérielle saisissable des centres nerveux. Les convulsions les plus fréquentes sont bornées à une partie du corps, une moitié latérale, ou supérieure, ou inférieure, à la face seule, à la face et au cou, avec ou sans contracture des bras, des doigts et des poignets repliés en dedans. Sensibilité conservée, mais abolition momentanée des facultés intellectuelles ; fonctions organiques intactes; respiration accélérée, elle devient nulle ou à peine perceptible pendant l’accès, lequel est quelquefois précédé par quelques inspirations irrégulières, avec pâleur de la face, coloration violacée des lèvres, fixité des yeux. Tous ces phénomènes, après avoir duré quelques secondes, se dissipent, puis les fonctions reviennent à l’état normal. Ce sont surtout ces formes qui sont dites vulgairement <term>convulsions internes</term>, <term><ex>convulsions</ex> sourdes</term> ou <term><ex>convulsions</ex> imminentes</term> (V. <ref target="contracture">Contracture</ref>). Il peut n’y avoir qu’une attaque ; d’autres fois, plusieurs se succèdent à de courtes distances pendant un ou plusieurs jours; elles ont lieu le jour plutôt que la nuit. D’autres fois, les convulsions sont générales, se montrent brusquement et sans cause, ou sont précédées d’agitation, morosité, fixité dans le regard, face colorée, insomnie ou somnolence. Les convulsions entraînent souvent la mort à la suite de crises fréquemment répétées, tantôt avec des symptômes de congestion cérébrale, tantôt par asphyxie. Elles atteignent souvent les enfants précoces ou vigoureux; elles semblent être dues à quelque inégalité dans le développement du système nerveux et des autres systèmes, ce qui fait cesser l’harmonie qui doit exister entre leurs actes, pour qu’ils puissent être continus. La frayeur, la colère, le chatouillement, l’airtrop chaud ou trop froid, des digestions difficiles, les douleurs de la dentition, la présence des entozoaires, sont des causes déterminantes de l’apparition des accès. Les bains, les purgatifs anthel- minthiques, les antispasmodiques, les révulsifs légers aux membres inférieurs, et surtout le changement de régime, l’exercice, les promenades au grand air, sont les moyens à employer contre cet état, qui est toujours grave. V. <ref target="hydrencéphalie">Hydrencéphalie</ref>.</sense>
+        <sense>— <term>Convulsions spasmodiques</term>. V. <ref target="névrose">Névrose</ref>.</sense>
       </entry>
       <entry xml:id="convulsionnaire">
         <form><orth>Convulsionnaire</orth>, adj. et s.</form>
-        <sense n="1">Individu affecté de convulsions par suite d’idées mystiques, comme les ursulines de Loudun ou les malades qui allaient prier sur le tombeau du diacre Pâris. Des phénomènes très-singuliers d’insensibilité se manifestèrent durant cette épidémie, qui rentre dans la classe des maladies extatiques et religieuses. V. <ref target="analgésie">Analgésie</ref> et <xr><ref target="maladie">Maladie</ref> religieuses</xr>.</sense>
+        <sense n="1">Individu affecté de convulsions par suite d’idées mystiques, comme les ursulines de Loudun ou les malades qui allaient prier sur le tombeau du diacre Pâris. Des phénomènes très-singuliers d’insensibilité se manifestèrent durant cette épidémie, qui rentre dans la classe des maladies extatiques et religieuses. V. <ref target="analgésie">Analgésie</ref> et <xr><ref target="maladie">Maladies</ref> religieuses</xr>.</sense>
       </entry>
       <entry xml:id="conyze">
         <form><orth>Conyze</orth>. s. f.</form>
@@ -41500,17 +41502,17 @@
       <entry xml:id="coordination">
         <form><orth>Coordination</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="deu">coordination</foreign>
+          <foreign xml:lang="deu">Coordination</foreign>
           <foreign xml:lang="eng">coordination</foreign>
           <foreign xml:lang="ita">coordinazione</foreign>
         </dictScrap>
         <sense n="1">— <term>Coordination des mouvements</term>. Quelque dépendants de la volonté que soient les mouvements, leur association pour le but de la locomotion semble être favorisée par des corrélations intérieures entre certaines parties des organes centraux du système nerveux et les groupes de muscles par l’intermédiaire de leurs conducteurs nerveux. Ainsi les oiseaux décapités essayent encore de se mouvoir; le même phénomène a lieu chez les grenouilles. Ces sortes de mouvements ne ressemblent point à ceux que la volonté détermine, et pour lesquels le concours du cerveau est nécessaire. H paraît que, dans le cas de l’oiseau décapité qui exécute des mouvements où il y a encore une certaine harmonie, c’est la moelle qui préside à cette harmonie. C’est encore un mouvement coordonné qui'fait exécuter la succion à la tète d’un petit chat détachée du tronc (Mayer, Brown-Séquard).</sense>
-        <sense>— <term>Loide coordination</term>. V. <ref target="socialité">Socialité</ref>.</sense>
+        <sense>— <term>Loi de coordination</term>. V. <ref target="socialité">Socialité</ref>.</sense>
       </entry>
       <entry xml:id="copahène">
         <form><orth>Copahène</orth>. s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">copahuvène</foreign>
+          <ref type="syn">copahuvène</ref>
         </dictScrap>
         <sense n="1">, Base du camphre artificiel d’essence de copahu ou chlorhydrate de copa- hène, qui se forme lorsqu’on fait passer un courant de gaz acide chlorhydrique dans l’essence de copahu rectifiée; cristallisable, fusible à 77°. (C²⁰H-⁷C1.)</sense>
       </entry>
@@ -41521,9 +41523,9 @@
           <foreign xml:lang="deu">Copaivbaum</foreign>
           <foreign xml:lang="eng">copaiba-tree</foreign>
           <foreign xml:lang="ita">copaiba</foreign>
-          <etym>copayer</etym>
+          <ref type="syn">copayer</ref>
         </dictScrap>
-        <sense n="1">Nom de genre· de l’arbre (légumineuses cassiées ou cæsalpiniées, et non papilionacées) qui fournit le copahu. L’espèce la plus répandue est le <hi>Copaifera officinaUs</hi>, L. Les autres sont les <hi>C</hi>. <hi>guyanensis, Langsdorfii, coriacea, cordifolia, Sellowii, Martii</hi> et <hi>oblongifolia</hi>. Les copahiers croissent depuis le Brésil jusqu’au Mexique et aux Antilles.</sense>
+        <sense n="1">Nom de genre· de l’arbre (légumineuses cassiées ou cæsalpiniées, et non papilionacées) qui fournit le copahu. L’espèce la plus répandue est le <term xml:lang="lat">Copaifera officinalis</term>, L. Les autres sont les <term xml:lang="lat"><ex>Copaifera</ex> guyanensis</term>, <term xml:lang="lat"><ex>Copaifera</ex> Langsdorfii</term>, <term xml:lang="lat"><ex>Copaifera</ex> coriacea</term>, <term xml:lang="lat"><ex>Copaifera</ex> cordifolia</term>, <term xml:lang="lat"><ex>Copaifera</ex> Sellowii</term>, <term xml:lang="lat"><ex>Copaifera</ex> Martii</term> et <<term xml:lang="lat"><ex>Copaifera</ex> oblongifolia</term>. Les copahiers croissent depuis le Brésil jusqu’au Mexique et aux Antilles.</sense>
       </entry>
       <entry xml:id="copahivique">
         <form><orth>Copahivique</orth>, <orth>Copahuique</orth> ou <orth>Copahuvique</orth> (<rs>Acide</rs>).</form>
@@ -41541,7 +41543,7 @@
           <foreign xml:lang="ita">copahu</foreign>
         </dictScrap>
         <sense n="1">Térébenthine, dite à tort <hi>baume de copahu</hi> (V. <ref target="baume">Baume</ref>), qui découle du <hi>Copaifera officinaUs</hi>, L., arbre du Pérou et du Mexique (décandrie monogynie, L., légumineuses cassiées, J.). Elle ne renferme pas les <hi>acides benzoïque</hi> et <hi>cinnamique</hi>, dont la présence caractérise les baumes. Sa composition est : essence ou huile volatile iso- mérique avec celle de citron (C²⁰H¹⁶), de 32 à 47 ; acide copahivique, 38 à 52; résine visqueuse, 1,65 à 2,13. Cette térébenthine est très-fluide, transparente et presque incolore quand elle est récente ; elle prend ensuite de la consistance et une teinte jaune. Elle a une odeur forte, une saveur âcre, amère, très-désagréable. C’est un stimulant très actif, dont l’action porte spécialement sur les membranes muqueuses. On la falsifie souvent, surtout avec la térébenthine ordinaire ou l’huile de ricin, et de là résultent des mélanges difficiles à reconnaître. Cependant : 1° l’ébullition prolongée dans l’eau donne un résidu sec et cassant si le baume est pur, un résidu mou s’il y existe de l’hùile de ricin ; 2° l’ammoniaque ne trouble le baume que lorsqu’il est mêlé d’huile ; 3° la magnésie très-fortement calcinée donne promptement ou en quelques jours une consistance solide au baume de copahu pur; 4° l’huile volatile de copahu, obtenue après la distillation, n’éprouve rien de la part du potassium, mais bouillonne avec l’iode.</sense>
-        <sense>— On fait surtout usage de la térébenthine de copahu pour arrêter les blennorrhées ; on peut aussi l’employer au défaut de la blennorrhagie. Le moyen le plus simple et le plus avantageux d’administrer ce médicament consiste à l’unir avec de la magnésie <hi>fortement calcinée</hi>. Lorsqu’il est pur et d’une consistance peu fluide, il suffit de le triturer avec un seizième de son poids de magnésie pour le rendre susceptible d’être roulé en pilules : quelquefois seulement la solidification n’a lieu qu’au bout de plusieurs jours. Au contraire, si c’était le carbonate de magnésie qu’on employât pour solidifier le copahu, il faudrait uné très-grande quantité de ce sel, d’où résulteraient des pilules beaucoup trop volumineuses. V. <ref>Blennor</ref><ref>Rhagie</ref>.</sense>
+        <sense>— On fait surtout usage de la térébenthine de copahu pour arrêter les blennorrhées ; on peut aussi l’employer au défaut de la blennorrhagie. Le moyen le plus simple et le plus avantageux d’administrer ce médicament consiste à l’unir avec de la magnésie <hi>fortement calcinée</hi>. Lorsqu’il est pur et d’une consistance peu fluide, il suffit de le triturer avec un seizième de son poids de magnésie pour le rendre susceptible d’être roulé en pilules : quelquefois seulement la solidification n’a lieu qu’au bout de plusieurs jours. Au contraire, si c’était le carbonate de magnésie qu’on employât pour solidifier le copahu, il faudrait uné très-grande quantité de ce sel, d’où résulteraient des pilules beaucoup trop volumineuses. V. <ref target="blennorrhagie">Blennorrhagie</ref>.</sense>
         <sense>— <term>Camphre de copahu</term> (chlorhydrate solide d’essence de copahu). Corps cristallisable ne jouissant d’aucun pouvoir rotatoire, obtenu par action de l’acide chlorhydrique sec sur l’essencé de copahu (C¹⁰H⁹C1).</sense>
         <sense>— <term>Liniment de copahu</term>. V. <ref target="liniment">Liniment</ref>.</sense>
         <sense>— <term>Pilules de copahu</term>. V. <ref target="pilule">Pilule</ref>.</sense>
@@ -41553,20 +41555,20 @@
       <entry xml:id="copal">
         <form><orth>Copal</orth>. s. m., ou <orth>Copale</orth>. s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">résina copal</foreign>
+          <foreign xml:lang="lat">resina copal</foreign>
           <foreign xml:lang="deu">Copal</foreign>
           <foreign xml:lang="eng">copal</foreign>
           <foreign xml:lang="ita">copal</foreign>
         </dictScrap>
         <sense n="1">Nom mexicain des résines brûlées dans les temples, qui a été donné par Monaredès à la <hi>résine courbaril</hi> (V. <ref target="animé">Animé</ref>), et s’est étendu à des résines d’Orient d’origine différente.</sense>
-        <sense>— <term>Copal aur</term> (ou <term>résine animé dure orientale</term>). H ne vient pas du Mexique, mais
+        <sense>— <term>Copal aur</term> (ou <ref type="syn">résine animé dure orientale</ref>). H ne vient pas du Mexique, mais
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=368" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0368/full/full/0/default.jpg" n="0354"/>
            de Madagascar, et de là il est transporté sur divers points de l’Inde, d’où il nous arrive. Il est fourni par <hi>l’Hyme- nœa verrucosa</hi>, Lamk, légumineuse cassiée à fruit brun noirâtre vernissé par la résine. Il est : 1° en <hi>larmes</hi> ou <hi>stalactites</hi>, et est dit alors <hi>de Madagascar</hi>, dur, à cassure vitreuse, lisse et polie à la surface. 2° Trouvé à terre enfoui dans le sable, c’est le <hi>copal</hi> dit <hi>de Bombay</hi> : Vexté- rieur en est opaque et friable, par suite de l’action de l’humidité. 3° Ce dernier, débarrassé de sa croûte extérieure impure à l’aide d’un soluté de carbonate de potasse, est dit <hi>copal de Calcutta</hi> : il est en morceaux jaune pâle, dur, vitreux, chagriné. Il est formé de cinq sortes de résines acides différentes par leurs réactions isomères ou voisines avec la plus abondante (C⁴⁰H³²O⁶).</sense>
-        <sense>— <term>Copal tendre <hi>ou</hi> demi-dur<hi>, ou </hi>animé tendre oriental</term>, en larmes globuleuses, quelquefois du volume du poing. Il vient d’arbres voisins de celui qui donne le copal dur.</sense>
+        <sense>— <term>Copal tendre</term> <hi>ou</hi> <term><ex>copal</ex> demi-dur</term>, ou <term><ex>copal</ex> animé tendre oriental</term>, en larmes globuleuses, quelquefois du volume du poing. Il vient d’arbres voisins de celui qui donne le copal dur.</sense>
         <sense>— <term>Copal tendre du Brésil</term> (V. <xr><ref target="gomme">Gomme</ref> animé</xr>).</sense>
-        <sense>— <term>Copal tendre de Nubie</term>. V. <xr><ref target="dammar">Dammar</ref> selan</xr> ou <hi>friable</hi>.</sense>
-        <sense>— <term>Copal fossile</term> ou <term>résine de Highgate</term>. Substance résineuse jaune ou brune, sans acide fulminique, des argiles bleues près de Londres.</sense>
-        <sense>— La <hi>fausse gomme copale</hi> (<hi>copal de Santo de Guatemala</hi>), qui nous est envoyée de l’Amérique septentrionale (Etats-Unis et Mexique), et que Lémery a appelée <hi>faux karabé</hi>, provient du <hi>sumac ailé</hi> (<hi>Rhus copallina</hi>, L.), de la famille des térébinthacées. Toutes ces résines sont stimulantes ; elles ne sont plus employées que pour les vernis.</sense>
+        <sense>— <term>Copal tendre de Nubie</term>. V. <xr><ref target="dammar">Dammar</ref> selan</xr> ou <ex><xr><ref target="dammar">Dammar</ref></ex> friable</xr>.</sense>
+        <sense>— <term>Copal fossile</term> ou <ref type="syn">résine de Highgate</ref>. Substance résineuse jaune ou brune, sans acide fulminique, des argiles bleues près de Londres.</sense>
+        <sense>— La <term>fausse gomme copale</term> (<term>copal de Santo de Guatemala</term>), qui nous est envoyée de l’Amérique septentrionale (Etats-Unis et Mexique), et que Lémery a appelée <hi>faux karabé</hi>, provient du <hi>sumac ailé</hi> (<hi>Rhus copallina</hi>, L.), de la famille des térébinthacées. Toutes ces résines sont stimulantes ; elles ne sont plus employées que pour les vernis.</sense>
       </entry>
       <entry xml:id="copalchi">
         <form><orth>Copalchi</orth>. s. m.</form>
@@ -41599,7 +41601,7 @@
           <foreign xml:lang="deu">kothentleerend</foreign>
           <foreign resp="#FR" xml:lang="grc">κοπραγωγὸς</foreign>
         </dictScrap>
-        <sense n="1">Qui évacue les excréments : <hi>médicament copra- gogue; un copragogue</hi>.</sense>
+        <sense n="1">Qui évacue les excréments : <term>médicament copragogue</term>; un <term>copragogue</term>.</sense>
       </entry>
       <entry xml:id="coprocritique">
         <form><orth>Coprocritique</orth>. adj.</form>
@@ -41607,7 +41609,7 @@
           <foreign xml:lang="lat">coprocriticus</foreign>
           <etym xml:lang="grc">de κόπρος, excrément, et κρίνω, je sépare</etym>
         </dictScrap>
-        <sense n="1">Synonyme <hi>Aeccoprotique</hi>.</sense>
+        <sense n="1">Synonyme d'<ref type="syn">eccoprotique</ref>.</sense>
       </entry>
       <entry xml:id="coprophorie">
         <form><orth>Coprophorie</orth>. s. f.</form>
@@ -41623,7 +41625,7 @@
           <foreign xml:lang="lat">coprostasis</foreign>
           <etym xml:lang="grc">de κόπρος, excrément, et στάσις, arrêt</etym>
         </dictScrap>
-        <sense n="1">Rétention des excréments, <ref>constipation</ref>. V. ce mot.</sense>
+        <sense n="1">Rétention des excréments, <ref target="constipation">constipation</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="copulation">
         <form><orth>Copulation</orth>, s. f.</form>
@@ -41634,7 +41636,7 @@
           <foreign xml:lang="ita">copulazione</foreign>
           <foreign resp="#FR" xml:lang="grc">συνουσία</foreign>
         </dictScrap>
-        <sense n="1">Union des sexes : synonyme de <ref>coït</ref>. V. ce mot et <ref target="fécondation">Fécondation</ref>.</sense>
+        <sense n="1">Union des sexes : synonyme de <ref target="coït">coït</ref>. V. ce mot et <ref target="fécondation">Fécondation</ref>.</sense>
         <sense>— <term>Reproduction par copulation</term>. V. <ref target="conjugaison">Conjugaison</ref>.</sense>
       </entry>
       <entry xml:id="copulé">
@@ -41656,14 +41658,14 @@
           <foreign resp="#FR" xml:lang="grc">ἀλεκτρυὼν</foreign>
         </dictScrap>
         <sense n="1">Genre d’oiseaux de l’ordre des gallinacés, famille des faisans. La <hi>poule</hi> en est la femelle ; <hi>le</hi>. <hi>poulet</hi>, le jeune mâle; la <hi>poulette</hi> ou<hi>pillette</hi>, la jeune femelle; les <hi>poussins</hi>, les petits. Pourvus de crête au moins chez le mâle, et de barbillons dans les deux sexes. Les testicules de coq, desséchés et pulvérisés, ont été employés contre l’impuissance par les anciens.</sense>
-        <sense>— Les espèces sont : <hi>a</hi>. <hi>Coq géant</hi> ou <hi>jago</hi> (<hi>Gallùs giganteus</hi>, Temm.), de Sumatra; domestiqué par quelques peuplades de l’Inde, il paraît la souche de notre <hi>coq de Caux</hi>, ou <hi>coq russe</hi> ou <hi>de Padoue</hi>.</sense>
-        <sense>— b. <term>Coq Bankiva</term> (<hi>G. Bankiva</hi>, Temm.), de Java, considéré comme souche des races suivantes, dont les deux dernières sont peut-être de véritables espèces : 1° <hi>coq domestique</hi> (<hi>G. domesticus</hi>, Brisson) ; 2° <hi>coq huppé</hi> (<hi>G. cristatus</hi>, Brisson); 3° <hi>coq de Turquie</hi> (<hi>G. pusillus</hi>, Temminck) ; 4° <hi>coq de Bantam</hi> (<hi>G. banticus</hi>, Brisson) ; 5° <hi>côqpattu</hi>; 6° <hi>coq de Camboge; 1° coq nain</hi> (<hi>G. pumilio</hi>, Brisson), de Madagascar, aussi à pattes emplumées, auquel se rattache, comme race anormale, le <hi>coq à cinq doigts</hi> (<hi>G. pentadactylos</hi>, Brisson).</sense>
-        <sense>— c. <term>Coq de Sonnerai</term> (<hi>G. Sonneratii</hi>, Temm.), de l’Inde, considéré longtemps comme souche du coq domestique, dont les femelles ressemblent beaucoup à nos poules.</sense>
-        <sense>— d. <hi>Coq nègre</hi> ou <hi>de Mozambique</hi> (<hi>G. morio</hi>), sauvage dans les Indes, domestiqué par divers peuples et en Allemagne.</sense>
-        <sense>— e. <hi>Coq laineux</hi> ou <hi>à duvet</hi> (<hi>G. japonicus</hi>, Brissoïi, <hi>lanatus</hi>, Temminck), du Japon, delà Nouvelle-Guinée, etc., connu seulement à l’état domestique.</sense>
-        <sense>— f. <term>Coq crépu</term> (<hi>G. cris- pus</hi>, Brisson), sauvage et domestiqué, des parties chaudes de l’Asie.</sense>
-        <sense>— g. <term>Coq sans queue</term> (<hi>G. ecaudatus</hi>, Temminck), sauvage à Ceylan, domestiqué en divers pays (virginie, etc.); manque de la dernière vertèbre coccy- gienne, ce qui l’a fait à tort regarder comme race anormale. Toutes les espèces domestiquées donnent des métis féconds. V. <ref target="œuf">Œuf</ref>.</sense>
-        <sense>== En botanique, <hi>coq des jardins</hi>. V. <ref target="balsamite">Balsamite</ref>.</sense>
+        <sense>— Les espèces sont : <hi>a</hi>. <term>Coq géant</term> ou <ref type="syn">jago</ref> (<foreign xml:lang="lat">Gallus giganteus</foreign>, Temm.), de Sumatra; domestiqué par quelques peuplades de l’Inde, il paraît la souche de notre <term>coq de Caux</term>, ou <term>coq russe</term> ou <term><ex>coq</ex> de Padoue</term>.</sense>
+        <sense>— b. <term>Coq Bankiva</term> (<foreign xml:lang="lat">G<ex>allus</ex>  Bankiva</foreign>, Temm.), de Java, considéré comme souche des races suivantes, dont les deux dernières sont peut-être de véritables espèces : 1° <term>coq domestique</term> (<foreign xml:lang="lat">G<ex>allus</ex>  domesticus</foreign>, Brisson) ; 2° <term>coq huppé</term> (<foreign xml:lang="lat">G<ex>allus</ex> cristatus</foreign>, Brisson); 3° <term>coq de Turquie</term> (<foreign xml:lang="lat">G<ex>allus</ex> pusillus</foreign>, Temminck) ; 4° <term>coq de Bantam</term> (<foreign xml:lang="lat">G<ex>allus</ex> banticus</foreign>, Brisson) ; 5° <term>coq pattu</term>; 6° <term>coq de Camboge</term>; 7° <term>coq nain</term> (<foreign xml:lang="lat">G<ex>allus</ex> pumilio</foreign>, Brisson), de Madagascar, aussi à pattes emplumées, auquel se rattache, comme race anormale, le <term>coq à cinq doigts</term> (<foreign>G<ex>allus</ex> pentadactylos</foreign>, Brisson).</sense>
+        <sense>— c. <term>Coq de Sonnerat</term> (<foreign xml:lang="lat">G<ex>allus</ex> Sonneratii</foreign>, Temm.), de l’Inde, considéré longtemps comme souche du coq domestique, dont les femelles ressemblent beaucoup à nos poules.</sense>
+        <sense>— d. <term>Coq nègre</term> ou <term><ex>coq</ex> de Mozambique</term> (<foreign xml:lang="lat">G<ex>allus</ex> morio</foreign>), sauvage dans les Indes, domestiqué par divers peuples et en Allemagne.</sense>
+        <sense>— e. <term>Coq laineux</term> ou <term><ex>coq</ex> à duvet</term> (<foreign xml:lang="lat">G<ex>allus</ex> japonicus</foreign>, Brissoïi, <foreign xml:lang="lat"><ex>Gallus</ex> lanatus</foreign>, Temminck), du Japon, delà Nouvelle-Guinée, etc., connu seulement à l’état domestique.</sense>
+        <sense>— f. <term>Coq crépu</term> (<foreign xml:lang="lat">G<ex>allus</ex> crispus</foreign>, Brisson), sauvage et domestiqué, des parties chaudes de l’Asie.</sense>
+        <sense>— g. <term>Coq sans queue</term> (<foreign xml:lang="lat">G<ex>allus</ex> ecaudatus</foreign>, Temminck), sauvage à Ceylan, domestiqué en divers pays (virginie, etc.); manque de la dernière vertèbre coccy- gienne, ce qui l’a fait à tort regarder comme race anormale. Toutes les espèces domestiquées donnent des métis féconds. V. <ref target="œuf">Œuf</ref>.</sense>
+        <sense>== En botanique, <term>coq des jardins</term>. V. <ref target="balsamite">Balsamite</ref>.</sense>
       </entry>
       <entry xml:id="coq2">
         <form><orth>Coq</orth>.</form>
@@ -41675,14 +41677,14 @@
           <foreign xml:lang="deu">Schale</foreign>
           <foreign xml:lang="eng">shell</foreign>
           <foreign xml:lang="ita">scorza</foreign>
-          <foreign xml:lang="ita">buecia</foreign>
+          <foreign xml:lang="ita">buccia</foreign>
           <foreign xml:lang="ita">follicolo</foreign>
         </dictScrap>
         <sense n="1">Èn botanique, fruit ou portion de fruit sec dont la déhiscence a lieu avec élasticité, à cause d’un ressort membraneux situé à sa base.</sense>
         <sense>— Loges closes d’un péricarpe pluriloculaire, qui se séparent les unes des autres à la maturité, qu’elles soient déhiscentes ou indéhiscentes (Mirbel).</sense>
         <sense>— Carpelles qui, d’après de Candolle, ne présentent que la suture ventrale ou séminifère, et qui ne diffèrent du <hi>follicule</hi> du même auteur qu’en ce qu’ils s’ouvrent avec élasticité.</sense>
-        <sense>— <term>Coque du Levant</term> [κόκκος αλιευτικός, all. <hi>Kokkelskörner</hi>, angl, <hi>coculus indiens, fisher’s-berries</hi>). Drupes desséchées de <hi>l’A narmita cocculus</hi>, Arnott et Wight (<hi>Cocculus suberosus</hi>, DC., <hi>Menispermum cocculus</hi>, L.), de . la famille des ménispermacées, arbuste sarmenteux du Malabar et des Moluques. Ces fruits, qui viennent des grandes Indes, sont ovoïdes, globuleux, de la grosseur d’une merise, convexes d’un côté, anguleux du côté opposé, glabres et ridés. La graine contenue dans le péricarpe est huileuse, blanchâtre et très-amère; ses propriétés vénéneuses paraissent dues à la picrotoxine, qui s’y trouve unie avec un acide dit <hi>ménispermique</hi>. On s’en est souvent servi pour enivrer le poisson dans les rivières et le prendre avec facilité, et l’on assurait qu’elle ne lui communiquait aucune propriété malfaisante; mais le contraire paraît aujourd’hui démontré.</sense>
-        <sense>== En anatomie, <hi>Membrane de la coque</hi>. V. <ref target="œuf">Œuf</ref>.</sense>
+        <sense>— <term>Coque du Levant</term> [<foreign xml:lang="grc">κόκκος ἁλιευτικὸς</foreign>, all. <foreign xml:lang="deu">Kokkelskörner</foreign>, angl, <foreign xml:lang="eng">coculus indicus</foreign>, <foreign xml:lang="eng">fisher’s-berries</foreign>). Drupes desséchées de <hi>l’A narmita cocculus</hi>, Arnott et Wight (<hi>Cocculus suberosus</hi>, DC., <hi>Menispermum cocculus</hi>, L.), de . la famille des ménispermacées, arbuste sarmenteux du Malabar et des Moluques. Ces fruits, qui viennent des grandes Indes, sont ovoïdes, globuleux, de la grosseur d’une merise, convexes d’un côté, anguleux du côté opposé, glabres et ridés. La graine contenue dans le péricarpe est huileuse, blanchâtre et très-amère; ses propriétés vénéneuses paraissent dues à la picrotoxine, qui s’y trouve unie avec un acide dit <hi>ménispermique</hi>. On s’en est souvent servi pour enivrer le poisson dans les rivières et le prendre avec facilité, et l’on assurait qu’elle ne lui communiquait aucune propriété malfaisante; mais le contraire paraît aujourd’hui démontré.</sense>
+        <sense>== En anatomie, <term>Membrane de la coque</term>. V. <ref target="œuf">Œuf</ref>.</sense>
       </entry>
       <entry xml:id="coquelicot">
         <form><orth>Coquelicot</orth>, s. m.</form>
@@ -41698,13 +41700,13 @@
       </entry>
       <entry xml:id="coquelourde">
         <form><orth>Coquelourde</orth>. s. f.</form>
-        <sense n="1">L’<term>anémone pulsatille</term>.</sense>
+        <sense n="1">L’<ref type="syn">anémone pulsatille</ref>.</sense>
       </entry>
       <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=369" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0369/full/full/0/default.jpg" n="0355"/>
       <entry xml:id="coqueluche">
         <form><orth>Coqueluche</orth>, s. f.</form>
         <dictScrap>
-          <etym>latin moderne, <hi>pertussis</hi></etym>
+          latin moderne, <foreign xml:lang="lat">pertussis</foreign>
           <foreign xml:lang="deu">Keuchhusten</foreign>
           <foreign xml:lang="eng">hooping-cough</foreign>
           <foreign xml:lang="ita">tosse asinina</foreign>
@@ -41716,24 +41718,28 @@
       </entry>
       <entry xml:id="coquerelle">
         <form><orth>Coquerelle</orth>, s. f. ou <orth>Coqueret</orth>, s. m.</form>
-        <sense n="1">L’<term>alkékenge</term>.</sense>
+        <sense n="1">L’<ref type="syn">alkékenge</ref>.</sense>
       </entry>
       <entry xml:id="coquille">
         <form><orth>Coquille</orth>, s. f.</form>
         <dictScrap>
-          <etym>diminutif de <hi>coque</hi>, enveloppe; <hi>concha, r.z-ç/w</hi></etym>
+          <etym>diminutif de <hi>coque</hi>, enveloppe;</etym>
+          <foreign xml:lang="lat">concha</foreign>
+          <foreign xml:lang="grc">κογχίον</foreign>
           <foreign xml:lang="deu">Muschel</foreign>
           <foreign xml:lang="eng">cshel</foreign>
           <foreign xml:lang="ita">nicchio</foreign>
           <foreign xml:lang="ita">guscio</foreign>
         </dictScrap>
-        <sense n="1">Enveloppe dure des mollusques. Chez les mollusques, la coquille est dite <hi>univalve</hi>, lorsqu’elle se compose d’une seule pièce. Elle peut être simplement <hi>en cône</hi> ou <hi>cylindre creux</hi>, comme chez les ptéropodes; elle peut être <hi>spirivalve</hi> ou <hi>tur binée</hi>, c’est-à-dire formée d’un <hi>axe</hi> ou <hi>columelle</hi> autour de laquelle s’enroule la partie enveloppante dite <hi>spire</hi>, ouverte au dehors par un large orifice de formes variées appelé <hi>bouche</hi>. C’est ce qu’on observé chez divers gastéropodes dits <hi>con- chifères</hi>, en raison de la disposition de leur coquille. Chez les <hi>bivalves</hi>, la coquille peut être <hi>équivalve</hi> ou <hi>inéqui- valve</hi> ; chaque valve porte à sa face interne une ou deux <hi>impressions</hi> d’attaches musculaires, selon que l’animal est <hi>monomyaire ondimyaire</hi>; elle présente aussi, près de la circonférence, <hi>l’impression palléale</hi>, marquant toute la portion qui adhérait fortement au manteau. La <hi>charnière</hi> est le point de jonction ou d’articulation des deux valves; elle présente un ou plusieurs ligaments brunâtres ou gris, formés de fibres élastiques très-adhérentes, qui déterminent l’ouverture des valves lorsque les muscles cessent de se contracter. La charnière présente souvent, sur chaque valve, des <hi>dents</hi> ou <hi>pointes</hi>, ou lames saillantes qui s’engrènent dans des facettes correspondantes de l’autre valve, et permettent de distinguer celles-ci en droite et en gauche. La coquille se compose de trois couches : 1° <hi>L’épiderme</hi>, ou <hi>periostracum</hi>, couche brunâtre ou verdâtre extérieure, se détachant en lamelles irrégulières d’aspect corné. 3° Le <hi>têt</hi> ou <ref>test</ref> (V. ce mot) proprement dit. Celui-ci est formé de petits prismes disposés les uns à côté des autres perpendiculairement à la surface de la coquille. Chaque prisme est moins long que la coquille n’est épaisse, et ils s’enchevêtrent régulièrement par leurs extrémités taillées en pointe. Il résulte de là que, sur une coupe transversale du test, le diamètre des prismes paraît très- inégal; cette coupe montre que leur forme est régulière, prismatique à cinq ou six pans, comme des cellules épithéliales pavimenteuses ; cé qui a fait dire à tort que les coquilles étaient formées de. cellules incrustées de calcaire. Ces prismes se brisent en travers, parallèlement à la surface de la coquille, avec beaucoup de facilité. Ils sont composés d’une trame organique unie à des sels calcaires, des carbonates surtout. Ils peuvent offrir, d’un groupe à l’autre, des dispositions très-diverses. 3? La <hi>nacre</hi>, ou couche interne irisée, est formée dé prismes beaucoup plus petits que ceux de la couche pierreuse ou testacée èt pourvus d’une ligne centrale plus foncée que le reste. Ils sont disposés très-obliquement par rapport à la surface du test et viennent se terminer par une extrémité amincie conique. De l’imbrication ou superposition de leurs extrémités à des distances peu considérables, résultent de fines stries qui réfléchissent la lumière à la manière des lames minces ou des surfaces striées, et produisent ici le phénomène de décomposition de la lumière connu sous le nom <hi>Ai interférence</hi>. De là les teintes irisées de la nacre et la possibilité de les reproduire sur la cireou la gélatine coulée dans le creux des coquilles.</sense>
+        <sense n="1">Enveloppe dure des mollusques. Chez les mollusques, la coquille est dite <hi>univalve</hi>, lorsqu’elle se compose d’une seule pièce. Elle peut être simplement <hi>en cône</hi> ou <hi>cylindre creux</hi>, comme chez les ptéropodes; elle peut être <hi>spirivalve</hi> ou <hi>tur binée</hi>, c’est-à-dire formée d’un <hi>axe</hi> ou <hi>columelle</hi> autour de laquelle s’enroule la partie enveloppante dite <hi>spire</hi>, ouverte au dehors par un large orifice de formes variées appelé <hi>bouche</hi>. C’est ce qu’on observé chez divers gastéropodes dits <hi>con- chifères</hi>, en raison de la disposition de leur coquille. Chez les <hi>bivalves</hi>, la coquille peut être <hi>équivalve</hi> ou <hi>inéqui- valve</hi> ; chaque valve porte à sa face interne une ou deux <hi>impressions</hi> d’attaches musculaires, selon que l’animal est <hi>monomyaire ondimyaire</hi>; elle présente aussi, près de la circonférence, <hi>l’impression palléale</hi>, marquant toute la portion qui adhérait fortement au manteau. La <hi>charnière</hi> est le point de jonction ou d’articulation des deux valves; elle présente un ou plusieurs ligaments brunâtres ou gris, formés de fibres élastiques très-adhérentes, qui déterminent l’ouverture des valves lorsque les muscles cessent de se contracter. La charnière présente souvent, sur chaque valve, des <hi>dents</hi> ou <hi>pointes</hi>, ou lames saillantes qui s’engrènent dans des facettes correspondantes de l’autre valve, et permettent de distinguer celles-ci en droite et en gauche. La coquille se compose de trois couches : 1° <hi>L’épiderme</hi>, ou <hi>periostracum</hi>, couche brunâtre ou verdâtre extérieure, se détachant en lamelles irrégulières d’aspect corné. 3° Le <hi>têt</hi> ou <ref target="test">test</ref> (V. ce mot) proprement dit. Celui-ci est formé de petits prismes disposés les uns à côté des autres perpendiculairement à la surface de la coquille. Chaque prisme est moins long que la coquille n’est épaisse, et ils s’enchevêtrent régulièrement par leurs extrémités taillées en pointe. Il résulte de là que, sur une coupe transversale du test, le diamètre des prismes paraît très- inégal; cette coupe montre que leur forme est régulière, prismatique à cinq ou six pans, comme des cellules épithéliales pavimenteuses ; cé qui a fait dire à tort que les coquilles étaient formées de. cellules incrustées de calcaire. Ces prismes se brisent en travers, parallèlement à la surface de la coquille, avec beaucoup de facilité. Ils sont composés d’une trame organique unie à des sels calcaires, des carbonates surtout. Ils peuvent offrir, d’un groupe à l’autre, des dispositions très-diverses. 3? La <hi>nacre</hi>, ou couche interne irisée, est formée dé prismes beaucoup plus petits que ceux de la couche pierreuse ou testacée èt pourvus d’une ligne centrale plus foncée que le reste. Ils sont disposés très-obliquement par rapport à la surface du test et viennent se terminer par une extrémité amincie conique. De l’imbrication ou superposition de leurs extrémités à des distances peu considérables, résultent de fines stries qui réfléchissent la lumière à la manière des lames minces ou des surfaces striées, et produisent ici le phénomène de décomposition de la lumière connu sous le nom <hi>Ai interférence</hi>. De là les teintes irisées de la nacre et la possibilité de les reproduire sur la cireou la gélatine coulée dans le creux des coquilles.</sense>
         <sense>— <term>Coquille d’œuf</term>. V. <ref target="œuf">Œuf</ref>.</sense>
       </entry>
       <entry xml:id="cor">
         <form><orth>Cor</orth>. s. m.</form>
         <dictScrap>
-          <etym>de <hi>cornu</hi>, corne; <hi>clavus, gemursa</hi>, </etym>
+          <etym>de <hi>cornu</hi>, corne;</etym>
+          <foreign xml:lang="lat">clavus</foreign>
+          <foreign xml:lang="lat">gemursa</foreign>
           <foreign xml:lang="deu">Leichdorn</foreign>
           <foreign xml:lang="deu">Hühnerauge</foreign>
           <foreign xml:lang="eng">corn</foreign>
@@ -41753,15 +41759,15 @@
       <entry xml:id="coraco-claviculaire">
         <form><orth>Coraco-claviculaire</orth>. adj. et s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">coraco-clamcularis</foreign>
-          <etym>omoclaviculaire</etym>
+          <foreign xml:lang="lat">coraco-clavicularis</foreign>
+          <ref type="syn">omoclaviculaire</ref>
         </dictScrap>
         <sense n="1">Nom d’un ligament composé supérieurement de deux faisceaux : l’un, interne, fixé à la tubérosité que présente en dehors la face inférieure de la clavicule ; l’autre, externe, attaché à une ligne qui, de cette même tubérosité, se porte à l’extrémité de la clavicule. Inférieurement, ces deux faisceaux s’insèrent à la partie postérieure et externe de l’apophyse coracoïde. On les décrit souvent comme formant chacun un ligament, sous les noms de <hi>ligament candide</hi> et <hi>ligament trapézdide</hi>.</sense>
       </entry>
       <entry xml:id="coraco-huméral">
         <form><orth>Coraco-huméral</orth>. adj. et s. m.</form>
         <sense n="1">Ligament implanté au bord externe de l’apophyse coracoïde et à la partie antérieure de la grosse tubérosité de l’humérus.</sense>
-        <sense>— <term>Muscle coraco-huméral</term>. V. <ref>Cobaco-bbachial</ref>. .</sense>
+        <sense>— <term>Muscle coraco-huméral</term>. V. <ref target="coraco-brachial">Coraco-brachial</ref>. .</sense>
       </entry>
       <entry xml:id="coraco-hyoïdien">
         <form><orth>Coraco-hyoïdien</orth>.</form>
@@ -41777,14 +41783,14 @@
           <foreign xml:lang="ita">coracoideo</foreign>
           <foreign xml:lang="spa">coracoideo</foreign>
         </dictScrap>
-        <sense n="1">Nom donné par Galien, et conservé depuis, à l’apophyse qui termine en dehors le bord supérieur ou cervical de l’<ref>omoplate</ref> (V. ce mot), parce qu’elle a quelque ressemblance avec le bec du corbeau.</sense>
+        <sense n="1">Nom donné par Galien, et conservé depuis, à l’apophyse qui termine en dehors le bord supérieur ou cervical de l’<ref target="omoplate">omoplate</ref> (V. ce mot), parce qu’elle a quelque ressemblance avec le bec du corbeau.</sense>
       </entry>
       <entry xml:id="coracoïdien">
         <form><orth>Coracoïdien</orth>, IENNE. adj.</form>
         <dictScrap>
           <foreign xml:lang="lat">coracoideus</foreign>
         </dictScrap>
-        <sense n="1"><term>Ligament coracdidien</term>, ainsi appelé parce qu’il avoisine l’apophyse coracoïde ; il convertit en trou l’échancrure du bord supérieur de l’omoplate.</sense>
+        <sense n="1"><term>Ligament coracoïdien</term>, ainsi appelé parce qu’il avoisine l’apophyse coracoïde ; il convertit en trou l’échancrure du bord supérieur de l’omoplate.</sense>
       </entry>
       <entry xml:id="coraco-radial">
         <form><orth>Coraco-radial</orth>. adj.</form>
@@ -41793,10 +41799,10 @@
       <entry xml:id="corail">
         <form><orth>Corail</orth>, s. m.</form>
         <dictScrap>
-          <foreign xml:lang="lat">Corallium rubrum</foreign>
+          <foreign xml:lang="lat">Corallium rubrum (Lamarck)</foreign>
           <foreign xml:lang="deu">Koralle</foreign>
           <foreign xml:lang="eng">coral</foreign>
-          <foreign xml:lang="ita">coralio</foreign>
+          <foreign xml:lang="ita">corallo</foreign>
           <foreign xml:lang="spa">coral</foreign>
           <foreign resp="#FR" xml:lang="grc">κοράλλιον</foreign>
         </dictScrap>
@@ -41804,7 +41810,7 @@
         <graphic url="BIUSante_37020d_301-400-img/image21.jpeg"/>
         <sense n="1">L’axe pierreux de certains polypes de l’ordre des gorgonaires (Fig. 107), fixé au-dessous des rochers sous-marins, sous la forme d’arbuscules plus ou moins, branchus, d’un rouge éclatant. Lorsqu’on le retire de l’eau, chaque branche pierreuse est couverte d’une espèce d’écorce charnue renfermant une multitude de petits polypes blanchâtres, à huit tentacules frangés. La matière calcaire qui incruste leurs tissus constitue une tige qui s’accroît de plus en plus par l’addition de couches nouvelles.</sense>
         <sense>— Le corail a été préconisé comme tonique, absorbant, astringent, etc·, mais il ne contient que du carbonate de chaux et un peu de gélatine ; on ne l’emploie plus que dans les poudres ou opiats dentifrices.</sense>
-        <sense>== <term>Corail des jardins</term>. V. Poi- VRE <hi>de Guinée</hi>.</sense>
+        <sense>== <term>Corail des jardins</term>. V. <xr><ref target="poivre">Poivre</ref> de Guinée</xr>.</sense>
       </entry>
       <entry xml:id="coralliaires">
         <form><orth>Coralliaires</orth> ou <orth>Corallidés</orth>. s. m. pl.</form>
@@ -41832,7 +41838,9 @@
       <entry xml:id="corde">
         <form><orth>Corde</orth>. s. f.</form>
         <dictScrap>
-          <etym xml:lang="grc"><hi>funis, funiculus</hi>, du latin <hi>chorda</hi>, dérivé de χορόη, qui signifie <hi>intestin</hi>, et, par suite, corde d’instrument de musique, parce que ces sortes de cordes sont faites d’intestins d’animaux </etym>
+          <foreign xml:lang="lat">funis</foreign>
+          <foreign xml:lang="lat">funiculus</foreign>
+          <etym>du latin <hi>chorda</hi>, dérivé de χορόη, qui signifie <hi>intestin</hi>, et, par suite, corde d’instrument de musique, parce que ces sortes de cordes sont faites d’intestins d’animaux </etym>
           <foreign xml:lang="deu">Saite</foreign>
           <foreign xml:lang="deu">Schnur</foreign>
           <foreign xml:lang="eng">cord</foreign>
@@ -41842,28 +41850,29 @@
         <sense n="1">— <term>Corde dorsale</term>. V. <ref target="notocorde">Notocorde</ref>.</sense>
         <sense>— <term>Corde du ligament cervical</term>. V. <ref target="encolure">Encolure</ref>.</sense>
         <sense>— <term>Corde ligamenteuse de Weitbrecht</term>. V. <ref target="ligament">Ligament</ref>.</sense>
-        <sense>— <term>Corde du tympan</term> (<hi>funiculus tympani</hi>). V. <ref target="facial">Facial</ref> (<hi>Nerf</hi>).</sense>
-        <sense>— <term>Cordes vocales <hi>ou</hi> de Ferrein</term>. V. <ref target="glotte">Glotte</ref>.</sense>
+        <sense>— <term>Corde du tympan</term> (<foreign xml:lang="lat">funiculus tympani</foreign>). V. <ref target="facial">Facial</ref> (<rs>Nerf</rs>).</sense>
+        <sense>— <term>Cordes vocales</term> <hi>ou</hi> <term><ex>cordes</ex> de Ferrein</term>. V. <ref target="glotte">Glotte</ref>.</sense>
         <sense>— <term>Cordes sonores</term>. Les canaux demi-circulaires membraneux de l’oreille interne.</sense>
-        <sense>— <term>Corde spinale</term> ou <term>Cordon spinal</term> [angl, <hi>spinal cord</hi>). La moelle épinière.</sense>
-        <sense>== En pathologie, <hi>corde</hi> (<hi>chorda</hi>), engorgement oblong et plus ou moins douloureux de l’urèthre, qui survient souvent dans la blennorrhagie.</sense>
-        <sense>== En vétérinaire, <hi>corde de farcin</hi>, engorgement des vaisseaux lymphatiques sous-cutanés, qui ressemble à une corde.</sense>
+        <sense>— <term>Corde spinale</term> ou <ref type="syn">Cordon spinal</ref> [angl, <foreign xml:lang="eng">spinal cord</foreign>). La moelle épinière.</sense>
+        <sense>== En pathologie, <term>corde</term> (<foreign xml:lang="lat">chorda</foreign>), engorgement oblong et plus ou moins douloureux de l’urèthre, qui survient souvent dans la blennorrhagie.</sense>
+        <sense>== En vétérinaire, <term>corde de farcin</term>, engorgement des vaisseaux lymphatiques sous-cutanés, qui ressemble à une corde.</sense>
       </entry>
       <entry xml:id="cordé">
         <form><orth>Cordé</orth>, ÉE. adj.</form>
         <sense n="1">En forme de corde.</sense>
-        <sense>— vulgairement, <hi>chaudepisse cordée</hi>, blennorrhagie dans laquelle la verge ne peut être redressée à cause de la violence de l’inflammation, qui s’oppose à l’extension de l’urèthre, tandis que le corps caverneux s’allonge comme à l’ordinaire. De cette extension inégale résulte une courbure très-prononcée déjà verge vers sa surface-inférieure, avec sensation de déchirement dans toute la partie engorgée, et surtout au filet.</sense>
+        <sense>— vulgairement, <term>chaudepisse cordée</term>, blennorrhagie dans laquelle la verge ne peut être redressée à cause de la violence de l’inflammation, qui s’oppose à l’extension de l’urèthre, tandis que le corps caverneux s’allonge comme à l’ordinaire. De cette extension inégale résulte une courbure très-prononcée déjà verge vers sa surface-inférieure, avec sensation de déchirement dans toute la partie engorgée, et surtout au filet.</sense>
         <sense>== En vétérinaire: Le flanc est dit <hi>cordé</hi>, quand le muscle ilio-abdominal, ou petit oblique, très-apparent, forme une espèce de corde traversant obliquement cette région. Le flanc cordé est un indice de souffrances abdominales ou le résultat de la maigreur.</sense>
-        <sense>== Beaucoup disent, mais à tort, <hi>cordé</hi> comme synonyme de <hi>cordiforme</hi>.</sense>
+        <sense>== Beaucoup disent, mais à tort, <hi>cordé</hi> comme synonyme de <ref type="syn">cordiforme</ref>.</sense>
       </entry>
       <entry xml:id="cordeau">
         <form><orth>Cordeau</orth>, s. m.</form>
-        <sense n="1">A l’entrée de l’aqueduc de Sylvius, en avant et en haut, existe une petite bandelette médullaire blanche, transversale, c’est le <hi>levier</hi> ou <hi>poutre</hi> (<hi>vectis seu trabecula</hi>), qui est séparée en deux moitiés par deux filets médullaires dirigés d’avant en arrière, et immédiatement appliqués l’un contre l’autre dans le milieu : c’est là le <hi>cordeau</hi> (<hi>amussis</hi>, Bergmann), qui dépend de la commissure postérieure. Au milieu du couvercle de l’aqueduc apparaît un corps conique allongé, ayant son sommet dirigé en arrière, et lui-même sillonné dans le milieu. G’est le <hi>cône</hi> (<hi>conus, corpus coniforme, acus, carina, seu plumula</hi>), au devant duquel se trouvent, de chaque côté, des cordons délicats qui sont le <hi>sistre</hi> ou <hi>harmonomètre</hi> (<hi>plumula, harmonometrum seu sistrum</hi>, Bergmann). Celui-ci se continue avec <hi>Vorgane pneumatique</hi> (<hi>organum pneumaticum</hi>, Bergmann), situé dans un enfoncement latéral du canal appelé <hi>recessus cymbiformis seu conchoidcs</hi>, au bord externe du sistre, depuis la poutre jusqu’à l’extrémité postérieure et inférieure de l’aqueduc.</sense>
+        <sense n="1">A l’entrée de l’aqueduc de Sylvius, en avant et en haut, existe une petite bandelette médullaire blanche, transversale, c’est le <hi>levier</hi> ou <hi>poutre</hi> (<hi>vectis seu trabecula</hi>), qui est séparée en deux moitiés par deux filets médullaires dirigés d’avant en arrière, et immédiatement appliqués l’un contre l’autre dans le milieu : c’est là le <hi>cordeau</hi> (<foreign xml:lang="lat">amussis</foreign>, Bergmann), qui dépend de la commissure postérieure. Au milieu du couvercle de l’aqueduc apparaît un corps conique allongé, ayant son sommet dirigé en arrière, et lui-même sillonné dans le milieu. G’est le <hi>cône</hi> (<hi>conus, corpus coniforme, acus, carina, seu plumula</hi>), au devant duquel se trouvent, de chaque côté, des cordons délicats qui sont le <hi>sistre</hi> ou <hi>harmonomètre</hi> (<hi>plumula, harmonometrum seu sistrum</hi>, Bergmann). Celui-ci se continue avec <hi>Vorgane pneumatique</hi> (<hi>organum pneumaticum</hi>, Bergmann), situé dans un enfoncement latéral du canal appelé <hi>recessus cymbiformis seu conchoidcs</hi>, au bord externe du sistre, depuis la poutre jusqu’à l’extrémité postérieure et inférieure de l’aqueduc.</sense>
       </entry>
       <entry xml:id="cordial">
         <form><orth>Cordial</orth>, ALE. adj.</form>
         <dictScrap>
-          <etym>de <hi>cor</hi>, cœur, <hi>cardiacus</hi></etym>
+          <etym>de <hi>cor</hi>, cœur,</etym>
+          <foreign xml:lang="lat">cardiacus</foreign>
           <foreign xml:lang="eng">cordial</foreign>
           <foreign xml:lang="ita">cordiale</foreign>
           <foreign xml:lang="spa">cordial</foreign>
@@ -41876,30 +41885,31 @@
         <dictScrap>
           <foreign xml:lang="lat">cordiformis</foreign>
         </dictScrap>
-        <sense n="1">Qui a la forme d’un cœur : <hi>feuilles cordiformes</hi>.</sense>
+        <sense n="1">Qui a la forme d’un cœur : <term>feuilles cordiformes</term>.</sense>
       </entry>
       <entry xml:id="cordon">
         <form><orth>Cordon</orth>, s. m.</form>
         <dictScrap>
-          <etym>dimin. de <hi>corde ; funiculus</hi></etym>
+          <etym>dimin. de <hi>corde</hi> ;</etym>
+          <foreign xml:lang="lat">funiculus</foreign>
           <foreign xml:lang="deu">Strang</foreign>
           <foreign xml:lang="eng">string</foreign>
           <foreign xml:lang="ita">cordone</foreign>
           <foreign xml:lang="spa">cordon</foreign>
         </dictScrap>
         <sense n="1">En anatomie et en botanique, certaines parties qui ont de la ressemblance avec une petite corde.</sense>
-        <sense>— En anatomie, <hi>cordons nerveux</hi>, les principales divisions d’ün nerf.</sense>
+        <sense>— En anatomie, <term>cordons nerveux</term>, les principales divisions d’ün nerf.</sense>
         <sense>— <term>Cordon ombilical</term>. V. <ref target="ombilical">Ombilical</ref>.</sense>
         <sense>— <term>Chute du cordon ombilical</term>. V. <ref target="prolapsus">Prolapsus</ref>.</sense>
         <sense>— <term>Cordon spermatique</term>. V. <ref target="spermatique">Spermatique</ref>.</sense>
-        <sense>== En botanique, <hi>cordon ombilical</hi>. V. <ref target="podosperme">Podosperme</ref>.</sense>
+        <sense>== En botanique, <term>cordon ombilical</term>. V. <ref target="podosperme">Podosperme</ref>.</sense>
         <sense>— <term>Cordon pistillaire</term>. Un ou plusieurs filets qui s’étendent du style aux ovules.</sense>
-        <sense>— <term>Petit <hi>ou</hi> gros cordon</term>. V. <ref target="ichthyocolle">Ichthyocolle</ref>.</sense>
-        <sense>== En hygiène, <hi>Cordon sanitaire</hi>. Ordre de mesures qui consiste à placer, dans le cas d’épidémie, une rangée de troupes ou d’autres agents de l’autorité autour d’une ville ou sur les confins d’une contrée, pour empêcher le passage des individus ou le transport des objets susceptibles de transmettre telle ou telle maladie contagieuse. Ce moyen n’est plus guère appliqué qu’en hygiène vétérinaire, dans le cas d’épizootie.</sense>
+        <sense>— <term>Petit <ex>cordon</ex></term> <hi>ou</hi> <term>gros cordon</term>. V. <ref target="ichthyocolle">Ichthyocolle</ref>.</sense>
+        <sense>== En hygiène, <term>cordon sanitaire</term>. Ordre de mesures qui consiste à placer, dans le cas d’épidémie, une rangée de troupes ou d’autres agents de l’autorité autour d’une ville ou sur les confins d’une contrée, pour empêcher le passage des individus ou le transport des objets susceptibles de transmettre telle ou telle maladie contagieuse. Ce moyen n’est plus guère appliqué qu’en hygiène vétérinaire, dans le cas d’épizootie.</sense>
       </entry>
       <entry xml:id="cordon2">
         <form><orth>Cordon</orth> (<rs>Le</rs>).</form>
-        <sense n="1">V. <ref target="avant-lait">Avant-lait</ref> et <ref>Entrefesses</ref>.</sense>
+        <sense n="1">V. <ref target="avant-lait">Avant-lait</ref> et <ref target="entre-fesses"><choice><sic>Entrefesses</sic><corr>Entre-fesses</corr></choice></ref>.</sense>
       </entry>
       <entry xml:id="coré">
         <form><orth>Coré</orth>. s. f.</form>
@@ -41934,7 +41944,7 @@
       </entry>
       <entry xml:id="corédiastase">
         <form><orth>Corédiastase</orth>. s. f.</form>
-        <sense n="1">V. <ref>Gorédiastole</ref>.</sense>
+        <sense n="1">V. <ref target="corédiastole">Corédiastole</ref>.</sense>
       </entry>
       <entry xml:id="corédiastole">
         <form><orth>Corédiastole</orth>, s. f.</form>
@@ -41983,7 +41993,7 @@
       </entry>
       <entry xml:id="corette">
         <form><orth>Corette</orth>. s. f.</form>
-        <sense n="1">— <term>Corette potagère</term> ou <term>mélochie</term> (<hi>Cor- chorus olitorius</hi>, L.). Plante d’Egypte, de la famille des tiliacées, cultivée aussi en Asie et en Amérique pour ses feuilles qui sont alimentaires.</sense>
+        <sense n="1">— <term>Corette potagère</term> ou <ref type="syn">mélochie</ref> (<foreign xml:lang="lat">Corchorus olitorius</foreign>, L.). Plante d’Egypte, de la famille des tiliacées, cultivée aussi en Asie et en Amérique pour ses feuilles qui sont alimentaires.</sense>
       </entry>
       <entry xml:id="coriamyrtine">
         <form><orth>Coriamyrtine</orth>. s. f.</form>
@@ -41999,7 +42009,7 @@
           <foreign xml:lang="spa">coriandro</foreign>
           <foreign resp="#FR" xml:lang="grc">κόριον</foreign>
         </dictScrap>
-        <sense n="1">Genre de plantes (pentandrie digynie, L., ombellifères, J.) dont une espèce, la <hi>coriandre commune</hi> (<hi>Coriandrum sativum</hi>, L.), indigène, a été employée en médecine. Ses semences,
+        <sense n="1">Genre de plantes (pentandrie digynie, L., ombellifères, J.) dont une espèce, la <term>coriandre commune</term> (<foreign xml:lang="lat">Coriandrum sativum</foreign>, L.), indigène, a été employée en médecine. Ses semences,
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=372" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0372/full/full/0/default.jpg" n="0358"/>
            globuleuses, grisâtres, du volume d’un grain de plomb, marquées de petites lignes terminées par un léger renflement, d’une odeur désagréable quand la plante est fraîche, deviennent, par la dessiccation, aromatiques et d’une saveur piquante et agréable : elles agissent comme stimulantes et carminatives (2 à 4 grammes en poudre; le double en infusion).</sense>
       </entry>
@@ -42028,7 +42038,7 @@
       </entry>
       <entry xml:id="cornachine">
         <form><orth>Cornachine</orth>. adj.</form>
-        <sense n="1">f. V. <xr><ref>Poudre</ref> cornachine</xr>.</sense>
+        <sense n="1">f. V. <xr><ref target="poudre">Poudre</ref> cornachine</xr>.</sense>
       </entry>
       <entry xml:id="cornage">
         <form><orth>Cornage</orth>, s. m.</form>
@@ -42039,14 +42049,14 @@
           <foreign xml:lang="eng">wheezing</foreign>
           <foreign xml:lang="ita">alitare</foreign>
           <foreign xml:lang="spa">cornaje</foreign>
-          <etym>sifflage</etym>
+          <ref type="syn">sifflage</ref>
         </dictScrap>
-        <sense n="1">Bruit que certains animaux font entendre en respirant, et que l’on a comparé à celui que produit une corne dans laquelle on souffle. Ce n^est pas une maladie, mais un symptôme de diverses affections de l’appareil respiratoire. Souvent le cornage survient dans les catarrhes aigus, nasal ou pulmonaire, dans la gourme, etc.; il tient encore à l’engouement des voies aérifères, et disparaît avec lui. D’autres fois, ces catarrhes étant devenus chroniques et ayant déterminé l’induration de la membrane muqueuse affectée, l’animal, quoique bien portant en apparence, reste <hi>cornard</hi> toute sa vie. La paralysie de la septième paire et, par suite, des muscles du nez, les lésions des os et des cartilages de cet appareil, le causent aussi. Il en est de même des lésions diverses et des ossifications avec épaississement des anneaux de la trachée. Quelquefois aussi le cornage tient à un corps étranger qui gêne mécaniquement la respiration, ou même à un vice de conformation, ou à une paralysie avec atrophie des muscles du larynx. Le cornage est, selon la nature de ces lésions, divisé en <hi>aigu</hi> et en <hi>chronique</hi>. Ce dernier est un vice rédhibitoire.</sense>
+        <sense n="1">Bruit que certains animaux font entendre en respirant, et que l’on a comparé à celui que produit une corne dans laquelle on souffle. Ce n^est pas une maladie, mais un symptôme de diverses affections de l’appareil respiratoire. Souvent le cornage survient dans les catarrhes aigus, nasal ou pulmonaire, dans la gourme, etc.; il tient encore à l’engouement des voies aérifères, et disparaît avec lui. D’autres fois, ces catarrhes étant devenus chroniques et ayant déterminé l’induration de la membrane muqueuse affectée, l’animal, quoique bien portant en apparence, reste <hi>cornard</hi> toute sa vie. La paralysie de la septième paire et, par suite, des muscles du nez, les lésions des os et des cartilages de cet appareil, le causent aussi. Il en est de même des lésions diverses et des ossifications avec épaississement des anneaux de la trachée. Quelquefois aussi le cornage tient à un corps étranger qui gêne mécaniquement la respiration, ou même à un vice de conformation, ou à une paralysie avec atrophie des muscles du larynx. Le cornage est, selon la nature de ces lésions, divisé en <term><ex>cornage</ex> aigu</term> et en <term><ex>cornage</ex> chronique</term>. Ce dernier est un vice rédhibitoire.</sense>
       </entry>
       <entry xml:id="cornard">
         <form><orth>Cornard</orth> ou mieux <orth>Corneur</orth>. adj.</form>
         <dictScrap>
-          <foreign xml:lang="lat">siffleur</foreign>
+          <ref type="syn">siffleur</ref>
         </dictScrap>
         <sense n="1">Sedit du cheval qui est atteint de cornage, qui souffle bruyamment des narines, et qui a la respiration courte.</sense>
       </entry>
@@ -42054,7 +42064,7 @@
         <form><orth>Corne</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">cornu</foreign>
-          <damage xml:lang="grc"/>
+          <foreign xml:lang="grc">κέρας</foreign>
           <foreign xml:lang="deu">Horn</foreign>
           <foreign xml:lang="eng">horn</foreign>
           <foreign xml:lang="ita">corno</foreign>
@@ -42062,20 +42072,20 @@
         </dictScrap>
         <sense n="1">Substance compacte, blanchâtre ou ' noirâtre, terne ou luisante, dure ou molle, filamenteuse ou laminaire, qui revêt extérieurement certaines parties du corps de différents animaux (V. <ref target="kératine">Kératine</ref>). La corne constitue les sabots, les ongles, les onglons, les griffes, les ergots, le bec, les cornes de la tête de quelques ruminants, les châtaignes du cheval, et les cornes pathologiques. V. <ref target="corné">Corné</ref>.</sense>
         <sense>== En zoologie, éminence conique et duré qui naît sur le front des ruminants, sur le nez du rhinocéros. Elle est supportée par une apophyse osseuse du frontal appelée vulgairement <hi>cheville</hi> ou <hi>cor- nillon</hi>, recouverte par un prolongement dermique très- vasculaire ou matrice de la corne, adhérente au périoste.</sense>
-        <sense>— <term>Cornes de cerf ου</term>. <hi>bois de cerf</hi>. Exostoses qui poussent chaque année sur le front du cerf, et qui s’en détachent aussi chaque année. Cette corne, caduque, ne présente qu’une tige simple et droite appelée <hi>dague</hi>, lorsqu’elle commence à pousser; plus tard, cette tige prend le nom de <hi>merrain</hi>, et donne naissance à des branches latérales arrondies (<hi>andouillers</hi>) ou aplaties (<hi>empaumures</hi>), suivant les espèces. Les rugosités, du bois portent le nom de <hi>per- lures</hi>; le bourrelet de son point d’union avec l’apophyse frontale s’appelle <hi>meule</hi>, et les grains irréguliers qui forment la meule sont nommés <hi>pierrures</hi>. Le bois manque dans les femelles, excepté dans l’espèce du renne. Cet organe, n’étant qu’un prolongement des apophyses ou bosses frontales, a la structure et la composition du tissu osseux. Il est recouvert, pendant son accroissement, d’une peau tendre, velue, sensible et très-vasculaire, qui perd peu à peu sa vascularité, se mortifie et se détache en lambeaux. Alors ce prolongement osseux se nécrose, se sépare du tubercule frontal resté vasculaire, et devient ainsi caduc. La corne ou bois de cerf est l’analogue de l’apophyse frontale persistante pleine (antilopes) ou creuse (bœufs, moutons, etc.), qui chez les autres ruminants est recouverte d’une matrice unguéale ou cornée portant la corne proprement dite, appelée creuse ou persistante, matrice dont manque le cerf. Elle a la composition des os.</sense>
-        <sense>== <term>Corne de cerf</term> [<hi>cornu cervi</hi>, indiqué dans les formules par l’abréviation <hi>C.C</hi>.; all. <hi>Hirschhorn</hi>, angl, <hi>bucks-horn</hi>, it. <hi>corno di cervo</hi>). Râpée, elle sert à préparer, avec l’eau bouillante, une boisson gélatineuse adoucissante; calcinée, elle entre dans la décoction blanche de Sydenham. La <hi>corne de cerf calcinée</hi> est du phosphate de chaux qu’on obtient en calcinant jusqu’au blanc le résidu de la distillation de la corne de cerf (<hi>cornu cervi ad albedinem ustum</hi>). V. <ref target="cerf">Cerf</ref>.</sense>
-        <sense>— <term>Bétesa cornes</term>. V. <ref target="bête">Bête</ref>.</sense>
+        <sense>— <term>Cornes de cerf</term> ου <ref type="syn">bois de cerf</ref>. Exostoses qui poussent chaque année sur le front du cerf, et qui s’en détachent aussi chaque année. Cette corne, caduque, ne présente qu’une tige simple et droite appelée <hi>dague</hi>, lorsqu’elle commence à pousser; plus tard, cette tige prend le nom de <hi>merrain</hi>, et donne naissance à des branches latérales arrondies (<hi>andouillers</hi>) ou aplaties (<hi>empaumures</hi>), suivant les espèces. Les rugosités, du bois portent le nom de <hi>per- lures</hi>; le bourrelet de son point d’union avec l’apophyse frontale s’appelle <hi>meule</hi>, et les grains irréguliers qui forment la meule sont nommés <hi>pierrures</hi>. Le bois manque dans les femelles, excepté dans l’espèce du renne. Cet organe, n’étant qu’un prolongement des apophyses ou bosses frontales, a la structure et la composition du tissu osseux. Il est recouvert, pendant son accroissement, d’une peau tendre, velue, sensible et très-vasculaire, qui perd peu à peu sa vascularité, se mortifie et se détache en lambeaux. Alors ce prolongement osseux se nécrose, se sépare du tubercule frontal resté vasculaire, et devient ainsi caduc. La corne ou bois de cerf est l’analogue de l’apophyse frontale persistante pleine (antilopes) ou creuse (bœufs, moutons, etc.), qui chez les autres ruminants est recouverte d’une matrice unguéale ou cornée portant la corne proprement dite, appelée creuse ou persistante, matrice dont manque le cerf. Elle a la composition des os.</sense>
+        <sense>== <term>Corne de cerf</term> [<foreign xml:lang="lat">cornu cervi</foreign>, indiqué dans les formules par l’abréviation <hi>C.C</hi>.; all. <foreign xml:lang="deu">Hirschhorn</foreign>, angl, <foreign xml:lang="eng">bucks-horn</foreign>, it. <foreign xml:lang="ita">corno di cervo</foreign>). Râpée, elle sert à préparer, avec l’eau bouillante, une boisson gélatineuse adoucissante; calcinée, elle entre dans la décoction blanche de Sydenham. La <term>corne de cerf calcinée</term> est du phosphate de chaux qu’on obtient en calcinant jusqu’au blanc le résidu de la distillation de la corne de cerf (<hi>cornu cervi ad albedinem ustum</hi>). V. <ref target="cerf">Cerf</ref>.</sense>
+        <sense>— <term>Bêtes à cornes</term>. V. <ref target="bête">Bête</ref>.</sense>
         <sense>— <term>Catarrhe des cornes</term>: V. <ref target="catarrhe">Catarrhe</ref>.</sense>
-        <sense>== En pathologie, <hi>cornes cutanées</hi>. Productions morbides qui s’observent chez l’homme, surtout chez les vieillards, à la face, aux mains et autres parties du corps habituellement découvertes; mais on en a vu ailleurs, et même dans la cavité de kystes sébacés volumineux ou tannes, et sur le gland. On en a vu aussi sur les chiens, les chats, etc. Elles peuvent atteindre une longueur de 20 à 25 centimètres, et une largeur de 3 à 5 centimètres à la base. Elles sont grises, brunâtres ou demi-transparentes, d’aspect corné; striées à la surface, assez faciles à déchirer, en long surtout, vers la base, qui est plus molle. Elles sont composées de cellules épithéliales pavimen- teuses, allongées, sans noyaux, peu granuleuses, soudées ensemble; mais cette soudure n’est jamais complète', comme dans les ongles, sabots et cornes proprement dites, et l’on peut séparer les cellules par simple dilacération, après un séjour de quelques jours dans l’eau. Ces cellules sont empilées de manière à former des filaments correspondant avec les saillies interposées aux stries de la surface. Ces filaments correspondent, d’autre part, à autant de papilles cutanées hypertrophiées et atteignant une longueur de 1 à 3 millimètres. C’est surtout chez les femmes, après la cessation des règles, qu’ôn les observe. On les a vues récidiver plusieurs fois après l’ablation, ce qui leur a fait appliquer le mot vague de <hi>cancer</hi>.</sense>
-        <sense>== En anatomie, <hi>cornes</hi>, diverses parties plus ou moins saillantes à la surface des organes dont elles dépendent : telles sont les <hi>cornes de l’os hyoïde</hi>; les <hi>grandes</hi> et <hi>petites cornes du cartilage thyréoïde</hi>. V. <ref target="hyoïde">Hyoïde</ref>, <ref target="thyréoïde">Thyréoïde</ref>, etc.</sense>
+        <sense>== En pathologie, <term>cornes cutanées</term>. Productions morbides qui s’observent chez l’homme, surtout chez les vieillards, à la face, aux mains et autres parties du corps habituellement découvertes; mais on en a vu ailleurs, et même dans la cavité de kystes sébacés volumineux ou tannes, et sur le gland. On en a vu aussi sur les chiens, les chats, etc. Elles peuvent atteindre une longueur de 20 à 25 centimètres, et une largeur de 3 à 5 centimètres à la base. Elles sont grises, brunâtres ou demi-transparentes, d’aspect corné; striées à la surface, assez faciles à déchirer, en long surtout, vers la base, qui est plus molle. Elles sont composées de cellules épithéliales pavimen- teuses, allongées, sans noyaux, peu granuleuses, soudées ensemble; mais cette soudure n’est jamais complète', comme dans les ongles, sabots et cornes proprement dites, et l’on peut séparer les cellules par simple dilacération, après un séjour de quelques jours dans l’eau. Ces cellules sont empilées de manière à former des filaments correspondant avec les saillies interposées aux stries de la surface. Ces filaments correspondent, d’autre part, à autant de papilles cutanées hypertrophiées et atteignant une longueur de 1 à 3 millimètres. C’est surtout chez les femmes, après la cessation des règles, qu’ôn les observe. On les a vues récidiver plusieurs fois après l’ablation, ce qui leur a fait appliquer le mot vague de <hi>cancer</hi>.</sense>
+        <sense>== En anatomie, <term>cornes</term>, diverses parties plus ou moins saillantes à la surface des organes dont elles dépendent : telles sont les <term>cornes de l’os hyoïde</term>; les <term>grandes <ex>cornes du cartilage thyréoïde</ex></term> et <term>petites cornes du cartilage thyréoïde</term>. V. <ref target="hyoïde">Hyoïde</ref>, <ref target="thyréoïde">Thyréoïde</ref>, etc.</sense>
         <sense>— <term>Cornes du coccyx</term>, Eminences appartenant au coccyx, et qui s’articulent avec les cornes du sacrum.</sense>
         <sense>— <term>Cornes du sacrum</term>. Petites apophyses de ja partie inférieure et postérieure de cet os.</sense>
-        <sense>— <term>Cornes utérines <hi>ou</hi> de la matrice</term>, ou <term>trompes utérines</term> chez la femme, mais par un abus de mots, car il n’y a que l’utérus des mammifères autres que les singes et la femme qui ait deux cornes.</sense>
-        <sense>— <term>Cornes d’Ammon</term>, ou <term>pieds d’hippocampe<hi> ou d’</hi>hippopotame</term> (Moran). Doux prolongements médullaires qui naissent, l’un à droite, l’autre à gauche, de la partie postérieure du corps calleux, se recourbent sur eux-mêmes, et s’enfoncent dans la partie inférieure des ventricules latéraux du cerveau (V. <ref target="circonvolution">Circonvolution</ref>), où ils se terminent par une extrémité renflée, surmontée de deux ou trois tubercules. Son côté interne, qui est comme crénelé, est le <hi>corps godroné</hi> (<hi>fascia dentata Tarini, margo dentatus</hi>). Sa couche superficielle est blanche (<hi>alveus externus, lamina medullaris</hi>; all. <hi>Muldenblatt</hi>) ; au-dessous est une couche grise, une couche blanche, une autre couche grise, puis
+        <sense>— <term>Cornes utérines</term> <hi>ou</hi> <term><ex>cornes</ex> de la matrice</term>, ou <term>trompes utérines</term> chez la femme, mais par un abus de mots, car il n’y a que l’utérus des mammifères autres que les singes et la femme qui ait deux cornes.</sense>
+        <sense>— <term>Cornes d’Ammon</term>, ou <ref type="syn">pieds d’hippocampe</ref> ou <ref type="syn"><ex>pieds</ex> d’hippopotame</ref> (Moran). Doux prolongements médullaires qui naissent, l’un à droite, l’autre à gauche, de la partie postérieure du corps calleux, se recourbent sur eux-mêmes, et s’enfoncent dans la partie inférieure des ventricules latéraux du cerveau (V. <ref target="circonvolution">Circonvolution</ref>), où ils se terminent par une extrémité renflée, surmontée de deux ou trois tubercules. Son côté interne, qui est comme crénelé, est le <hi>corps godroné</hi> (<hi>fascia dentata Tarini, margo dentatus</hi>). Sa couche superficielle est blanche (<hi>alveus externus, lamina medullaris</hi>; all. <hi>Muldenblatt</hi>) ; au-dessous est une couche grise, une couche blanche, une autre couche grise, puis
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=373" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0373/full/full/0/default.jpg" n="0359"/>
            une autre blanche (<hi>lamina medullär iS profunda</hi> /.all. <hi>Kernblatt</hi>), et enfin la substance grise profonde. (V. <ref target="frangé">Frangé</ref>).</sense>
-        <sense>== En géologie, <hi>Cornes d’Ammon</hi>. V. <ref target="ammonite">Ammonite</ref>.</sense>
-        <sense>== En botanique, fruit du <ref>cornouiller</ref>. V. ce mot.</sense>
+        <sense>== En géologie, <term>Cornes d’Ammon</term>. V. <ref target="ammonite">Ammonite</ref>.</sense>
+        <sense>== En botanique, fruit du <ref target="cornouiller">cornouiller</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="corné">
         <form><orth>Corné</orth>, ÉE. adj.</form>
@@ -42092,15 +42102,15 @@
         <sense>— <term>Couche cornée</term>. V. <ref target="épiderme">Épiderme</ref> et <ref target="peau">Peau</ref>.</sense>
         <sense>— <term>Ichthyose cornée</term>. V. <ref target="ichthyose">Ichthyose</ref>.</sense>
         <sense>— <term>Lame cornée</term>. V. <ref target="strié">Strié</ref>.</sense>
-        <sense>— <term>Productions cornées</term>. V. <xr><ref target="corne">Corne</ref> cutanées</xr> et <ref target="verrue">Verrue</ref>.</sense>
-        <sense>— <term>Tissu corné</term>. Nom générique des ongles, des cornes, des sabots. Le tissu corné est formé de cellules épithéliales pavimenteuses régulièrement empilées, et d’autant plus fortement adhérentes ensemble, que l’on est plus loin de la surface du derme qui les produit (<hi>membrane kératogène</hi>). Elles peuvent même constituer une substance homogène, striée et granuleuse, dans la couche la plus superficielle des organes qui en sont formés, par suite de soudure complète. Pourtant la potasse sépare les unes des autres les cellules en des points où déjà elles semblaient soudées. Dans la corne des grands mammifères, ce qu’on nomme les <hi>tubes cornés</hi> est la portion de corne entourant les longues papilles vasculaires à la surface de la membrane kératogène ; les cellules sont appliquées par leur face parallèlement à ces papilles, tandis que la substance cornée interposée à ces tubes qui logent les papilles est formée de cellules disposées à plat, perpendiculairement à la direction des papilles et des cellules qui leur forment tube. L’aspect strié ou fibreux de la surface des cornes et ongles est dû à des rangées de cel- 1 Iules soudées, saillantes au-dessus des autres suivant la direction des papilles ou des rangées de papilles vasculaires, et se déchirant plus facilement dans ce sens. La couleur noire de la corne est due à des granulations pigmentaires placées dans les cellules, ou plus souvent entre elles. La substance des poils est bien différente de celle de la corne (V. <ref target="poil">Poil</ref>).</sense>
+        <sense>— <term>Productions cornées</term>. V. <xr><ref target="corne">Cornes</ref> cutanées</xr> et <ref target="verrue">Verrue</ref>.</sense>
+        <sense>— <term>Tissu corné</term>. Nom générique des ongles, des cornes, des sabots. Le tissu corné est formé de cellules épithéliales pavimenteuses régulièrement empilées, et d’autant plus fortement adhérentes ensemble, que l’on est plus loin de la surface du derme qui les produit (<hi>membrane kératogène</hi>). Elles peuvent même constituer une substance homogène, striée et granuleuse, dans la couche la plus superficielle des organes qui en sont formés, par suite de soudure complète. Pourtant la potasse sépare les unes des autres les cellules en des points où déjà elles semblaient soudées. Dans la corne des grands mammifères, ce qu’on nomme les <term>tubes cornés</term> est la portion de corne entourant les longues papilles vasculaires à la surface de la membrane kératogène ; les cellules sont appliquées par leur face parallèlement à ces papilles, tandis que la substance cornée interposée à ces tubes qui logent les papilles est formée de cellules disposées à plat, perpendiculairement à la direction des papilles et des cellules qui leur forment tube. L’aspect strié ou fibreux de la surface des cornes et ongles est dû à des rangées de cel- 1 Iules soudées, saillantes au-dessus des autres suivant la direction des papilles ou des rangées de papilles vasculaires, et se déchirant plus facilement dans ce sens. La couleur noire de la corne est due à des granulations pigmentaires placées dans les cellules, ou plus souvent entre elles. La substance des poils est bien différente de celle de la corne (V. <ref target="poil">Poil</ref>).</sense>
         <sense>— <term>Argent corné</term> ou <term>lune cornée</term>. V. <xr><ref target="chlorure">Chlorure</ref> d’argent</xr>.</sense>
       </entry>
       <entry xml:id="cornéal">
         <form><orth>Cornéal</orth>, ALE, ou <orth>Cornéen</orth>, ENNE. adj.</form>
         <sense n="1">Qui concerne la <hi>cornée</hi>.</sense>
         <sense>— <term>Epithélium cornéal</term>. Celui qui recouvre la cornée; se dit par opposition à épithélium conjonctival.</sense>
-        <sense>— <term>Tissu cornéal <hi>ou</hi> cornéen</term>. Celui qui forme la <ref>cornée</ref> (V. ce mot).</sense>
+        <sense>— <term>Tissu cornéal</term> <hi>ou</hi> <term><ex>tissu</ex> cornéen</term>. Celui qui forme la <ref>cornée</ref> (V. ce mot).</sense>
         <sense>== Quelques auteurs ont employé ce mot pour désigner ce qui se rapporte à la <hi>corne</hi> en général; mais il est plus habituellement réservé pour désigner ce qui est relatif à la <hi>cornée</hi>, tandis que les mots <hi>cérati- nien</hi> ou <hi>kératinien</hi> se disent de ce qui concerne les cornes et sabots.</sense>
       </entry>
       <entry xml:id="cornée">
@@ -42113,7 +42123,7 @@
           <foreign xml:lang="ita">cornea</foreign>
           <foreign xml:lang="spa">cornea</foreign>
         </dictScrap>
-        <sense n="1">La plus épaisse des tuniques de l’œil, ainsi nommée parce qu’elle a quelque ressemblance avec de la corne. On distinguait autrefois la <hi>cornée opaque</hi> (<hi>cornea opaca</hi>), ordinairement appelée <ref>sclérotique</ref> (V. ce mot), et la <hi>cornée transparente</hi>, ou <hi>cornée</hi> proprement dite (<hi>cornea pellucida</hi>). Celle-ci est circulaire, transparente, et revêt le cinquième antérieur du globe de l’œil. Enchâssée d.ans la grande ouverture de la <hi>sclérotique</hi>, eHe semble être un segment d’une sphère plus petite, adaptée à une plus grande. 1° Sa face antérieure, convexe, est revêtue d’un prolongement de l’épiderme qui couvre la conjonctive. 2° Au-dessous de ce feuillet se trouve une mince couche de matière amorphe, finement granuleuse, parcourue par un réseau de capillaires en continuité avec ceux de la conjonctive, mais jusqu’au sixième mois environ de la vie intra-utérine seulement. Il s’atrophie alors, et les anses capillaires de la conjonctive n’empiètent ensuite que de 1/2 à 1 millimètre sur la cornée. C’est dans cette couche de matière amorphe que se régénèrent avec la plus grande facilité les capillaires dans diverses sortes d’affections de la cornée, et que se produisent quelquefois des fibres lamineuses et autres éléments anatomiques (V. <ref target="pannus">Pannus</ref>). 3° Vient ensuite le tissu propre de la cornée, tenant intimement à la sclérotique, dont on ne peut le séparer que par violence, même après la macération. Ce tissu de la cornée est constitué par des faisceaux de fibres lamineuses anastomosés, continus avec ceux de la sclérotique : entre eux est une matière amorphe, transparente, solide. Les prétendues lamelles de la cornée sont de production artificieHe. Les éléments de la cornée se gonflent dans l’eau bouillante, puis s’y dissolvent, et la dissolution a les réactions de la chondrine. 4° Après la cornée, vient une membrane amorphe très-solide (<hi>membrane vitreuse de Demours</hi>, ou <hi>de Descemet</hi>), couverte elle-même en dedans d’une couche d’épithélium pavimenteux. Ni celle-ci, ni le tisâu de la cornée proprement dite, ne possèdent de vaisseaux. Des nerfs, provenant des nerf ciliaires, ont été trouvés par Schlemm dans cette membrane, chez le bœuf, etc. Gosselin a démontré que les liquides solubles et non irritants, mis en contact avec l’œil, non-seulement sont entraînés, comme on le sait depuis longtemps, dans le torrent cire culatoire par les vaisseaux de la conjonctive, mais encore pénètrent par imbition dans l’œil en traversant préalablement la cornée et la chambre antérieure, dans laquelle ils séjournent plusieurs heures. Le fait a été constaté par une série d’expériénees faites sur les animaux avec: -l’io- dure de potassium, le lait de chaux, et la belladone, qui ainsi va directement agir sur l’iris, comme lorsqu’on l’applique sur le col de l’utérus, etc. La cornée a sur le vivant, comme sur le cadavre, une perméabilité et une propriété endosmotique des plus prononcées ; et peut-être l’une des conséquences de cette propriété est le passage des larmes par cette voie dans la chambre antérieure, tant pour entretenir la transparence de la cornée que pour procurer la réplétion continuelle des chambres oculaires. Après ,1a mort, le courant se dirige à l’extérieur ; les liquides intra-oculaires s’évaporent, l’œil s’affaisse. Tant que le courant exosmotique a lieu,- la cornée reste transparente; aussitôt qu’il cesse, eBe devient de plus en plus opaque ; alors la cornée s’épaissit considérablement. Fig. 109.</sense>
+        <sense n="1">La plus épaisse des tuniques de l’œil, ainsi nommée parce qu’elle a quelque ressemblance avec de la corne. On distinguait autrefois la <term>cornée opaque</term> (<foreign xml:lang="lat">cornea opaca</foreign>), ordinairement appelée <ref target="sclérotique">sclérotique</ref> (V. ce mot), et la <term>cornée transparente</term>, ou <hi>cornée</hi> proprement dite (<foreign xml:lang="lat">cornea pellucida</foreign>). Celle-ci est circulaire, transparente, et revêt le cinquième antérieur du globe de l’œil. Enchâssée d.ans la grande ouverture de la <hi>sclérotique</hi>, eHe semble être un segment d’une sphère plus petite, adaptée à une plus grande. 1° Sa face antérieure, convexe, est revêtue d’un prolongement de l’épiderme qui couvre la conjonctive. 2° Au-dessous de ce feuillet se trouve une mince couche de matière amorphe, finement granuleuse, parcourue par un réseau de capillaires en continuité avec ceux de la conjonctive, mais jusqu’au sixième mois environ de la vie intra-utérine seulement. Il s’atrophie alors, et les anses capillaires de la conjonctive n’empiètent ensuite que de 1/2 à 1 millimètre sur la cornée. C’est dans cette couche de matière amorphe que se régénèrent avec la plus grande facilité les capillaires dans diverses sortes d’affections de la cornée, et que se produisent quelquefois des fibres lamineuses et autres éléments anatomiques (V. <ref target="pannus">Pannus</ref>). 3° Vient ensuite le tissu propre de la cornée, tenant intimement à la sclérotique, dont on ne peut le séparer que par violence, même après la macération. Ce tissu de la cornée est constitué par des faisceaux de fibres lamineuses anastomosés, continus avec ceux de la sclérotique : entre eux est une matière amorphe, transparente, solide. Les prétendues lamelles de la cornée sont de production artificieHe. Les éléments de la cornée se gonflent dans l’eau bouillante, puis s’y dissolvent, et la dissolution a les réactions de la chondrine. 4° Après la cornée, vient une membrane amorphe très-solide (<hi>membrane vitreuse de Demours</hi>, ou <hi>de Descemet</hi>), couverte elle-même en dedans d’une couche d’épithélium pavimenteux. Ni celle-ci, ni le tisâu de la cornée proprement dite, ne possèdent de vaisseaux. Des nerfs, provenant des nerf ciliaires, ont été trouvés par Schlemm dans cette membrane, chez le bœuf, etc. Gosselin a démontré que les liquides solubles et non irritants, mis en contact avec l’œil, non-seulement sont entraînés, comme on le sait depuis longtemps, dans le torrent cire culatoire par les vaisseaux de la conjonctive, mais encore pénètrent par imbition dans l’œil en traversant préalablement la cornée et la chambre antérieure, dans laquelle ils séjournent plusieurs heures. Le fait a été constaté par une série d’expériénees faites sur les animaux avec: -l’io- dure de potassium, le lait de chaux, et la belladone, qui ainsi va directement agir sur l’iris, comme lorsqu’on l’applique sur le col de l’utérus, etc. La cornée a sur le vivant, comme sur le cadavre, une perméabilité et une propriété endosmotique des plus prononcées ; et peut-être l’une des conséquences de cette propriété est le passage des larmes par cette voie dans la chambre antérieure, tant pour entretenir la transparence de la cornée que pour procurer la réplétion continuelle des chambres oculaires. Après ,1a mort, le courant se dirige à l’extérieur ; les liquides intra-oculaires s’évaporent, l’œil s’affaisse. Tant que le courant exosmotique a lieu,- la cornée reste transparente; aussitôt qu’il cesse, eBe devient de plus en plus opaque ; alors la cornée s’épaissit considérablement. Fig. 109.</sense>
         <graphic url="BIUSante_37020d_301-400-img/image22.jpeg"/>
         <sense>— Section verticale de la sclérotique et de la cornée montrant la continuité de leur tissu. Dans la cornée
           <pb corresp="https://www.biusante.parisdescartes.fr/histmed/medica/page?37020d&amp;p=374" facs="https://www.biusante.parisdescartes.fr/iiif/2/bibnum:37020d:0374/full/full/0/default.jpg" n="0360"/>
@@ -42134,11 +42144,11 @@
         <form><orth>Cornet</orth>, s. m.</form>
         <dictScrap>
           <foreign xml:lang="lat">concha</foreign>
-          <foreign xml:lang="ita">cor netto</foreign>
+          <foreign xml:lang="ita">cornetto</foreign>
           <foreign xml:lang="spa">corneta</foreign>
         </dictScrap>
-        <sense n="1">En anatomie, petite lame osseuse contournée sur elle-même en forme de cornet, et située à l’intérieur des fosses nasales. On compte quatre cornets de chaque côté. Deux de ces cornets sont situés sur le côté de la lame perpendiculaire de l’os ethmoïde, savoir : le <hi>cornet de Morgagni</hi>, qui est le plus élevé, et que Bichat nommait <hi>cornet supérieur</hi>; et un second, situé au-dessous, appelé <hi>cornet moyen</hi> par le même anatomiste, et par d’autres, <hi>cornet ethmo'idal</hi> ou <hi>supérieur</hi>, par opposition avec un troisième, qui est généralement nommé <hi>cornet inférieur</hi>. Le <hi>cornet inférieur</hi>, ou <hi>sous-ethmdidal</hi> (<hi>concha inferior, os turbinatum</hi>), a beaucoup plus d’étendue que les précédents; c’est un os tout à fait distinct, qui, libre comme eux par l’un de ses bords, s’articule par l’autre avec le maxillaire supérieur, l’unguis et le palatin. Il a une forme ovalaire, allongée d’avant en arrière, et se termine en pointe postérieurement. Il concourt à former le méat inférieur et le canal nasal, et à rétrécir l’entrée du sinus maxillaire. Les trois cornets sont placés au côté externe de chaque fosse nasale, et se succèdent de haut en bas. Le quatrième est situé sur le côté de la face antérieure du sphénoïde, à l’entrée des cellules sphénoïdales : on le nomme <hi>cornet sphénoïdal</hi>, ou <hi>cornet de Bertin</hi>.</sense>
-        <sense>== <term>Cornet acoustique</term> (<hi>tubus acusticus, acusticum cornu</hi>; all. <hi>Höhrrohr</hi>, angl. <hi>acoustic-tub</hi>, it. <hi>tromba acustica</hi>). Instrument conique, très-évasé à l’une de ses extrémités pour rassembler une plus grande quantité d’ondes sonores, et resserré à l’autre extrémité en un conduit étroit pour pouvoir être introduit dans le canal auditif externe. En même temps que cet instrument, destiné à remédier à la faiblesse de l’ouïé, rassemble et concentre les ondes sonores, ses parois, ébranlées par les vibrations de l’air, vibrent elles-mêmes et renforcent les sons arrivés- du dehors, qui sont ainsi transmis avec une intensité plus grande à la membrane du tympan et à l’oreille interne. Les cornets acoustiques les plus simples sont aussi les meilleurs, et doivent avoir 19 à 22 centimètres de longueur. Les petits cornets acoustiques, ou plutôt les conques auditives artificielles inventées par J. D. Larrey pour être adaptées au pavillon de l’oreille et cachées par les cheveux, ne produisent que très-peu d’effet. Les parois des cornets ordinaires ayant l’inconvénient de causer une sorte de bourdonnement lorsque les sons se succèdent trop rapidement, Itard a tenté d’y remédier en donnant à ces cornets une forme analogue à celle du conduit auditif lui-même : un pavillon évasé communique par un col étroit à une cavité qui s’ouvre dans un conduit spiroïde terminé par le tube destiné à s’adapter au méat auditif; et deux diaphragmes de baudruche, placés, l’un entre le pavillon et la cavité centrale, l’autre entre celle-ci et l’évasement spiroïde, séparent les trois parties principales du cornet.</sense>
+        <sense n="1">En anatomie, petite lame osseuse contournée sur elle-même en forme de cornet, et située à l’intérieur des fosses nasales. On compte quatre cornets de chaque côté. Deux de ces cornets sont situés sur le côté de la lame perpendiculaire de l’os ethmoïde, savoir : le <term>cornet de Morgagni</term>, qui est le plus élevé, et que Bichat nommait <term>cornet supérieur</term>; et un second, situé au-dessous, appelé <term>cornet moyen</term> par le même anatomiste, et par d’autres, <term>cornet ethmoïdal</term> ou <term><ex>cornet</ex> supérieur</term>, par opposition avec un troisième, qui est généralement nommé <hi>cornet inférieur</hi>. Le <term>cornet inférieur</term>, ou <term><ex>cornet</ex> sous-ethmoïdal</term> (<foreign xml:lang="lat">concha inferior</foreign>, <foreign xml:lang="lat">os turbinatum</foreign>), a beaucoup plus d’étendue que les précédents; c’est un os tout à fait distinct, qui, libre comme eux par l’un de ses bords, s’articule par l’autre avec le maxillaire supérieur, l’unguis et le palatin. Il a une forme ovalaire, allongée d’avant en arrière, et se termine en pointe postérieurement. Il concourt à former le méat inférieur et le canal nasal, et à rétrécir l’entrée du sinus maxillaire. Les trois cornets sont placés au côté externe de chaque fosse nasale, et se succèdent de haut en bas. Le quatrième est situé sur le côté de la face antérieure du sphénoïde, à l’entrée des cellules sphénoïdales : on le nomme <term>cornet sphénoïdal</term>, ou <term>cornet de Bertin</term>.</sense>
+        <sense>== <term>Cornet acoustique</term> (<foreign xml:lang="lat">tubus acusticus</foreign>, <foreign xml:lang="lat">acusticum cornu</foreign>; all. <foreign xml:lang="deu">Höhrrohr</foreign>, angl. <foreign xml:lang="eng">acoustic-tub</foreign>, it. <foreign xml:lang="ita">tromba acustica</foreign>). Instrument conique, très-évasé à l’une de ses extrémités pour rassembler une plus grande quantité d’ondes sonores, et resserré à l’autre extrémité en un conduit étroit pour pouvoir être introduit dans le canal auditif externe. En même temps que cet instrument, destiné à remédier à la faiblesse de l’ouïé, rassemble et concentre les ondes sonores, ses parois, ébranlées par les vibrations de l’air, vibrent elles-mêmes et renforcent les sons arrivés- du dehors, qui sont ainsi transmis avec une intensité plus grande à la membrane du tympan et à l’oreille interne. Les cornets acoustiques les plus simples sont aussi les meilleurs, et doivent avoir 19 à 22 centimètres de longueur. Les petits cornets acoustiques, ou plutôt les conques auditives artificielles inventées par J. D. Larrey pour être adaptées au pavillon de l’oreille et cachées par les cheveux, ne produisent que très-peu d’effet. Les parois des cornets ordinaires ayant l’inconvénient de causer une sorte de bourdonnement lorsque les sons se succèdent trop rapidement, Itard a tenté d’y remédier en donnant à ces cornets une forme analogue à celle du conduit auditif lui-même : un pavillon évasé communique par un col étroit à une cavité qui s’ouvre dans un conduit spiroïde terminé par le tube destiné à s’adapter au méat auditif; et deux diaphragmes de baudruche, placés, l’un entre le pavillon et la cavité centrale, l’autre entre celle-ci et l’évasement spiroïde, séparent les trois parties principales du cornet.</sense>
       </entry>
       <entry xml:id="cornette">
         <form><orth>Cornette</orth>, s. m.</form>
@@ -42165,13 +42175,13 @@
       </entry>
       <entry xml:id="corniole">
         <form><orth>Corniole</orth>. s. f.</form>
-        <sense n="1">V. <ref target="mâche">Mâche</ref>.</sense>
-        <sense>— vulgairement la trachée, organe du <ref>cornage</ref>. V. ce mot.</sense>
+        <sense n="1">V. <ref target="macre">Macre</ref>.</sense>
+        <sense>— vulgairement la trachée, organe du <ref target="cornage">cornage</ref>. V. ce mot.</sense>
       </entry>
       <entry xml:id="cornix">
         <form><orth>Cornix</orth>, s. f.</form>
         <dictScrap>
-          <foreign xml:lang="lat">corneille</foreign>
+          <ref type="syn">corneille</ref>
         </dictScrap>
         <sense n="1">La voûte à trois piliers.</sense>
       </entry>
@@ -42185,18 +42195,18 @@
           <foreign xml:lang="spa">cornejo</foreign>
         </dictScrap>
         <sense n="1">Arbrisseau de la famille des caprifoliacées hédéracées, indigène, dont les fruits rougeâtres, de la grosseur d’une olive, et contenant -un noyau, sont connus sous le nom de <hi>cornes, cornouilles</hi>; ils ont une saveur aigrelette, et on les dit astringents. L’écorce, regardée comme astringente et fébrifuge, a été proposée comme succédanée du quinquina.</sense>
-        <sense>— <term>Cornouiller sanguin, femelle, sanguignon <hi>ou</hi> sanguine</term> (<hi>Cornus sanguinea</hi>, L.). Les graines donnent une huile employée pour la fabrication du savon et pour l’éclairage.</sense>
+        <sense>— <term>Cornouiller sanguin</term>, <term><ex>cornouiller</ex> femelle</term>, <ref type="syn">sanguignon</ref> <hi>ou</hi> <ref type="syn">sanguine</ref> (<foreign xml:lang="lat">Cornus sanguinea</foreign>, L.). Les graines donnent une huile employée pour la fabrication du savon et pour l’éclairage.</sense>
       </entry>
       <entry xml:id="cornu">
         <form><orth>Cornu</orth>, UE. adj.</form>
         <sense n="1">Se dit du cheval chez lequel la hanche, très-prononcée, forme une forte saillie, défaut dû, soit à une conformation vicieuse, soit à la maigreur.</sense>
-        <sense>== Botan. <hi>Blé cornu</hi>. L’ergot de seigle.</sense>
+        <sense>== Botan. <term>Blé cornu</term>. L’ergot de seigle.</sense>
       </entry>
       <entry xml:id="cornue">
         <form><orth>Cornue</orth>, s. f.</form>
         <dictScrap>
           <foreign xml:lang="lat">retorta</foreign>
-          <foreign xml:lang="deu">Betörte</foreign>
+          <foreign xml:lang="deu">Retorte</foreign>
           <foreign xml:lang="eng">retort</foreign>
           <foreign xml:lang="ita">storta</foreign>
           <foreign xml:lang="spa">retorta</foreign>
@@ -42216,7 +42226,7 @@
         <dictScrap>
           <foreign xml:lang="lat">corollaceus</foreign>
         </dictScrap>
-        <sense n="1">Synonyme de <hi>pétaloide</hi>, c’est-à-dire semblable à une corolle ou à un pétale.</sense>
+        <sense n="1">Synonyme de <ref type="syn">pétaloïde</ref>, c’est-à-dire semblable à une corolle ou à un pétale.</sense>
       </entry>
       <entry xml:id="corollaire">
         <form><orth>Corollaire</orth>, adj.</form>
@@ -42238,7 +42248,7 @@
           <foreign xml:lang="ita">corolla</foreign>
           <foreign xml:lang="spa">corola</foreign>
         </dictScrap>
-        <sense n="1">D’après Linné, on doit donner ce nom à tout périanthe coloré ; cependant les botanistes se sont accordés généralement à n’appeler <hi>corolle</hi> que l’enveloppe interne d’un périanthe double. Richard définit la <hi>corolle</hi> : un organe floral, laminé ou tubulé, simple ou multiple, qui, étant placé en dedans du calice, naît immédiatement en dehors du point ou de la ligne d’insertion des étamines, ouïes porte attachées par leur base à sa paroi interne (V. <ref target="calice">Calice</ref>). Les divisions de la corolle, lorsqu’elles sont parfaitement distinctes et séparées, portent le nom <hi>àe pétales</hi>. . La corolle est dite <hi>monopétale</hi> ou <hi>gamopétale</hi>, quand elle est indivise ; <hi>polypétale</hi> ou <hi>dialypétale</hi>, quand elle est divisée en plusieurs pétales. On distingue, dans une corolle monopétale, le <hi>tube</hi> ou partie inférieure de la corolle, le <hi>limbe</hi> ou sa partie évasée, quelquefois étalée et même réfléchie, et la <hi>gorge</hi>, qui est la partie intermédiaire entre le tube et le limbe. On distingue encore la corolle en <hi>infère</hi> et en <hi>supère</hi>, selon qu’elle a son origine au-dessous ou au-dessus de l’ovaire. La corolle <hi>infère</hi> est aussi appelée <hi>corolle hypogyne;ei</hi> celle qui est <hi>supère, corolle épigyne</hi>. V. <ref target="calice">Calice</ref>, <ref target="fleur">Fleur</ref> et <ref target="périanthe">Périanthe</ref>.</sense>
+        <sense n="1">D’après Linné, on doit donner ce nom à tout périanthe coloré ; cependant les botanistes se sont accordés généralement à n’appeler <hi>corolle</hi> que l’enveloppe interne d’un périanthe double. Richard définit la <hi>corolle</hi> : un organe floral, laminé ou tubulé, simple ou multiple, qui, étant placé en dedans du calice, naît immédiatement en dehors du point ou de la ligne d’insertion des étamines, ouïes porte attachées par leur base à sa paroi interne (V. <ref target="calice">Calice</ref>). Les divisions de la corolle, lorsqu’elles sont parfaitement distinctes et séparées, portent le nom <hi>àe pétales</hi>. . La corolle est dite <term><ex>corolle</ex> monopétale</term> ou <term><ex>corolle</ex> gamopétale</term>, quand elle est indivise ; <term><ex>corolle</ex> polypétale</term> ou <term><ex>corolle</ex> dialypétale</term>, quand elle est divisée en plusieurs pétales. On distingue, dans une corolle monopétale, le <hi>tube</hi> ou partie inférieure de la corolle, le <hi>limbe</hi> ou sa partie évasée, quelquefois étalée et même réfléchie, et la <hi>gorge</hi>, qui est la partie intermédiaire entre le tube et le limbe. On distingue encore la corolle en <hi>infère</hi> et en <hi>supère</hi>, selon qu’elle a son origine au-dessous ou au-dessus de l’ovaire. La corolle <term><ex>corolle</ex> infère</term> est aussi appelée <term>corolle hypogyne</term>; et celle qui est <term><ex>corolle</ex> supère</term>, <term>corolle épigyne</term>. V. <ref target="calice">Calice</ref>, <ref target="fleur">Fleur</ref> et <ref target="périanthe">Périanthe</ref>.</sense>
       </entry>
       <entry xml:id="corollifère">
         <form><orth>Corollifère</orth>. adj.</form>
